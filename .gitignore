@@ -217,5 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-Docs/
-outputs/
+Docs/Reserve(Health claims).csv
+visual_output/

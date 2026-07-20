@@ -233,7 +233,7 @@ def plot_correlation_heatmap(corr: pd.DataFrame, outdir: str) -> None:
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--outdir", default="outputs", help="Directory to write PNG charts to")
+    parser.add_argument("--outdir", default="visual_output", help="Directory to write PNG charts to")
     parser.add_argument("--target", default="Reserve", help="Target column name")
     args = parser.parse_args()
 
