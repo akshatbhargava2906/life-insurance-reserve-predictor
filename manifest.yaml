@@ -8,3 +8,7 @@ applications:
     buildpacks:
       - python_buildpack
     command: gunicorn app.main:app -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:$PORT
+    env:
+      MODEL_PATH: reserve_model.joblib
+    routes:
+      - route: health-reserve-predictor.cfapps.eu10-004.hana.ondemand.com
