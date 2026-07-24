@@ -218,3 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 Docs/Reserve(Health claims).csv
+Cleaned_Data/reserve_cleaned.csv
+claude.md
+eda_outputs/
+visual_output/
