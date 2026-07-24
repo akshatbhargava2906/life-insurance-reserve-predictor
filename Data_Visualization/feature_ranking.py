@@ -5,26 +5,20 @@ from sklearn.inspection import permutation_importance
 from sklearn.feature_selection import mutual_info_regression
 from sklearn.model_selection import train_test_split
 
-INPUT_PATH = "Cleaned_Data/reserve_cleaned.csv"
+INPUT_PATH = "Cleaned_Data/reserve_model_ready.csv"
 
-ORDINAL_FEATURES = ["Age_Band_Code", "Plan_Tier_Code", "Claim_Severity_Code"]
-NUMERIC_FEATURES = ["log_base_reserve", "log_sum_insured", "Policy_Tenure_Years", "Reporting_Lag_Days", "Claims_Per_Policy_Year"]
-NOMINAL_FEATURES = ["Benefit_Category", "Incident_Type", "Occupation", "Region", "Gender", "Smoker_Status", "BMI_Band", "Claim_Status"]
-
+ORDINAL_FEATURES = ["Age_Band_Code", "Claim_Severity_Code", "Plan_Tier_Code"]
+NUMERIC_FEATURES = ["Claims_Per_Policy_Year"]
 TARGET = "log_reserve"
 
 
-def build_tree_feature_matrix(df):
-    X_numeric = df[ORDINAL_FEATURES + NUMERIC_FEATURES].copy()
-    X_dummies = pd.get_dummies(df[NOMINAL_FEATURES], prefix=NOMINAL_FEATURES).astype(int)
-    X = pd.concat([X_numeric, X_dummies], axis=1)
+def get_benefit_columns(df):
+    return [c for c in df.columns if c.startswith("Benefit_Category_")]
 
-    dummy_to_parent = {}
-    for col in NOMINAL_FEATURES:
-        for dummy_col in X_dummies.columns:
-            if dummy_col.startswith(col + "_"):
-                dummy_to_parent[dummy_col] = col
 
+def build_feature_matrix(df, benefit_cols):
+    X = df[ORDINAL_FEATURES + NUMERIC_FEATURES + benefit_cols].copy()
+    dummy_to_parent = {col: "Benefit_Category" for col in benefit_cols}
     return X, dummy_to_parent
 
 
@@ -36,10 +30,11 @@ def collapse_importances(importances, feature_names, dummy_to_parent):
     return pd.Series(scores)
 
 
-def mutual_info_ranking(df):
+def mutual_info_ranking(df, benefit_cols):
     X = df[ORDINAL_FEATURES + NUMERIC_FEATURES].copy()
-    for col in NOMINAL_FEATURES:
-        X[col] = df[col].astype("category").cat.codes
+
+    benefit_category = df[benefit_cols].idxmax(axis=1).str.replace("Benefit_Category_", "", regex=False)
+    X["Benefit_Category"] = benefit_category.astype("category").cat.codes
 
     y = df[TARGET]
     discrete_mask = [col not in NUMERIC_FEATURES for col in X.columns]
@@ -51,7 +46,9 @@ def main():
     df = pd.read_csv(INPUT_PATH)
     y = df[TARGET]
 
-    X, dummy_to_parent = build_tree_feature_matrix(df)
+    benefit_cols = get_benefit_columns(df)
+    X, dummy_to_parent = build_feature_matrix(df, benefit_cols)
+
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
     model = RandomForestRegressor(n_estimators=300, random_state=42, n_jobs=-1)
@@ -67,7 +64,7 @@ def main():
     print("\npermutation importance (test set)")
     print(perm_scores.sort_values(ascending=False))
 
-    mi_scores = mutual_info_ranking(df)
+    mi_scores = mutual_info_ranking(df, benefit_cols)
     print("\nmutual information (label-encoded, no one-hot summing)")
     print(mi_scores.sort_values(ascending=False))
 

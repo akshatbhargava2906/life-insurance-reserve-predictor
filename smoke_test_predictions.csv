@@ -1,0 +1,3457 @@
+Benefit_Category,Age_Band,Claim_Severity,Plan_Tier,Claims_Per_Policy_Year,Predicted_Reserve
+Brain and nervous system,0-18,Minor,Bronze,1,2141.94
+Brain and nervous system,0-18,Minor,Bronze,3,1825.9
+Brain and nervous system,0-18,Minor,Bronze,5,1683.99
+Brain and nervous system,0-18,Minor,Silver,1,3064.45
+Brain and nervous system,0-18,Minor,Silver,3,2613.36
+Brain and nervous system,0-18,Minor,Silver,5,2439.45
+Brain and nervous system,0-18,Minor,Gold,1,5644.75
+Brain and nervous system,0-18,Minor,Gold,3,4809.07
+Brain and nervous system,0-18,Minor,Gold,5,4441.02
+Brain and nervous system,0-18,Moderate,Bronze,1,4115.19
+Brain and nervous system,0-18,Moderate,Bronze,3,3549.04
+Brain and nervous system,0-18,Moderate,Bronze,5,3529.9
+Brain and nervous system,0-18,Moderate,Silver,1,5825.46
+Brain and nervous system,0-18,Moderate,Silver,3,5026.02
+Brain and nervous system,0-18,Moderate,Silver,5,5059.38
+Brain and nervous system,0-18,Moderate,Gold,1,11049.38
+Brain and nervous system,0-18,Moderate,Gold,3,9523.47
+Brain and nervous system,0-18,Moderate,Gold,5,9484.04
+Brain and nervous system,0-18,Severe,Bronze,1,6167.93
+Brain and nervous system,0-18,Severe,Bronze,3,5434.04
+Brain and nervous system,0-18,Severe,Bronze,5,5404.74
+Brain and nervous system,0-18,Severe,Silver,1,8102.31
+Brain and nervous system,0-18,Severe,Silver,3,7208.96
+Brain and nervous system,0-18,Severe,Silver,5,7256.79
+Brain and nervous system,0-18,Severe,Gold,1,16666.46
+Brain and nervous system,0-18,Severe,Gold,3,14813.85
+Brain and nervous system,0-18,Severe,Gold,5,14752.51
+Brain and nervous system,19-30,Minor,Bronze,1,2692.78
+Brain and nervous system,19-30,Minor,Bronze,3,2331.4
+Brain and nervous system,19-30,Minor,Bronze,5,2150.22
+Brain and nervous system,19-30,Minor,Silver,1,3686.03
+Brain and nervous system,19-30,Minor,Silver,3,3192.63
+Brain and nervous system,19-30,Minor,Silver,5,2980.18
+Brain and nervous system,19-30,Minor,Gold,1,6944.21
+Brain and nervous system,19-30,Minor,Gold,3,6008.68
+Brain and nervous system,19-30,Minor,Gold,5,5548.84
+Brain and nervous system,19-30,Moderate,Bronze,1,5119.05
+Brain and nervous system,19-30,Moderate,Bronze,3,4483.84
+Brain and nervous system,19-30,Moderate,Bronze,5,4459.66
+Brain and nervous system,19-30,Moderate,Silver,1,7006.9
+Brain and nervous system,19-30,Moderate,Silver,3,6139.87
+Brain and nervous system,19-30,Moderate,Silver,5,6180.61
+Brain and nervous system,19-30,Moderate,Gold,1,13592.8
+Brain and nervous system,19-30,Moderate,Gold,3,11898.83
+Brain and nervous system,19-30,Moderate,Gold,5,11849.56
+Brain and nervous system,19-30,Severe,Bronze,1,8654.06
+Brain and nervous system,19-30,Severe,Bronze,3,7720.67
+Brain and nervous system,19-30,Severe,Bronze,5,7679.04
+Brain and nervous system,19-30,Severe,Silver,1,10864.15
+Brain and nervous system,19-30,Severe,Silver,3,9788.36
+Brain and nervous system,19-30,Severe,Silver,5,9853.3
+Brain and nervous system,19-30,Severe,Gold,1,20804.33
+Brain and nervous system,19-30,Severe,Gold,3,18725.23
+Brain and nervous system,19-30,Severe,Gold,5,18647.71
+Brain and nervous system,31-40,Minor,Bronze,1,3161.61
+Brain and nervous system,31-40,Minor,Bronze,3,2732.04
+Brain and nervous system,31-40,Minor,Bronze,5,2519.75
+Brain and nervous system,31-40,Minor,Silver,1,4327.72
+Brain and nervous system,31-40,Minor,Silver,3,3741.22
+Brain and nervous system,31-40,Minor,Silver,5,3492.27
+Brain and nervous system,31-40,Minor,Gold,1,8152.95
+Brain and nervous system,31-40,Minor,Gold,3,7040.99
+Brain and nervous system,31-40,Minor,Gold,5,6502.17
+Brain and nervous system,31-40,Moderate,Bronze,1,6046.59
+Brain and nervous system,31-40,Moderate,Bronze,3,5302.13
+Brain and nervous system,31-40,Moderate,Bronze,5,5273.53
+Brain and nervous system,31-40,Moderate,Silver,1,8276.44
+Brain and nervous system,31-40,Moderate,Silver,3,7260.31
+Brain and nervous system,31-40,Moderate,Silver,5,7308.48
+Brain and nervous system,31-40,Moderate,Gold,1,16055.43
+Brain and nervous system,31-40,Moderate,Gold,3,14070.02
+Brain and nervous system,31-40,Moderate,Gold,5,14011.77
+Brain and nervous system,31-40,Severe,Bronze,1,9527.38
+Brain and nervous system,31-40,Severe,Bronze,3,8521.51
+Brain and nervous system,31-40,Severe,Bronze,5,8475.56
+Brain and nervous system,31-40,Severe,Silver,1,11960.48
+Brain and nervous system,31-40,Severe,Silver,3,10803.64
+Brain and nervous system,31-40,Severe,Silver,5,10875.32
+Brain and nervous system,31-40,Severe,Gold,1,22903.64
+Brain and nervous system,31-40,Severe,Gold,3,20667.39
+Brain and nervous system,31-40,Severe,Gold,5,20581.82
+Brain and nervous system,41-50,Minor,Bronze,1,3670.36
+Brain and nervous system,41-50,Minor,Bronze,3,3235.14
+Brain and nervous system,41-50,Minor,Bronze,5,3170.15
+Brain and nervous system,41-50,Minor,Silver,1,4940.17
+Brain and nervous system,41-50,Minor,Silver,3,4356.12
+Brain and nervous system,41-50,Minor,Silver,5,4320.23
+Brain and nervous system,41-50,Minor,Gold,1,9380.5
+Brain and nervous system,41-50,Minor,Gold,3,8263.17
+Brain and nervous system,41-50,Minor,Gold,5,8107.38
+Brain and nervous system,41-50,Moderate,Bronze,1,6143.05
+Brain and nervous system,41-50,Moderate,Bronze,3,5494.46
+Brain and nervous system,41-50,Moderate,Bronze,5,5806.12
+Brain and nervous system,41-50,Moderate,Silver,1,8268.08
+Brain and nervous system,41-50,Moderate,Silver,3,7398.04
+Brain and nervous system,41-50,Moderate,Silver,5,7912.21
+Brain and nervous system,41-50,Moderate,Gold,1,16166.55
+Brain and nervous system,41-50,Moderate,Gold,3,14450.73
+Brain and nervous system,41-50,Moderate,Gold,5,15289.57
+Brain and nervous system,41-50,Severe,Bronze,1,10116.94
+Brain and nervous system,41-50,Severe,Bronze,3,9229.81
+Brain and nervous system,41-50,Severe,Bronze,5,9753.33
+Brain and nervous system,41-50,Severe,Silver,1,12488.54
+Brain and nervous system,41-50,Severe,Silver,3,11506.24
+Brain and nervous system,41-50,Severe,Silver,5,12305.9
+Brain and nervous system,41-50,Severe,Gold,1,24104.66
+Brain and nervous system,41-50,Severe,Gold,3,22186.15
+Brain and nervous system,41-50,Severe,Gold,5,23473.97
+Brain and nervous system,51-60,Minor,Bronze,1,4006.51
+Brain and nervous system,51-60,Minor,Bronze,3,3636.58
+Brain and nervous system,51-60,Minor,Bronze,5,3461.21
+Brain and nervous system,51-60,Minor,Silver,1,5693.22
+Brain and nervous system,51-60,Minor,Silver,3,5169.61
+Brain and nervous system,51-60,Minor,Silver,5,4979.83
+Brain and nervous system,51-60,Minor,Gold,1,10810.27
+Brain and nervous system,51-60,Minor,Gold,3,9806.12
+Brain and nervous system,51-60,Minor,Gold,5,9345.05
+Brain and nervous system,51-60,Moderate,Bronze,1,6472.23
+Brain and nervous system,51-60,Moderate,Bronze,3,5961.22
+Brain and nervous system,51-60,Moderate,Bronze,5,6009.76
+Brain and nervous system,51-60,Moderate,Silver,1,9196.73
+Brain and nervous system,51-60,Moderate,Silver,3,8473.94
+Brain and nervous system,51-60,Moderate,Silver,5,8646.25
+Brain and nervous system,51-60,Moderate,Gold,1,17982.22
+Brain and nervous system,51-60,Moderate,Gold,3,16552.17
+Brain and nervous system,51-60,Moderate,Gold,5,16707.94
+Brain and nervous system,51-60,Severe,Bronze,1,11016.04
+Brain and nervous system,51-60,Severe,Bronze,3,10349.24
+Brain and nervous system,51-60,Severe,Bronze,5,10433.51
+Brain and nervous system,51-60,Severe,Silver,1,14356.42
+Brain and nervous system,51-60,Severe,Silver,3,13620.94
+Brain and nervous system,51-60,Severe,Silver,5,13897.9
+Brain and nervous system,51-60,Severe,Gold,1,27709.78
+Brain and nervous system,51-60,Severe,Gold,3,26263.5
+Brain and nervous system,51-60,Severe,Gold,5,26510.66
+Brain and nervous system,61-70,Minor,Bronze,1,4175.03
+Brain and nervous system,61-70,Minor,Bronze,3,4253.64
+Brain and nervous system,61-70,Minor,Bronze,5,4087.6
+Brain and nervous system,61-70,Minor,Silver,1,5932.67
+Brain and nervous system,61-70,Minor,Silver,3,6046.71
+Brain and nervous system,61-70,Minor,Silver,5,5880.97
+Brain and nervous system,61-70,Minor,Gold,1,13152.92
+Brain and nervous system,61-70,Minor,Gold,3,13392.09
+Brain and nervous system,61-70,Minor,Gold,5,13025.04
+Brain and nervous system,61-70,Moderate,Bronze,1,6443.77
+Brain and nervous system,61-70,Moderate,Bronze,3,6661.78
+Brain and nervous system,61-70,Moderate,Bronze,5,6780.85
+Brain and nervous system,61-70,Moderate,Silver,1,9156.29
+Brain and nervous system,61-70,Moderate,Silver,3,9469.74
+Brain and nervous system,61-70,Moderate,Silver,5,9755.56
+Brain and nervous system,61-70,Moderate,Gold,1,21008.77
+Brain and nervous system,61-70,Moderate,Gold,3,21705.79
+Brain and nervous system,61-70,Moderate,Gold,5,22360.9
+Brain and nervous system,61-70,Severe,Bronze,1,10440.72
+Brain and nervous system,61-70,Severe,Bronze,3,11565.39
+Brain and nervous system,61-70,Severe,Bronze,5,11772.11
+Brain and nervous system,61-70,Severe,Silver,1,13606.66
+Brain and nervous system,61-70,Severe,Silver,3,15221.51
+Brain and nervous system,61-70,Severe,Silver,5,15680.92
+Brain and nervous system,61-70,Severe,Gold,1,30818.33
+Brain and nervous system,61-70,Severe,Gold,3,34440.63
+Brain and nervous system,61-70,Severe,Gold,5,35480.08
+Brain and nervous system,71-80,Minor,Bronze,1,5746.33
+Brain and nervous system,71-80,Minor,Bronze,3,5940.51
+Brain and nervous system,71-80,Minor,Bronze,5,5740.78
+Brain and nervous system,71-80,Minor,Silver,1,7869.7
+Brain and nervous system,71-80,Minor,Silver,3,8138.78
+Brain and nervous system,71-80,Minor,Silver,5,8004.76
+Brain and nervous system,71-80,Minor,Gold,1,14148.82
+Brain and nervous system,71-80,Minor,Gold,3,14617.67
+Brain and nervous system,71-80,Minor,Gold,5,14376.99
+Brain and nervous system,71-80,Moderate,Bronze,1,8835.14
+Brain and nervous system,71-80,Moderate,Bronze,3,9175.5
+Brain and nervous system,71-80,Moderate,Bronze,5,9392.09
+Brain and nervous system,71-80,Moderate,Silver,1,12099.69
+Brain and nervous system,71-80,Moderate,Silver,3,12570.67
+Brain and nervous system,71-80,Moderate,Silver,5,13095.79
+Brain and nervous system,71-80,Moderate,Gold,1,22513.89
+Brain and nervous system,71-80,Moderate,Gold,3,23366.41
+Brain and nervous system,71-80,Moderate,Gold,5,24342.45
+Brain and nervous system,71-80,Severe,Bronze,1,13751.95
+Brain and nervous system,71-80,Severe,Bronze,3,15402.69
+Brain and nervous system,71-80,Severe,Bronze,5,15766.26
+Brain and nervous system,71-80,Severe,Silver,1,17273.08
+Brain and nervous system,71-80,Severe,Silver,3,19537.92
+Brain and nervous system,71-80,Severe,Silver,5,20354.05
+Brain and nervous system,71-80,Severe,Gold,1,31726.81
+Brain and nervous system,71-80,Severe,Gold,3,35850.19
+Brain and nervous system,71-80,Severe,Gold,5,37347.67
+Brain and nervous system,Above 80,Minor,Bronze,1,6119.38
+Brain and nervous system,Above 80,Minor,Bronze,3,6286.01
+Brain and nervous system,Above 80,Minor,Bronze,5,6017.78
+Brain and nervous system,Above 80,Minor,Silver,1,8511.24
+Brain and nervous system,Above 80,Minor,Silver,3,8746.4
+Brain and nervous system,Above 80,Minor,Silver,5,8521.82
+Brain and nervous system,Above 80,Minor,Gold,1,14904.15
+Brain and nervous system,Above 80,Minor,Gold,3,15300.32
+Brain and nervous system,Above 80,Minor,Gold,5,14907.48
+Brain and nervous system,Above 80,Moderate,Bronze,1,9408.68
+Brain and nervous system,Above 80,Moderate,Bronze,3,9709.13
+Brain and nervous system,Above 80,Moderate,Bronze,5,9845.24
+Brain and nervous system,Above 80,Moderate,Silver,1,13086.02
+Brain and nervous system,Above 80,Moderate,Silver,3,13509.13
+Brain and nervous system,Above 80,Moderate,Silver,5,13941.64
+Brain and nervous system,Above 80,Moderate,Gold,1,23715.75
+Brain and nervous system,Above 80,Moderate,Gold,3,24457.6
+Brain and nervous system,Above 80,Moderate,Gold,5,25240.62
+Brain and nervous system,Above 80,Severe,Bronze,1,14046.27
+Brain and nervous system,Above 80,Severe,Bronze,3,15632.51
+Brain and nervous system,Above 80,Severe,Bronze,5,15851.66
+Brain and nervous system,Above 80,Severe,Silver,1,17917.82
+Brain and nervous system,Above 80,Severe,Silver,3,20138.6
+Brain and nervous system,Above 80,Severe,Silver,5,20783.35
+Brain and nervous system,Above 80,Severe,Gold,1,34487.26
+Brain and nervous system,Above 80,Severe,Gold,3,38722.13
+Brain and nervous system,Above 80,Severe,Gold,5,39961.82
+Consultation,0-18,Minor,Bronze,1,11.55
+Consultation,0-18,Minor,Bronze,3,10.76
+Consultation,0-18,Minor,Bronze,5,9.95
+Consultation,0-18,Minor,Silver,1,17.39
+Consultation,0-18,Minor,Silver,3,16.45
+Consultation,0-18,Minor,Silver,5,15.45
+Consultation,0-18,Minor,Gold,1,21.21
+Consultation,0-18,Minor,Gold,3,20.34
+Consultation,0-18,Minor,Gold,5,18.9
+Consultation,0-18,Moderate,Bronze,1,17.39
+Consultation,0-18,Moderate,Bronze,3,16.44
+Consultation,0-18,Moderate,Bronze,5,16.52
+Consultation,0-18,Moderate,Silver,1,25.54
+Consultation,0-18,Moderate,Silver,3,24.48
+Consultation,0-18,Moderate,Silver,5,24.9
+Consultation,0-18,Moderate,Gold,1,34.23
+Consultation,0-18,Moderate,Gold,3,33.24
+Consultation,0-18,Moderate,Gold,5,33.43
+Consultation,0-18,Severe,Bronze,1,28.5
+Consultation,0-18,Severe,Bronze,3,26.01
+Consultation,0-18,Severe,Bronze,5,26.12
+Consultation,0-18,Severe,Silver,1,43.22
+Consultation,0-18,Severe,Silver,3,40.37
+Consultation,0-18,Severe,Silver,5,41.06
+Consultation,0-18,Severe,Gold,1,62.16
+Consultation,0-18,Severe,Gold,3,58.82
+Consultation,0-18,Severe,Gold,5,59.15
+Consultation,19-30,Minor,Bronze,1,14.22
+Consultation,19-30,Minor,Bronze,3,13.49
+Consultation,19-30,Minor,Bronze,5,12.5
+Consultation,19-30,Minor,Silver,1,20.54
+Consultation,19-30,Minor,Silver,3,19.76
+Consultation,19-30,Minor,Silver,5,18.57
+Consultation,19-30,Minor,Gold,1,26.14
+Consultation,19-30,Minor,Gold,3,25.48
+Consultation,19-30,Minor,Gold,5,23.7
+Consultation,19-30,Moderate,Bronze,1,21.08
+Consultation,19-30,Moderate,Bronze,3,20.26
+Consultation,19-30,Moderate,Bronze,5,20.36
+Consultation,19-30,Moderate,Silver,1,30.08
+Consultation,19-30,Moderate,Silver,3,29.3
+Consultation,19-30,Moderate,Silver,5,29.8
+Consultation,19-30,Moderate,Gold,1,42.05
+Consultation,19-30,Moderate,Gold,3,41.49
+Consultation,19-30,Moderate,Gold,5,41.73
+Consultation,19-30,Severe,Bronze,1,38.95
+Consultation,19-30,Severe,Bronze,3,36.03
+Consultation,19-30,Severe,Bronze,5,36.19
+Consultation,19-30,Severe,Silver,1,56.73
+Consultation,19-30,Severe,Silver,3,53.7
+Consultation,19-30,Severe,Silver,5,54.6
+Consultation,19-30,Severe,Gold,1,77.32
+Consultation,19-30,Severe,Gold,3,74.11
+Consultation,19-30,Severe,Gold,5,74.53
+Consultation,31-40,Minor,Bronze,1,16.73
+Consultation,31-40,Minor,Bronze,3,15.85
+Consultation,31-40,Minor,Bronze,5,14.69
+Consultation,31-40,Minor,Silver,1,24.09
+Consultation,31-40,Minor,Silver,3,23.14
+Consultation,31-40,Minor,Silver,5,21.75
+Consultation,31-40,Minor,Gold,1,30.62
+Consultation,31-40,Minor,Gold,3,29.79
+Consultation,31-40,Minor,Gold,5,27.71
+Consultation,31-40,Moderate,Bronze,1,25.17
+Consultation,31-40,Moderate,Bronze,3,24.23
+Consultation,31-40,Moderate,Bronze,5,24.34
+Consultation,31-40,Moderate,Silver,1,35.84
+Consultation,31-40,Moderate,Silver,3,34.96
+Consultation,31-40,Moderate,Silver,5,35.55
+Consultation,31-40,Moderate,Gold,1,50.03
+Consultation,31-40,Moderate,Gold,3,49.42
+Consultation,31-40,Moderate,Gold,5,49.71
+Consultation,31-40,Severe,Bronze,1,43.16
+Consultation,31-40,Severe,Bronze,3,40.04
+Consultation,31-40,Severe,Bronze,5,40.22
+Consultation,31-40,Severe,Silver,1,62.82
+Consultation,31-40,Severe,Silver,3,59.62
+Consultation,31-40,Severe,Silver,5,60.62
+Consultation,31-40,Severe,Gold,1,85.58
+Consultation,31-40,Severe,Gold,3,82.24
+Consultation,31-40,Severe,Gold,5,82.71
+Consultation,41-50,Minor,Bronze,1,20.98
+Consultation,41-50,Minor,Bronze,3,20.11
+Consultation,41-50,Minor,Bronze,5,19.69
+Consultation,41-50,Minor,Silver,1,29.58
+Consultation,41-50,Minor,Silver,3,28.74
+Consultation,41-50,Minor,Silver,5,28.5
+Consultation,41-50,Minor,Gold,1,37.94
+Consultation,41-50,Minor,Gold,3,37.34
+Consultation,41-50,Minor,Gold,5,36.62
+Consultation,41-50,Moderate,Bronze,1,27.83
+Consultation,41-50,Moderate,Bronze,3,27.11
+Consultation,41-50,Moderate,Bronze,5,28.7
+Consultation,41-50,Moderate,Silver,1,38.9
+Consultation,41-50,Moderate,Silver,3,38.39
+Consultation,41-50,Moderate,Silver,5,41.13
+Consultation,41-50,Moderate,Gold,1,54.87
+Consultation,41-50,Moderate,Gold,3,54.82
+Consultation,41-50,Moderate,Gold,5,58.06
+Consultation,41-50,Severe,Bronze,1,51.41
+Consultation,41-50,Severe,Bronze,3,48.25
+Consultation,41-50,Severe,Bronze,5,51.05
+Consultation,41-50,Severe,Silver,1,73.48
+Consultation,41-50,Severe,Silver,3,70.53
+Consultation,41-50,Severe,Silver,5,75.5
+Consultation,41-50,Severe,Gold,1,101.12
+Consultation,41-50,Severe,Gold,3,98.28
+Consultation,41-50,Severe,Gold,5,104.04
+Consultation,51-60,Minor,Bronze,1,25.02
+Consultation,51-60,Minor,Bronze,3,24.0
+Consultation,51-60,Minor,Bronze,5,22.79
+Consultation,51-60,Minor,Silver,1,34.07
+Consultation,51-60,Minor,Silver,3,33.12
+Consultation,51-60,Minor,Silver,5,31.86
+Consultation,51-60,Minor,Gold,1,44.75
+Consultation,51-60,Minor,Gold,3,44.04
+Consultation,51-60,Minor,Gold,5,41.92
+Consultation,51-60,Moderate,Bronze,1,35.53
+Consultation,51-60,Moderate,Bronze,3,34.61
+Consultation,51-60,Moderate,Bronze,5,34.9
+Consultation,51-60,Moderate,Silver,1,48.0
+Consultation,51-60,Moderate,Silver,3,47.36
+Consultation,51-60,Moderate,Silver,5,48.34
+Consultation,51-60,Moderate,Gold,1,69.25
+Consultation,51-60,Moderate,Gold,3,69.18
+Consultation,51-60,Moderate,Gold,5,69.84
+Consultation,51-60,Severe,Bronze,1,65.42
+Consultation,51-60,Severe,Bronze,3,61.41
+Consultation,51-60,Severe,Bronze,5,61.92
+Consultation,51-60,Severe,Silver,1,90.44
+Consultation,51-60,Severe,Silver,3,86.82
+Consultation,51-60,Severe,Silver,5,88.61
+Consultation,51-60,Severe,Gold,1,127.39
+Consultation,51-60,Severe,Gold,3,123.81
+Consultation,51-60,Severe,Gold,5,124.98
+Consultation,61-70,Minor,Bronze,1,29.87
+Consultation,61-70,Minor,Bronze,3,28.88
+Consultation,61-70,Minor,Bronze,5,27.72
+Consultation,61-70,Minor,Silver,1,41.86
+Consultation,61-70,Minor,Silver,3,41.01
+Consultation,61-70,Minor,Silver,5,39.86
+Consultation,61-70,Minor,Gold,1,56.67
+Consultation,61-70,Minor,Gold,3,56.22
+Consultation,61-70,Minor,Gold,5,54.65
+Consultation,61-70,Moderate,Bronze,1,43.25
+Consultation,61-70,Moderate,Bronze,3,42.47
+Consultation,61-70,Moderate,Bronze,5,43.25
+Consultation,61-70,Moderate,Silver,1,60.13
+Consultation,61-70,Moderate,Silver,3,59.8
+Consultation,61-70,Moderate,Silver,5,61.64
+Consultation,61-70,Moderate,Gold,1,89.88
+Consultation,61-70,Moderate,Gold,3,90.49
+Consultation,61-70,Moderate,Gold,5,93.25
+Consultation,61-70,Severe,Bronze,1,75.59
+Consultation,61-70,Severe,Bronze,3,75.18
+Consultation,61-70,Severe,Bronze,5,76.54
+Consultation,61-70,Severe,Silver,1,107.62
+Consultation,61-70,Severe,Silver,3,109.42
+Consultation,61-70,Severe,Silver,5,112.75
+Consultation,61-70,Severe,Gold,1,157.11
+Consultation,61-70,Severe,Gold,3,161.7
+Consultation,61-70,Severe,Gold,5,166.61
+Consultation,71-80,Minor,Bronze,1,37.69
+Consultation,71-80,Minor,Bronze,3,37.01
+Consultation,71-80,Minor,Bronze,5,35.37
+Consultation,71-80,Minor,Silver,1,48.78
+Consultation,71-80,Minor,Silver,3,48.51
+Consultation,71-80,Minor,Silver,5,47.22
+Consultation,71-80,Minor,Gold,1,62.88
+Consultation,71-80,Minor,Gold,3,63.31
+Consultation,71-80,Minor,Gold,5,61.63
+Consultation,71-80,Moderate,Bronze,1,54.27
+Consultation,71-80,Moderate,Bronze,3,53.54
+Consultation,71-80,Moderate,Bronze,5,54.27
+Consultation,71-80,Moderate,Silver,1,69.73
+Consultation,71-80,Moderate,Silver,3,69.67
+Consultation,71-80,Moderate,Silver,5,71.9
+Consultation,71-80,Moderate,Gold,1,99.28
+Consultation,71-80,Moderate,Gold,3,100.41
+Consultation,71-80,Moderate,Gold,5,103.61
+Consultation,71-80,Severe,Bronze,1,95.57
+Consultation,71-80,Severe,Bronze,3,96.12
+Consultation,71-80,Severe,Bronze,5,97.44
+Consultation,71-80,Severe,Silver,1,125.89
+Consultation,71-80,Severe,Silver,3,129.43
+Consultation,71-80,Severe,Silver,5,133.54
+Consultation,71-80,Severe,Gold,1,175.16
+Consultation,71-80,Severe,Gold,3,182.29
+Consultation,71-80,Severe,Gold,5,188.06
+Consultation,Above 80,Minor,Bronze,1,44.46
+Consultation,Above 80,Minor,Bronze,3,42.66
+Consultation,Above 80,Minor,Bronze,5,40.38
+Consultation,Above 80,Minor,Silver,1,58.39
+Consultation,Above 80,Minor,Silver,3,56.75
+Consultation,Above 80,Minor,Silver,5,54.72
+Consultation,Above 80,Minor,Gold,1,73.23
+Consultation,Above 80,Minor,Gold,3,72.06
+Consultation,Above 80,Minor,Gold,5,69.49
+Consultation,Above 80,Moderate,Bronze,1,63.93
+Consultation,Above 80,Moderate,Bronze,3,61.64
+Consultation,Above 80,Moderate,Bronze,5,61.9
+Consultation,Above 80,Moderate,Silver,1,83.4
+Consultation,Above 80,Moderate,Silver,3,81.44
+Consultation,Above 80,Moderate,Silver,5,83.24
+Consultation,Above 80,Moderate,Gold,1,115.53
+Consultation,Above 80,Moderate,Gold,3,114.22
+Consultation,Above 80,Moderate,Gold,5,116.74
+Consultation,Above 80,Severe,Bronze,1,107.82
+Consultation,Above 80,Severe,Bronze,3,106.0
+Consultation,Above 80,Severe,Bronze,5,106.43
+Consultation,Above 80,Severe,Silver,1,144.21
+Consultation,Above 80,Severe,Silver,3,144.94
+Consultation,Above 80,Severe,Silver,5,148.12
+Consultation,Above 80,Severe,Gold,1,210.25
+Consultation,Above 80,Severe,Gold,3,213.89
+Consultation,Above 80,Severe,Gold,5,218.59
+Dental treatment,0-18,Minor,Bronze,1,25.32
+Dental treatment,0-18,Minor,Bronze,3,24.83
+Dental treatment,0-18,Minor,Bronze,5,22.04
+Dental treatment,0-18,Minor,Silver,1,35.65
+Dental treatment,0-18,Minor,Silver,3,34.97
+Dental treatment,0-18,Minor,Silver,5,31.48
+Dental treatment,0-18,Minor,Gold,1,48.77
+Dental treatment,0-18,Minor,Gold,3,47.8
+Dental treatment,0-18,Minor,Gold,5,42.59
+Dental treatment,0-18,Moderate,Bronze,1,40.74
+Dental treatment,0-18,Moderate,Bronze,3,39.4
+Dental treatment,0-18,Moderate,Bronze,5,37.75
+Dental treatment,0-18,Moderate,Silver,1,56.5
+Dental treatment,0-18,Moderate,Silver,3,54.69
+Dental treatment,0-18,Moderate,Silver,5,53.06
+Dental treatment,0-18,Moderate,Gold,1,79.42
+Dental treatment,0-18,Moderate,Gold,3,76.8
+Dental treatment,0-18,Moderate,Gold,5,73.71
+Dental treatment,0-18,Severe,Bronze,1,74.24
+Dental treatment,0-18,Severe,Bronze,3,72.92
+Dental treatment,0-18,Severe,Bronze,5,69.9
+Dental treatment,0-18,Severe,Silver,1,95.2
+Dental treatment,0-18,Severe,Silver,3,94.45
+Dental treatment,0-18,Severe,Silver,5,91.66
+Dental treatment,0-18,Severe,Gold,1,144.91
+Dental treatment,0-18,Severe,Gold,3,143.62
+Dental treatment,0-18,Severe,Gold,5,137.88
+Dental treatment,19-30,Minor,Bronze,1,33.42
+Dental treatment,19-30,Minor,Bronze,3,33.11
+Dental treatment,19-30,Minor,Bronze,5,29.43
+Dental treatment,19-30,Minor,Silver,1,45.4
+Dental treatment,19-30,Minor,Silver,3,45.0
+Dental treatment,19-30,Minor,Silver,5,40.54
+Dental treatment,19-30,Minor,Gold,1,63.45
+Dental treatment,19-30,Minor,Gold,3,62.83
+Dental treatment,19-30,Minor,Gold,5,56.01
+Dental treatment,19-30,Moderate,Bronze,1,53.01
+Dental treatment,19-30,Moderate,Bronze,3,51.81
+Dental treatment,19-30,Moderate,Bronze,5,49.65
+Dental treatment,19-30,Moderate,Silver,1,71.81
+Dental treatment,19-30,Moderate,Silver,3,70.21
+Dental treatment,19-30,Moderate,Silver,5,68.13
+Dental treatment,19-30,Moderate,Gold,1,103.13
+Dental treatment,19-30,Moderate,Gold,3,100.75
+Dental treatment,19-30,Moderate,Gold,5,96.71
+Dental treatment,19-30,Severe,Bronze,1,105.41
+Dental treatment,19-30,Severe,Bronze,3,104.27
+Dental treatment,19-30,Severe,Bronze,5,99.97
+Dental treatment,19-30,Severe,Silver,1,130.55
+Dental treatment,19-30,Severe,Silver,3,130.44
+Dental treatment,19-30,Severe,Silver,5,126.59
+Dental treatment,19-30,Severe,Gold,1,184.74
+Dental treatment,19-30,Severe,Gold,3,184.4
+Dental treatment,19-30,Severe,Gold,5,177.04
+Dental treatment,31-40,Minor,Bronze,1,38.56
+Dental treatment,31-40,Minor,Bronze,3,38.12
+Dental treatment,31-40,Minor,Bronze,5,33.9
+Dental treatment,31-40,Minor,Silver,1,52.32
+Dental treatment,31-40,Minor,Silver,3,51.76
+Dental treatment,31-40,Minor,Silver,5,46.64
+Dental treatment,31-40,Minor,Gold,1,73.06
+Dental treatment,31-40,Minor,Gold,3,72.2
+Dental treatment,31-40,Minor,Gold,5,64.39
+Dental treatment,31-40,Moderate,Bronze,1,60.88
+Dental treatment,31-40,Moderate,Bronze,3,59.57
+Dental treatment,31-40,Moderate,Bronze,5,57.09
+Dental treatment,31-40,Moderate,Silver,1,82.41
+Dental treatment,31-40,Moderate,Silver,3,80.67
+Dental treatment,31-40,Moderate,Silver,5,78.28
+Dental treatment,31-40,Moderate,Gold,1,118.3
+Dental treatment,31-40,Moderate,Gold,3,115.7
+Dental treatment,31-40,Moderate,Gold,5,111.07
+Dental treatment,31-40,Severe,Bronze,1,112.69
+Dental treatment,31-40,Severe,Bronze,3,111.77
+Dental treatment,31-40,Severe,Bronze,5,107.16
+Dental treatment,31-40,Severe,Silver,1,139.56
+Dental treatment,31-40,Severe,Silver,3,139.8
+Dental treatment,31-40,Severe,Silver,5,135.67
+Dental treatment,31-40,Severe,Gold,1,197.46
+Dental treatment,31-40,Severe,Gold,3,197.59
+Dental treatment,31-40,Severe,Gold,5,189.71
+Dental treatment,41-50,Minor,Bronze,1,43.82
+Dental treatment,41-50,Minor,Bronze,3,43.6
+Dental treatment,41-50,Minor,Bronze,5,41.27
+Dental treatment,41-50,Minor,Silver,1,58.41
+Dental treatment,41-50,Minor,Silver,3,58.14
+Dental treatment,41-50,Minor,Silver,5,55.73
+Dental treatment,41-50,Minor,Gold,1,82.17
+Dental treatment,41-50,Minor,Gold,3,81.71
+Dental treatment,41-50,Minor,Gold,5,77.49
+Dental treatment,41-50,Moderate,Bronze,1,63.33
+Dental treatment,41-50,Moderate,Bronze,3,62.35
+Dental treatment,41-50,Moderate,Bronze,5,63.56
+Dental treatment,41-50,Moderate,Silver,1,84.27
+Dental treatment,41-50,Moderate,Silver,3,83.01
+Dental treatment,41-50,Moderate,Silver,5,85.64
+Dental treatment,41-50,Moderate,Gold,1,121.93
+Dental treatment,41-50,Moderate,Gold,3,119.98
+Dental treatment,41-50,Moderate,Gold,5,122.44
+Dental treatment,41-50,Severe,Bronze,1,122.55
+Dental treatment,41-50,Severe,Bronze,3,122.29
+Dental treatment,41-50,Severe,Bronze,5,124.64
+Dental treatment,41-50,Severe,Silver,1,149.2
+Dental treatment,41-50,Severe,Silver,3,150.37
+Dental treatment,41-50,Severe,Silver,5,155.11
+Dental treatment,41-50,Severe,Gold,1,212.76
+Dental treatment,41-50,Severe,Gold,3,214.2
+Dental treatment,41-50,Severe,Gold,5,218.56
+Dental treatment,51-60,Minor,Bronze,1,49.41
+Dental treatment,51-60,Minor,Bronze,3,49.16
+Dental treatment,51-60,Minor,Bronze,5,45.44
+Dental treatment,51-60,Minor,Silver,1,68.75
+Dental treatment,51-60,Minor,Silver,3,68.42
+Dental treatment,51-60,Minor,Silver,5,64.05
+Dental treatment,51-60,Minor,Gold,1,96.64
+Dental treatment,51-60,Minor,Gold,3,96.09
+Dental treatment,51-60,Minor,Gold,5,89.0
+Dental treatment,51-60,Moderate,Bronze,1,76.44
+Dental treatment,51-60,Moderate,Bronze,3,75.26
+Dental treatment,51-60,Moderate,Bronze,5,73.55
+Dental treatment,51-60,Moderate,Silver,1,106.15
+Dental treatment,51-60,Moderate,Silver,3,104.55
+Dental treatment,51-60,Moderate,Silver,5,103.43
+Dental treatment,51-60,Moderate,Gold,1,153.47
+Dental treatment,51-60,Moderate,Gold,3,151.01
+Dental treatment,51-60,Moderate,Gold,5,147.79
+Dental treatment,51-60,Severe,Bronze,1,147.73
+Dental treatment,51-60,Severe,Bronze,3,147.41
+Dental treatment,51-60,Severe,Bronze,5,144.08
+Dental treatment,51-60,Severe,Silver,1,187.73
+Dental treatment,51-60,Severe,Silver,3,189.18
+Dental treatment,51-60,Severe,Silver,5,187.17
+Dental treatment,51-60,Severe,Gold,1,267.59
+Dental treatment,51-60,Severe,Gold,3,269.38
+Dental treatment,51-60,Severe,Gold,5,263.65
+Dental treatment,61-70,Minor,Bronze,1,62.11
+Dental treatment,61-70,Minor,Bronze,3,62.27
+Dental treatment,61-70,Minor,Bronze,5,58.14
+Dental treatment,61-70,Minor,Silver,1,86.22
+Dental treatment,61-70,Minor,Silver,3,86.48
+Dental treatment,61-70,Minor,Silver,5,81.76
+Dental treatment,61-70,Minor,Gold,1,123.47
+Dental treatment,61-70,Minor,Gold,3,123.72
+Dental treatment,61-70,Minor,Gold,5,116.99
+Dental treatment,61-70,Moderate,Bronze,1,95.35
+Dental treatment,61-70,Moderate,Bronze,3,94.6
+Dental treatment,61-70,Moderate,Bronze,5,93.37
+Dental treatment,61-70,Moderate,Silver,1,132.15
+Dental treatment,61-70,Moderate,Silver,3,131.18
+Dental treatment,61-70,Moderate,Silver,5,131.04
+Dental treatment,61-70,Moderate,Gold,1,195.67
+Dental treatment,61-70,Moderate,Gold,3,194.03
+Dental treatment,61-70,Moderate,Gold,5,193.83
+Dental treatment,61-70,Severe,Bronze,1,175.15
+Dental treatment,61-70,Severe,Bronze,3,185.06
+Dental treatment,61-70,Severe,Bronze,5,182.64
+Dental treatment,61-70,Severe,Silver,1,222.28
+Dental treatment,61-70,Severe,Silver,3,237.17
+Dental treatment,61-70,Severe,Silver,5,236.92
+Dental treatment,61-70,Severe,Gold,1,324.54
+Dental treatment,61-70,Severe,Gold,3,345.9
+Dental treatment,61-70,Severe,Gold,5,345.55
+Dental treatment,71-80,Minor,Bronze,1,77.79
+Dental treatment,71-80,Minor,Bronze,3,79.16
+Dental treatment,71-80,Minor,Bronze,5,77.03
+Dental treatment,71-80,Minor,Silver,1,104.65
+Dental treatment,71-80,Minor,Silver,3,106.53
+Dental treatment,71-80,Minor,Silver,5,105.53
+Dental treatment,71-80,Minor,Gold,1,144.44
+Dental treatment,71-80,Minor,Gold,3,146.87
+Dental treatment,71-80,Minor,Gold,5,145.5
+Dental treatment,71-80,Moderate,Bronze,1,118.84
+Dental treatment,71-80,Moderate,Bronze,3,118.46
+Dental treatment,71-80,Moderate,Bronze,5,121.79
+Dental treatment,71-80,Moderate,Silver,1,159.69
+Dental treatment,71-80,Moderate,Silver,3,159.24
+Dental treatment,71-80,Moderate,Silver,5,166.63
+Dental treatment,71-80,Moderate,Gold,1,227.94
+Dental treatment,71-80,Moderate,Gold,3,227.06
+Dental treatment,71-80,Moderate,Gold,5,237.59
+Dental treatment,71-80,Severe,Bronze,1,216.41
+Dental treatment,71-80,Severe,Bronze,3,231.19
+Dental treatment,71-80,Severe,Bronze,5,237.67
+Dental treatment,71-80,Severe,Silver,1,266.37
+Dental treatment,71-80,Severe,Silver,3,287.37
+Dental treatment,71-80,Severe,Silver,5,300.68
+Dental treatment,71-80,Severe,Gold,1,375.03
+Dental treatment,71-80,Severe,Gold,3,404.17
+Dental treatment,71-80,Severe,Gold,5,422.86
+Dental treatment,Above 80,Minor,Bronze,1,94.74
+Dental treatment,Above 80,Minor,Bronze,3,94.23
+Dental treatment,Above 80,Minor,Bronze,5,90.83
+Dental treatment,Above 80,Minor,Silver,1,129.37
+Dental treatment,Above 80,Minor,Silver,3,128.73
+Dental treatment,Above 80,Minor,Silver,5,126.32
+Dental treatment,Above 80,Minor,Gold,1,173.81
+Dental treatment,Above 80,Minor,Gold,3,172.76
+Dental treatment,Above 80,Minor,Gold,5,169.54
+Dental treatment,Above 80,Moderate,Bronze,1,144.62
+Dental treatment,Above 80,Moderate,Bronze,3,140.91
+Dental treatment,Above 80,Moderate,Bronze,5,143.5
+Dental treatment,Above 80,Moderate,Silver,1,197.29
+Dental treatment,Above 80,Moderate,Silver,3,192.32
+Dental treatment,Above 80,Moderate,Silver,5,199.35
+Dental treatment,Above 80,Moderate,Gold,1,274.17
+Dental treatment,Above 80,Moderate,Gold,3,266.99
+Dental treatment,Above 80,Moderate,Gold,5,276.73
+Dental treatment,Above 80,Severe,Bronze,1,252.37
+Dental treatment,Above 80,Severe,Bronze,3,263.56
+Dental treatment,Above 80,Severe,Bronze,5,268.4
+Dental treatment,Above 80,Severe,Silver,1,315.45
+Dental treatment,Above 80,Severe,Silver,3,332.7
+Dental treatment,Above 80,Severe,Silver,5,344.83
+Dental treatment,Above 80,Severe,Gold,1,465.38
+Dental treatment,Above 80,Severe,Gold,3,490.3
+Dental treatment,Above 80,Severe,Gold,5,508.16
+Electroencephalograph,0-18,Minor,Bronze,1,34.08
+Electroencephalograph,0-18,Minor,Bronze,3,33.89
+Electroencephalograph,0-18,Minor,Bronze,5,30.48
+Electroencephalograph,0-18,Minor,Silver,1,49.22
+Electroencephalograph,0-18,Minor,Silver,3,48.96
+Electroencephalograph,0-18,Minor,Silver,5,44.83
+Electroencephalograph,0-18,Minor,Gold,1,63.57
+Electroencephalograph,0-18,Minor,Gold,3,63.17
+Electroencephalograph,0-18,Minor,Gold,5,57.24
+Electroencephalograph,0-18,Moderate,Bronze,1,55.57
+Electroencephalograph,0-18,Moderate,Bronze,3,55.92
+Electroencephalograph,0-18,Moderate,Bronze,5,54.38
+Electroencephalograph,0-18,Moderate,Silver,1,79.12
+Electroencephalograph,0-18,Moderate,Silver,3,79.65
+Electroencephalograph,0-18,Moderate,Silver,5,78.78
+Electroencephalograph,0-18,Moderate,Gold,1,99.04
+Electroencephalograph,0-18,Moderate,Gold,3,99.59
+Electroencephalograph,0-18,Moderate,Gold,5,97.44
+Electroencephalograph,0-18,Severe,Bronze,1,88.16
+Electroencephalograph,0-18,Severe,Bronze,3,90.44
+Electroencephalograph,0-18,Severe,Bronze,5,87.97
+Electroencephalograph,0-18,Severe,Silver,1,116.19
+Electroencephalograph,0-18,Severe,Silver,3,120.37
+Electroencephalograph,0-18,Severe,Silver,5,119.07
+Electroencephalograph,0-18,Severe,Gold,1,157.68
+Electroencephalograph,0-18,Severe,Gold,3,163.18
+Electroencephalograph,0-18,Severe,Gold,5,159.68
+Electroencephalograph,19-30,Minor,Bronze,1,44.17
+Electroencephalograph,19-30,Minor,Bronze,3,44.63
+Electroencephalograph,19-30,Minor,Bronze,5,40.17
+Electroencephalograph,19-30,Minor,Silver,1,60.87
+Electroencephalograph,19-30,Minor,Silver,3,61.52
+Electroencephalograph,19-30,Minor,Silver,5,56.35
+Electroencephalograph,19-30,Minor,Gold,1,81.27
+Electroencephalograph,19-30,Minor,Gold,3,82.05
+Electroencephalograph,19-30,Minor,Gold,5,74.37
+Electroencephalograph,19-30,Moderate,Bronze,1,71.08
+Electroencephalograph,19-30,Moderate,Bronze,3,72.65
+Electroencephalograph,19-30,Moderate,Bronze,5,70.67
+Electroencephalograph,19-30,Moderate,Silver,1,97.72
+Electroencephalograph,19-30,Moderate,Silver,3,99.92
+Electroencephalograph,19-30,Moderate,Silver,5,98.83
+Electroencephalograph,19-30,Moderate,Gold,1,126.47
+Electroencephalograph,19-30,Moderate,Gold,3,129.17
+Electroencephalograph,19-30,Moderate,Gold,5,126.39
+Electroencephalograph,19-30,Severe,Bronze,1,127.13
+Electroencephalograph,19-30,Severe,Bronze,3,132.07
+Electroencephalograph,19-30,Severe,Bronze,5,128.48
+Electroencephalograph,19-30,Severe,Silver,1,159.96
+Electroencephalograph,19-30,Severe,Silver,3,167.81
+Electroencephalograph,19-30,Severe,Silver,5,165.99
+Electroencephalograph,19-30,Severe,Gold,1,204.17
+Electroencephalograph,19-30,Severe,Gold,3,213.95
+Electroencephalograph,19-30,Severe,Gold,5,209.36
+Electroencephalograph,31-40,Minor,Bronze,1,46.34
+Electroencephalograph,31-40,Minor,Bronze,3,46.14
+Electroencephalograph,31-40,Minor,Bronze,5,41.53
+Electroencephalograph,31-40,Minor,Silver,1,65.65
+Electroencephalograph,31-40,Minor,Silver,3,65.38
+Electroencephalograph,31-40,Minor,Silver,5,59.89
+Electroencephalograph,31-40,Minor,Gold,1,88.45
+Electroencephalograph,31-40,Minor,Gold,3,88.0
+Electroencephalograph,31-40,Minor,Gold,5,79.77
+Electroencephalograph,31-40,Moderate,Bronze,1,74.31
+Electroencephalograph,31-40,Moderate,Bronze,3,75.08
+Electroencephalograph,31-40,Moderate,Bronze,5,73.03
+Electroencephalograph,31-40,Moderate,Silver,1,105.02
+Electroencephalograph,31-40,Moderate,Silver,3,106.14
+Electroencephalograph,31-40,Moderate,Silver,5,104.99
+Electroencephalograph,31-40,Moderate,Gold,1,137.17
+Electroencephalograph,31-40,Moderate,Gold,3,138.5
+Electroencephalograph,31-40,Moderate,Gold,5,135.52
+Electroencephalograph,31-40,Severe,Bronze,1,119.48
+Electroencephalograph,31-40,Severe,Bronze,3,122.88
+Electroencephalograph,31-40,Severe,Bronze,5,119.53
+Electroencephalograph,31-40,Severe,Silver,1,154.55
+Electroencephalograph,31-40,Severe,Silver,3,160.52
+Electroencephalograph,31-40,Severe,Silver,5,158.78
+Electroencephalograph,31-40,Severe,Gold,1,199.13
+Electroencephalograph,31-40,Severe,Gold,3,206.6
+Electroencephalograph,31-40,Severe,Gold,5,202.16
+Electroencephalograph,41-50,Minor,Bronze,1,58.95
+Electroencephalograph,41-50,Minor,Bronze,3,59.05
+Electroencephalograph,41-50,Minor,Bronze,5,56.56
+Electroencephalograph,41-50,Minor,Silver,1,80.86
+Electroencephalograph,41-50,Minor,Silver,3,81.03
+Electroencephalograph,41-50,Minor,Silver,5,78.95
+Electroencephalograph,41-50,Minor,Gold,1,109.74
+Electroencephalograph,41-50,Minor,Gold,3,109.85
+Electroencephalograph,41-50,Minor,Gold,5,105.88
+Electroencephalograph,41-50,Moderate,Bronze,1,89.69
+Electroencephalograph,41-50,Moderate,Bronze,3,91.17
+Electroencephalograph,41-50,Moderate,Bronze,5,94.29
+Electroencephalograph,41-50,Moderate,Silver,1,122.84
+Electroencephalograph,41-50,Moderate,Silver,3,124.91
+Electroencephalograph,41-50,Moderate,Silver,5,131.34
+Electroencephalograph,41-50,Moderate,Gold,1,161.68
+Electroencephalograph,41-50,Moderate,Gold,3,164.24
+Electroencephalograph,41-50,Moderate,Gold,5,170.81
+Electroencephalograph,41-50,Severe,Bronze,1,161.15
+Electroencephalograph,41-50,Severe,Bronze,3,166.73
+Electroencephalograph,41-50,Severe,Bronze,5,172.39
+Electroencephalograph,41-50,Severe,Silver,1,202.08
+Electroencephalograph,41-50,Severe,Silver,3,211.15
+Electroencephalograph,41-50,Severe,Silver,5,221.97
+Electroencephalograph,41-50,Severe,Gold,1,262.35
+Electroencephalograph,41-50,Severe,Gold,3,273.83
+Electroencephalograph,41-50,Severe,Gold,5,284.76
+Electroencephalograph,51-60,Minor,Bronze,1,72.12
+Electroencephalograph,51-60,Minor,Bronze,3,71.89
+Electroencephalograph,51-60,Minor,Bronze,5,66.87
+Electroencephalograph,51-60,Minor,Silver,1,105.57
+Electroencephalograph,51-60,Minor,Silver,3,105.27
+Electroencephalograph,51-60,Minor,Silver,5,99.6
+Electroencephalograph,51-60,Minor,Gold,1,143.17
+Electroencephalograph,51-60,Minor,Gold,3,142.62
+Electroencephalograph,51-60,Minor,Gold,5,133.5
+Electroencephalograph,51-60,Moderate,Bronze,1,109.78
+Electroencephalograph,51-60,Moderate,Bronze,3,111.06
+Electroencephalograph,51-60,Moderate,Bronze,5,109.51
+Electroencephalograph,51-60,Moderate,Silver,1,160.46
+Electroencephalograph,51-60,Moderate,Silver,3,162.37
+Electroencephalograph,51-60,Moderate,Silver,5,162.81
+Electroencephalograph,51-60,Moderate,Gold,1,211.1
+Electroencephalograph,51-60,Moderate,Gold,3,213.4
+Electroencephalograph,51-60,Moderate,Gold,5,211.68
+Electroencephalograph,51-60,Severe,Bronze,1,234.47
+Electroencephalograph,51-60,Severe,Bronze,3,241.41
+Electroencephalograph,51-60,Severe,Bronze,5,238.07
+Electroencephalograph,51-60,Severe,Silver,1,313.76
+Electroencephalograph,51-60,Severe,Silver,3,326.24
+Electroencephalograph,51-60,Severe,Silver,5,327.12
+Electroencephalograph,51-60,Severe,Gold,1,407.17
+Electroencephalograph,51-60,Severe,Gold,3,422.92
+Electroencephalograph,51-60,Severe,Gold,5,419.52
+Electroencephalograph,61-70,Minor,Bronze,1,80.44
+Electroencephalograph,61-70,Minor,Bronze,3,80.8
+Electroencephalograph,61-70,Minor,Bronze,5,75.48
+Electroencephalograph,61-70,Minor,Silver,1,117.56
+Electroencephalograph,61-70,Minor,Silver,3,118.14
+Electroencephalograph,61-70,Minor,Silver,5,112.25
+Electroencephalograph,61-70,Minor,Gold,1,163.86
+Electroencephalograph,61-70,Minor,Gold,3,164.5
+Electroencephalograph,61-70,Minor,Gold,5,156.32
+Electroencephalograph,61-70,Moderate,Bronze,1,121.61
+Electroencephalograph,61-70,Moderate,Bronze,3,123.98
+Electroencephalograph,61-70,Moderate,Bronze,5,122.77
+Electroencephalograph,61-70,Moderate,Silver,1,177.5
+Electroencephalograph,61-70,Moderate,Silver,3,181.02
+Electroencephalograph,61-70,Moderate,Silver,5,182.26
+Electroencephalograph,61-70,Moderate,Gold,1,241.25
+Electroencephalograph,61-70,Moderate,Gold,3,245.78
+Electroencephalograph,61-70,Moderate,Gold,5,247.46
+Electroencephalograph,61-70,Severe,Bronze,1,247.1
+Electroencephalograph,61-70,Severe,Bronze,3,269.37
+Electroencephalograph,61-70,Severe,Bronze,5,266.75
+Electroencephalograph,61-70,Severe,Silver,1,330.27
+Electroencephalograph,61-70,Severe,Silver,3,363.58
+Electroencephalograph,61-70,Severe,Silver,5,366.07
+Electroencephalograph,61-70,Severe,Gold,1,442.81
+Electroencephalograph,61-70,Severe,Gold,3,486.94
+Electroencephalograph,61-70,Severe,Gold,5,490.27
+Electroencephalograph,71-80,Minor,Bronze,1,107.16
+Electroencephalograph,71-80,Minor,Bronze,3,109.25
+Electroencephalograph,71-80,Minor,Bronze,5,102.65
+Electroencephalograph,71-80,Minor,Silver,1,150.76
+Electroencephalograph,71-80,Minor,Silver,3,153.75
+Electroencephalograph,71-80,Minor,Silver,5,147.75
+Electroencephalograph,71-80,Minor,Gold,1,206.98
+Electroencephalograph,71-80,Minor,Gold,3,210.85
+Electroencephalograph,71-80,Minor,Gold,5,202.64
+Electroencephalograph,71-80,Moderate,Bronze,1,161.23
+Electroencephalograph,71-80,Moderate,Bronze,3,165.12
+Electroencephalograph,71-80,Moderate,Bronze,5,164.43
+Electroencephalograph,71-80,Moderate,Silver,1,226.64
+Electroencephalograph,71-80,Moderate,Silver,3,232.17
+Electroencephalograph,71-80,Moderate,Silver,5,236.41
+Electroencephalograph,71-80,Moderate,Gold,1,303.45
+Electroencephalograph,71-80,Moderate,Gold,3,310.54
+Electroencephalograph,71-80,Moderate,Gold,5,316.19
+Electroencephalograph,71-80,Severe,Bronze,1,330.44
+Electroencephalograph,71-80,Severe,Bronze,3,364.21
+Electroencephalograph,71-80,Severe,Bronze,5,362.7
+Electroencephalograph,71-80,Severe,Silver,1,425.53
+Electroencephalograph,71-80,Severe,Silver,3,473.64
+Electroencephalograph,71-80,Severe,Silver,5,482.25
+Electroencephalograph,71-80,Severe,Gold,1,562.14
+Electroencephalograph,71-80,Severe,Gold,3,625.01
+Electroencephalograph,71-80,Severe,Gold,5,636.37
+Electroencephalograph,Above 80,Minor,Bronze,1,142.34
+Electroencephalograph,Above 80,Minor,Bronze,3,141.84
+Electroencephalograph,Above 80,Minor,Bronze,5,132.04
+Electroencephalograph,Above 80,Minor,Silver,1,204.9
+Electroencephalograph,Above 80,Minor,Silver,3,204.26
+Electroencephalograph,Above 80,Minor,Silver,5,194.46
+Electroencephalograph,Above 80,Minor,Gold,1,273.82
+Electroencephalograph,Above 80,Minor,Gold,3,272.69
+Electroencephalograph,Above 80,Minor,Gold,5,259.62
+Electroencephalograph,Above 80,Moderate,Bronze,1,208.81
+Electroencephalograph,Above 80,Moderate,Bronze,3,209.03
+Electroencephalograph,Above 80,Moderate,Bronze,5,206.21
+Electroencephalograph,Above 80,Moderate,Silver,1,300.37
+Electroencephalograph,Above 80,Moderate,Silver,3,300.82
+Electroencephalograph,Above 80,Moderate,Silver,5,303.42
+Electroencephalograph,Above 80,Moderate,Gold,1,391.59
+Electroencephalograph,Above 80,Moderate,Gold,3,391.77
+Electroencephalograph,Above 80,Moderate,Gold,5,395.15
+Electroencephalograph,Above 80,Severe,Bronze,1,410.12
+Electroencephalograph,Above 80,Severe,Bronze,3,441.89
+Electroencephalograph,Above 80,Severe,Bronze,5,435.94
+Electroencephalograph,Above 80,Severe,Silver,1,540.63
+Electroencephalograph,Above 80,Severe,Silver,3,588.27
+Electroencephalograph,Above 80,Severe,Silver,5,593.35
+Electroencephalograph,Above 80,Severe,Gold,1,748.34
+Electroencephalograph,Above 80,Severe,Gold,3,813.42
+Electroencephalograph,Above 80,Severe,Gold,5,820.44
+Hospital Miscellaneous Expenses,0-18,Minor,Bronze,1,320.26
+Hospital Miscellaneous Expenses,0-18,Minor,Bronze,3,339.91
+Hospital Miscellaneous Expenses,0-18,Minor,Bronze,5,311.77
+Hospital Miscellaneous Expenses,0-18,Minor,Silver,1,513.39
+Hospital Miscellaneous Expenses,0-18,Minor,Silver,3,545.07
+Hospital Miscellaneous Expenses,0-18,Minor,Silver,5,506.06
+Hospital Miscellaneous Expenses,0-18,Minor,Gold,1,657.55
+Hospital Miscellaneous Expenses,0-18,Minor,Gold,3,697.39
+Hospital Miscellaneous Expenses,0-18,Minor,Gold,5,640.56
+Hospital Miscellaneous Expenses,0-18,Moderate,Bronze,1,455.22
+Hospital Miscellaneous Expenses,0-18,Moderate,Bronze,3,488.77
+Hospital Miscellaneous Expenses,0-18,Moderate,Bronze,5,483.56
+Hospital Miscellaneous Expenses,0-18,Moderate,Silver,1,742.58
+Hospital Miscellaneous Expenses,0-18,Moderate,Silver,3,797.57
+Hospital Miscellaneous Expenses,0-18,Moderate,Silver,5,798.64
+Hospital Miscellaneous Expenses,0-18,Moderate,Gold,1,979.32
+Hospital Miscellaneous Expenses,0-18,Moderate,Gold,3,1050.75
+Hospital Miscellaneous Expenses,0-18,Moderate,Gold,5,1040.89
+Hospital Miscellaneous Expenses,0-18,Severe,Bronze,1,782.87
+Hospital Miscellaneous Expenses,0-18,Severe,Bronze,3,839.34
+Hospital Miscellaneous Expenses,0-18,Severe,Bronze,5,830.41
+Hospital Miscellaneous Expenses,0-18,Severe,Silver,1,1184.61
+Hospital Miscellaneous Expenses,0-18,Severe,Silver,3,1282.59
+Hospital Miscellaneous Expenses,0-18,Severe,Silver,5,1284.32
+Hospital Miscellaneous Expenses,0-18,Severe,Gold,1,1668.14
+Hospital Miscellaneous Expenses,0-18,Severe,Gold,3,1804.25
+Hospital Miscellaneous Expenses,0-18,Severe,Gold,5,1787.33
+Hospital Miscellaneous Expenses,19-30,Minor,Bronze,1,402.84
+Hospital Miscellaneous Expenses,19-30,Minor,Bronze,3,434.24
+Hospital Miscellaneous Expenses,19-30,Minor,Bronze,5,398.32
+Hospital Miscellaneous Expenses,19-30,Minor,Silver,1,617.69
+Hospital Miscellaneous Expenses,19-30,Minor,Silver,3,666.06
+Hospital Miscellaneous Expenses,19-30,Minor,Silver,5,618.41
+Hospital Miscellaneous Expenses,19-30,Minor,Gold,1,809.13
+Hospital Miscellaneous Expenses,19-30,Minor,Gold,3,871.57
+Hospital Miscellaneous Expenses,19-30,Minor,Gold,5,800.57
+Hospital Miscellaneous Expenses,19-30,Moderate,Bronze,1,566.48
+Hospital Miscellaneous Expenses,19-30,Moderate,Bronze,3,617.73
+Hospital Miscellaneous Expenses,19-30,Moderate,Bronze,5,611.16
+Hospital Miscellaneous Expenses,19-30,Moderate,Silver,1,893.35
+Hospital Miscellaneous Expenses,19-30,Moderate,Silver,3,974.51
+Hospital Miscellaneous Expenses,19-30,Moderate,Silver,5,975.82
+Hospital Miscellaneous Expenses,19-30,Moderate,Gold,1,1204.96
+Hospital Miscellaneous Expenses,19-30,Moderate,Gold,3,1313.05
+Hospital Miscellaneous Expenses,19-30,Moderate,Gold,5,1300.73
+Hospital Miscellaneous Expenses,19-30,Severe,Bronze,1,1098.77
+Hospital Miscellaneous Expenses,19-30,Severe,Bronze,3,1192.88
+Hospital Miscellaneous Expenses,19-30,Severe,Bronze,5,1180.2
+Hospital Miscellaneous Expenses,19-30,Severe,Silver,1,1588.69
+Hospital Miscellaneous Expenses,19-30,Severe,Silver,3,1741.81
+Hospital Miscellaneous Expenses,19-30,Severe,Silver,5,1744.14
+Hospital Miscellaneous Expenses,19-30,Severe,Gold,1,2082.52
+Hospital Miscellaneous Expenses,19-30,Severe,Gold,3,2280.87
+Hospital Miscellaneous Expenses,19-30,Severe,Gold,5,2259.48
+Hospital Miscellaneous Expenses,31-40,Minor,Bronze,1,479.57
+Hospital Miscellaneous Expenses,31-40,Minor,Bronze,3,496.17
+Hospital Miscellaneous Expenses,31-40,Minor,Bronze,5,455.14
+Hospital Miscellaneous Expenses,31-40,Minor,Silver,1,735.25
+Hospital Miscellaneous Expenses,31-40,Minor,Silver,3,760.98
+Hospital Miscellaneous Expenses,31-40,Minor,Silver,5,706.55
+Hospital Miscellaneous Expenses,31-40,Minor,Gold,1,963.06
+Hospital Miscellaneous Expenses,31-40,Minor,Gold,3,995.74
+Hospital Miscellaneous Expenses,31-40,Minor,Gold,5,914.63
+Hospital Miscellaneous Expenses,31-40,Moderate,Bronze,1,672.27
+Hospital Miscellaneous Expenses,31-40,Moderate,Bronze,3,705.78
+Hospital Miscellaneous Expenses,31-40,Moderate,Bronze,5,698.27
+Hospital Miscellaneous Expenses,31-40,Moderate,Silver,1,1060.07
+Hospital Miscellaneous Expenses,31-40,Moderate,Silver,3,1113.33
+Hospital Miscellaneous Expenses,31-40,Moderate,Silver,5,1114.82
+Hospital Miscellaneous Expenses,31-40,Moderate,Gold,1,1429.77
+Hospital Miscellaneous Expenses,31-40,Moderate,Gold,3,1500.04
+Hospital Miscellaneous Expenses,31-40,Moderate,Gold,5,1485.97
+Hospital Miscellaneous Expenses,31-40,Severe,Bronze,1,1215.91
+Hospital Miscellaneous Expenses,31-40,Severe,Bronze,3,1272.78
+Hospital Miscellaneous Expenses,31-40,Severe,Bronze,5,1259.25
+Hospital Miscellaneous Expenses,31-40,Severe,Silver,1,1758.02
+Hospital Miscellaneous Expenses,31-40,Severe,Silver,3,1858.44
+Hospital Miscellaneous Expenses,31-40,Severe,Silver,5,1860.94
+Hospital Miscellaneous Expenses,31-40,Severe,Gold,1,2304.45
+Hospital Miscellaneous Expenses,31-40,Severe,Gold,3,2433.59
+Hospital Miscellaneous Expenses,31-40,Severe,Gold,5,2410.76
+Hospital Miscellaneous Expenses,41-50,Minor,Bronze,1,537.91
+Hospital Miscellaneous Expenses,41-50,Minor,Bronze,3,546.6
+Hospital Miscellaneous Expenses,41-50,Minor,Bronze,5,532.78
+Hospital Miscellaneous Expenses,41-50,Minor,Silver,1,810.84
+Hospital Miscellaneous Expenses,41-50,Minor,Silver,3,824.26
+Hospital Miscellaneous Expenses,41-50,Minor,Silver,5,813.16
+Hospital Miscellaneous Expenses,41-50,Minor,Gold,1,1095.6
+Hospital Miscellaneous Expenses,41-50,Minor,Gold,3,1112.6
+Hospital Miscellaneous Expenses,41-50,Minor,Gold,5,1085.86
+Hospital Miscellaneous Expenses,41-50,Moderate,Bronze,1,716.98
+Hospital Miscellaneous Expenses,41-50,Moderate,Bronze,3,739.31
+Hospital Miscellaneous Expenses,41-50,Moderate,Bronze,5,777.18
+Hospital Miscellaneous Expenses,41-50,Moderate,Silver,1,1111.65
+Hospital Miscellaneous Expenses,41-50,Moderate,Silver,3,1146.71
+Hospital Miscellaneous Expenses,41-50,Moderate,Silver,5,1220.01
+Hospital Miscellaneous Expenses,41-50,Moderate,Gold,1,1546.69
+Hospital Miscellaneous Expenses,41-50,Moderate,Gold,3,1593.82
+Hospital Miscellaneous Expenses,41-50,Moderate,Gold,5,1677.52
+Hospital Miscellaneous Expenses,41-50,Severe,Bronze,1,1355.39
+Hospital Miscellaneous Expenses,41-50,Severe,Bronze,3,1393.52
+Hospital Miscellaneous Expenses,41-50,Severe,Bronze,5,1464.86
+Hospital Miscellaneous Expenses,41-50,Severe,Silver,1,1926.9
+Hospital Miscellaneous Expenses,41-50,Severe,Silver,3,2000.71
+Hospital Miscellaneous Expenses,41-50,Severe,Silver,5,2128.55
+Hospital Miscellaneous Expenses,41-50,Severe,Gold,1,2605.58
+Hospital Miscellaneous Expenses,41-50,Severe,Gold,3,2702.61
+Hospital Miscellaneous Expenses,41-50,Severe,Gold,5,2844.49
+Hospital Miscellaneous Expenses,51-60,Minor,Bronze,1,685.62
+Hospital Miscellaneous Expenses,51-60,Minor,Bronze,3,696.63
+Hospital Miscellaneous Expenses,51-60,Minor,Bronze,5,659.51
+Hospital Miscellaneous Expenses,51-60,Minor,Silver,1,937.34
+Hospital Miscellaneous Expenses,51-60,Minor,Silver,3,952.76
+Hospital Miscellaneous Expenses,51-60,Minor,Silver,5,912.92
+Hospital Miscellaneous Expenses,51-60,Minor,Gold,1,1266.47
+Hospital Miscellaneous Expenses,51-60,Minor,Gold,3,1285.99
+Hospital Miscellaneous Expenses,51-60,Minor,Gold,5,1219.04
+Hospital Miscellaneous Expenses,51-60,Moderate,Bronze,1,978.08
+Hospital Miscellaneous Expenses,51-60,Moderate,Bronze,3,1008.44
+Hospital Miscellaneous Expenses,51-60,Moderate,Bronze,5,1011.31
+Hospital Miscellaneous Expenses,51-60,Moderate,Silver,1,1375.43
+Hospital Miscellaneous Expenses,51-60,Moderate,Silver,3,1418.66
+Hospital Miscellaneous Expenses,51-60,Moderate,Silver,5,1439.9
+Hospital Miscellaneous Expenses,51-60,Moderate,Gold,1,1913.6
+Hospital Miscellaneous Expenses,51-60,Moderate,Gold,3,1971.72
+Hospital Miscellaneous Expenses,51-60,Moderate,Gold,5,1979.81
+Hospital Miscellaneous Expenses,51-60,Severe,Bronze,1,1848.67
+Hospital Miscellaneous Expenses,51-60,Severe,Bronze,3,1900.47
+Hospital Miscellaneous Expenses,51-60,Severe,Bronze,5,1905.87
+Hospital Miscellaneous Expenses,51-60,Severe,Silver,1,2383.95
+Hospital Miscellaneous Expenses,51-60,Severe,Silver,3,2475.02
+Hospital Miscellaneous Expenses,51-60,Severe,Silver,5,2512.07
+Hospital Miscellaneous Expenses,51-60,Severe,Gold,1,3223.52
+Hospital Miscellaneous Expenses,51-60,Severe,Gold,3,3343.24
+Hospital Miscellaneous Expenses,51-60,Severe,Gold,5,3356.96
+Hospital Miscellaneous Expenses,61-70,Minor,Bronze,1,951.49
+Hospital Miscellaneous Expenses,61-70,Minor,Bronze,3,953.72
+Hospital Miscellaneous Expenses,61-70,Minor,Bronze,5,911.64
+Hospital Miscellaneous Expenses,61-70,Minor,Silver,1,1299.26
+Hospital Miscellaneous Expenses,61-70,Minor,Silver,3,1302.82
+Hospital Miscellaneous Expenses,61-70,Minor,Silver,5,1260.42
+Hospital Miscellaneous Expenses,61-70,Minor,Gold,1,1790.87
+Hospital Miscellaneous Expenses,61-70,Minor,Gold,3,1793.94
+Hospital Miscellaneous Expenses,61-70,Minor,Gold,5,1735.57
+Hospital Miscellaneous Expenses,61-70,Moderate,Bronze,1,1348.81
+Hospital Miscellaneous Expenses,61-70,Moderate,Bronze,3,1371.9
+Hospital Miscellaneous Expenses,61-70,Moderate,Bronze,5,1389.09
+Hospital Miscellaneous Expenses,61-70,Moderate,Silver,1,1894.55
+Hospital Miscellaneous Expenses,61-70,Moderate,Silver,3,1927.73
+Hospital Miscellaneous Expenses,61-70,Moderate,Silver,5,1975.49
+Hospital Miscellaneous Expenses,61-70,Moderate,Gold,1,2702.55
+Hospital Miscellaneous Expenses,61-70,Moderate,Gold,3,2747.07
+Hospital Miscellaneous Expenses,61-70,Moderate,Gold,5,2815.12
+Hospital Miscellaneous Expenses,61-70,Severe,Bronze,1,2426.55
+Hospital Miscellaneous Expenses,61-70,Severe,Bronze,3,2585.13
+Hospital Miscellaneous Expenses,61-70,Severe,Bronze,5,2617.51
+Hospital Miscellaneous Expenses,61-70,Severe,Silver,1,3125.67
+Hospital Miscellaneous Expenses,61-70,Severe,Silver,3,3362.89
+Hospital Miscellaneous Expenses,61-70,Severe,Silver,5,3446.18
+Hospital Miscellaneous Expenses,61-70,Severe,Gold,1,4333.53
+Hospital Miscellaneous Expenses,61-70,Severe,Gold,3,4657.64
+Hospital Miscellaneous Expenses,61-70,Severe,Gold,5,4773.0
+Hospital Miscellaneous Expenses,71-80,Minor,Bronze,1,1071.42
+Hospital Miscellaneous Expenses,71-80,Minor,Bronze,3,1089.72
+Hospital Miscellaneous Expenses,71-80,Minor,Bronze,5,1047.51
+Hospital Miscellaneous Expenses,71-80,Minor,Silver,1,1409.98
+Hospital Miscellaneous Expenses,71-80,Minor,Silver,3,1434.62
+Hospital Miscellaneous Expenses,71-80,Minor,Silver,5,1403.56
+Hospital Miscellaneous Expenses,71-80,Minor,Gold,1,2042.51
+Hospital Miscellaneous Expenses,71-80,Minor,Gold,3,2076.08
+Hospital Miscellaneous Expenses,71-80,Minor,Gold,5,2031.14
+Hospital Miscellaneous Expenses,71-80,Moderate,Bronze,1,1513.01
+Hospital Miscellaneous Expenses,71-80,Moderate,Bronze,3,1545.9
+Hospital Miscellaneous Expenses,71-80,Moderate,Bronze,5,1574.09
+Hospital Miscellaneous Expenses,71-80,Moderate,Silver,1,2048.18
+Hospital Miscellaneous Expenses,71-80,Moderate,Silver,3,2093.51
+Hospital Miscellaneous Expenses,71-80,Moderate,Silver,5,2169.52
+Hospital Miscellaneous Expenses,71-80,Moderate,Gold,1,3070.54
+Hospital Miscellaneous Expenses,71-80,Moderate,Gold,3,3135.29
+Hospital Miscellaneous Expenses,71-80,Moderate,Gold,5,3249.11
+Hospital Miscellaneous Expenses,71-80,Severe,Bronze,1,2721.86
+Hospital Miscellaneous Expenses,71-80,Severe,Bronze,3,2931.99
+Hospital Miscellaneous Expenses,71-80,Severe,Bronze,5,2985.43
+Hospital Miscellaneous Expenses,71-80,Severe,Silver,1,3379.08
+Hospital Miscellaneous Expenses,71-80,Severe,Silver,3,3675.96
+Hospital Miscellaneous Expenses,71-80,Severe,Silver,5,3809.4
+Hospital Miscellaneous Expenses,71-80,Severe,Gold,1,4923.53
+Hospital Miscellaneous Expenses,71-80,Severe,Gold,3,5350.61
+Hospital Miscellaneous Expenses,71-80,Severe,Gold,5,5544.83
+Hospital Miscellaneous Expenses,Above 80,Minor,Bronze,1,1310.29
+Hospital Miscellaneous Expenses,Above 80,Minor,Bronze,3,1322.45
+Hospital Miscellaneous Expenses,Above 80,Minor,Bronze,5,1259.32
+Hospital Miscellaneous Expenses,Above 80,Minor,Silver,1,1751.17
+Hospital Miscellaneous Expenses,Above 80,Minor,Silver,3,1768.1
+Hospital Miscellaneous Expenses,Above 80,Minor,Silver,5,1713.62
+Hospital Miscellaneous Expenses,Above 80,Minor,Gold,1,2440.3
+Hospital Miscellaneous Expenses,Above 80,Minor,Gold,3,2461.38
+Hospital Miscellaneous Expenses,Above 80,Minor,Gold,5,2385.54
+Hospital Miscellaneous Expenses,Above 80,Moderate,Bronze,1,1850.25
+Hospital Miscellaneous Expenses,Above 80,Moderate,Bronze,3,1875.97
+Hospital Miscellaneous Expenses,Above 80,Moderate,Bronze,5,1892.28
+Hospital Miscellaneous Expenses,Above 80,Moderate,Silver,1,2543.69
+Hospital Miscellaneous Expenses,Above 80,Moderate,Silver,3,2580.04
+Hospital Miscellaneous Expenses,Above 80,Moderate,Silver,5,2648.66
+Hospital Miscellaneous Expenses,Above 80,Moderate,Gold,1,3668.45
+Hospital Miscellaneous Expenses,Above 80,Moderate,Gold,3,3717.08
+Hospital Miscellaneous Expenses,Above 80,Moderate,Gold,5,3815.94
+Hospital Miscellaneous Expenses,Above 80,Severe,Bronze,1,3192.34
+Hospital Miscellaneous Expenses,Above 80,Severe,Bronze,3,3412.41
+Hospital Miscellaneous Expenses,Above 80,Severe,Bronze,5,3442.06
+Hospital Miscellaneous Expenses,Above 80,Severe,Silver,1,4024.92
+Hospital Miscellaneous Expenses,Above 80,Severe,Silver,3,4344.96
+Hospital Miscellaneous Expenses,Above 80,Severe,Silver,5,4460.51
+Hospital Miscellaneous Expenses,Above 80,Severe,Gold,1,6069.92
+Hospital Miscellaneous Expenses,Above 80,Severe,Gold,3,6545.86
+Hospital Miscellaneous Expenses,Above 80,Severe,Gold,5,6719.93
+Hospital psychiatric services,0-18,Minor,Bronze,1,1586.93
+Hospital psychiatric services,0-18,Minor,Bronze,3,1649.84
+Hospital psychiatric services,0-18,Minor,Bronze,5,1581.0
+Hospital psychiatric services,0-18,Minor,Silver,1,2270.5
+Hospital psychiatric services,0-18,Minor,Silver,3,2361.41
+Hospital psychiatric services,0-18,Minor,Silver,5,2290.28
+Hospital psychiatric services,0-18,Minor,Gold,1,3041.99
+Hospital psychiatric services,0-18,Minor,Gold,3,3160.56
+Hospital psychiatric services,0-18,Minor,Gold,5,2775.89
+Hospital psychiatric services,0-18,Moderate,Bronze,1,2390.84
+Hospital psychiatric services,0-18,Moderate,Bronze,3,2514.59
+Hospital psychiatric services,0-18,Moderate,Bronze,5,2598.63
+Hospital psychiatric services,0-18,Moderate,Silver,1,3384.65
+Hospital psychiatric services,0-18,Moderate,Silver,3,3561.2
+Hospital psychiatric services,0-18,Moderate,Silver,5,3724.71
+Hospital psychiatric services,0-18,Moderate,Gold,1,4623.5
+Hospital psychiatric services,0-18,Moderate,Gold,3,4859.69
+Hospital psychiatric services,0-18,Moderate,Gold,5,4602.88
+Hospital psychiatric services,0-18,Severe,Bronze,1,4712.94
+Hospital psychiatric services,0-18,Severe,Bronze,3,5030.51
+Hospital psychiatric services,0-18,Severe,Bronze,5,5198.6
+Hospital psychiatric services,0-18,Severe,Silver,1,6191.09
+Hospital psychiatric services,0-18,Severe,Silver,3,6673.65
+Hospital psychiatric services,0-18,Severe,Silver,5,6980.03
+Hospital psychiatric services,0-18,Severe,Gold,1,9149.89
+Hospital psychiatric services,0-18,Severe,Gold,3,9852.99
+Hospital psychiatric services,0-18,Severe,Gold,5,9332.36
+Hospital psychiatric services,19-30,Minor,Bronze,1,1885.07
+Hospital psychiatric services,19-30,Minor,Bronze,3,1983.69
+Hospital psychiatric services,19-30,Minor,Bronze,5,1900.93
+Hospital psychiatric services,19-30,Minor,Silver,1,2580.5
+Hospital psychiatric services,19-30,Minor,Silver,3,2716.54
+Hospital psychiatric services,19-30,Minor,Silver,5,2634.71
+Hospital psychiatric services,19-30,Minor,Gold,1,3477.28
+Hospital psychiatric services,19-30,Minor,Gold,3,3656.85
+Hospital psychiatric services,19-30,Minor,Gold,5,3211.79
+Hospital psychiatric services,19-30,Moderate,Bronze,1,2810.17
+Hospital psychiatric services,19-30,Moderate,Bronze,3,2991.65
+Hospital psychiatric services,19-30,Moderate,Bronze,5,3091.62
+Hospital psychiatric services,19-30,Moderate,Silver,1,3846.7
+Hospital psychiatric services,19-30,Moderate,Silver,3,4096.69
+Hospital psychiatric services,19-30,Moderate,Silver,5,4284.78
+Hospital psychiatric services,19-30,Moderate,Gold,1,5285.0
+Hospital psychiatric services,19-30,Moderate,Gold,3,5622.71
+Hospital psychiatric services,19-30,Moderate,Gold,5,5325.58
+Hospital psychiatric services,19-30,Severe,Bronze,1,6140.26
+Hospital psychiatric services,19-30,Severe,Bronze,3,6614.25
+Hospital psychiatric services,19-30,Severe,Bronze,5,6835.24
+Hospital psychiatric services,19-30,Severe,Silver,1,7708.45
+Hospital psychiatric services,19-30,Severe,Silver,3,8385.66
+Hospital psychiatric services,19-30,Severe,Silver,5,8770.62
+Hospital psychiatric services,19-30,Severe,Gold,1,10429.5
+Hospital psychiatric services,19-30,Severe,Gold,3,11334.17
+Hospital psychiatric services,19-30,Severe,Gold,5,10735.28
+Hospital psychiatric services,31-40,Minor,Bronze,1,2172.2
+Hospital psychiatric services,31-40,Minor,Bronze,3,2281.43
+Hospital psychiatric services,31-40,Minor,Bronze,5,2186.26
+Hospital psychiatric services,31-40,Minor,Silver,1,2973.5
+Hospital psychiatric services,31-40,Minor,Silver,3,3124.22
+Hospital psychiatric services,31-40,Minor,Silver,5,3030.12
+Hospital psychiatric services,31-40,Minor,Gold,1,4006.81
+Hospital psychiatric services,31-40,Minor,Gold,3,4205.59
+Hospital psychiatric services,31-40,Minor,Gold,5,3693.77
+Hospital psychiatric services,31-40,Moderate,Bronze,1,3228.35
+Hospital psychiatric services,31-40,Moderate,Bronze,3,3440.6
+Hospital psychiatric services,31-40,Moderate,Bronze,5,3555.57
+Hospital psychiatric services,31-40,Moderate,Silver,1,4419.06
+Hospital psychiatric services,31-40,Moderate,Silver,3,4711.41
+Hospital psychiatric services,31-40,Moderate,Silver,5,4927.72
+Hospital psychiatric services,31-40,Moderate,Gold,1,6071.32
+Hospital psychiatric services,31-40,Moderate,Gold,3,6466.36
+Hospital psychiatric services,31-40,Moderate,Gold,5,6124.66
+Hospital psychiatric services,31-40,Severe,Bronze,1,6578.71
+Hospital psychiatric services,31-40,Severe,Bronze,3,7104.63
+Hospital psychiatric services,31-40,Severe,Bronze,5,7342.0
+Hospital psychiatric services,31-40,Severe,Silver,1,8258.86
+Hospital psychiatric services,31-40,Severe,Silver,3,9007.35
+Hospital psychiatric services,31-40,Severe,Silver,5,9420.85
+Hospital psychiatric services,31-40,Severe,Gold,1,11174.17
+Hospital psychiatric services,31-40,Severe,Gold,3,12174.43
+Hospital psychiatric services,31-40,Severe,Gold,5,11531.15
+Hospital psychiatric services,41-50,Minor,Bronze,1,2616.04
+Hospital psychiatric services,41-50,Minor,Bronze,3,2726.74
+Hospital psychiatric services,41-50,Minor,Bronze,5,2776.22
+Hospital psychiatric services,41-50,Minor,Silver,1,3521.19
+Hospital psychiatric services,41-50,Minor,Silver,3,3671.6
+Hospital psychiatric services,41-50,Minor,Silver,5,3783.44
+Hospital psychiatric services,41-50,Minor,Gold,1,4813.89
+Hospital psychiatric services,41-50,Minor,Gold,3,5014.39
+Hospital psychiatric services,41-50,Minor,Gold,5,4679.23
+Hospital psychiatric services,41-50,Moderate,Bronze,1,3697.23
+Hospital psychiatric services,41-50,Moderate,Bronze,3,3910.42
+Hospital psychiatric services,41-50,Moderate,Bronze,5,4293.48
+Hospital psychiatric services,41-50,Moderate,Silver,1,4976.33
+Hospital psychiatric services,41-50,Moderate,Silver,3,5265.3
+Hospital psychiatric services,41-50,Moderate,Silver,5,5850.97
+Hospital psychiatric services,41-50,Moderate,Gold,1,6936.51
+Hospital psychiatric services,41-50,Moderate,Gold,3,7331.82
+Hospital psychiatric services,41-50,Moderate,Gold,5,7378.08
+Hospital psychiatric services,41-50,Severe,Bronze,1,7774.44
+Hospital psychiatric services,41-50,Severe,Bronze,3,8332.28
+Hospital psychiatric services,41-50,Severe,Bronze,5,9148.39
+Hospital psychiatric services,41-50,Severe,Silver,1,9596.97
+Hospital psychiatric services,41-50,Severe,Silver,3,10387.36
+Hospital psychiatric services,41-50,Severe,Silver,5,11542.66
+Hospital psychiatric services,41-50,Severe,Gold,1,13173.74
+Hospital psychiatric services,41-50,Severe,Gold,3,14244.17
+Hospital psychiatric services,41-50,Severe,Gold,5,14334.03
+Hospital psychiatric services,51-60,Minor,Bronze,1,2843.35
+Hospital psychiatric services,51-60,Minor,Bronze,3,2963.38
+Hospital psychiatric services,51-60,Minor,Bronze,5,2930.52
+Hospital psychiatric services,51-60,Minor,Silver,1,4040.51
+Hospital psychiatric services,51-60,Minor,Silver,3,4212.69
+Hospital psychiatric services,51-60,Minor,Silver,5,4216.37
+Hospital psychiatric services,51-60,Minor,Gold,1,5523.8
+Hospital psychiatric services,51-60,Minor,Gold,3,5753.32
+Hospital psychiatric services,51-60,Minor,Gold,5,5214.64
+Hospital psychiatric services,51-60,Moderate,Bronze,1,3973.58
+Hospital psychiatric services,51-60,Moderate,Bronze,3,4202.31
+Hospital psychiatric services,51-60,Moderate,Bronze,5,4401.83
+Hospital psychiatric services,51-60,Moderate,Silver,1,5646.44
+Hospital psychiatric services,51-60,Moderate,Silver,3,5973.75
+Hospital psychiatric services,51-60,Moderate,Silver,5,6333.03
+Hospital psychiatric services,51-60,Moderate,Gold,1,7870.53
+Hospital psychiatric services,51-60,Moderate,Gold,3,8318.27
+Hospital psychiatric services,51-60,Moderate,Gold,5,7985.94
+Hospital psychiatric services,51-60,Severe,Bronze,1,8355.48
+Hospital psychiatric services,51-60,Severe,Bronze,3,8954.15
+Hospital psychiatric services,51-60,Severe,Bronze,5,9379.23
+Hospital psychiatric services,51-60,Severe,Silver,1,10889.17
+Hospital psychiatric services,51-60,Severe,Silver,3,11784.85
+Hospital psychiatric services,51-60,Severe,Silver,5,12493.58
+Hospital psychiatric services,51-60,Severe,Gold,1,14947.49
+Hospital psychiatric services,51-60,Severe,Gold,3,16160.49
+Hospital psychiatric services,51-60,Severe,Gold,5,15514.88
+Hospital psychiatric services,61-70,Minor,Bronze,1,4116.03
+Hospital psychiatric services,61-70,Minor,Bronze,3,3934.77
+Hospital psychiatric services,61-70,Minor,Bronze,5,3873.89
+Hospital psychiatric services,61-70,Minor,Silver,1,5842.48
+Hospital psychiatric services,61-70,Minor,Silver,3,5587.37
+Hospital psychiatric services,61-70,Minor,Silver,5,5567.47
+Hospital psychiatric services,61-70,Minor,Gold,1,8252.25
+Hospital psychiatric services,61-70,Minor,Gold,3,7883.9
+Hospital psychiatric services,61-70,Minor,Gold,5,7191.09
+Hospital psychiatric services,61-70,Moderate,Bronze,1,7008.14
+Hospital psychiatric services,61-70,Moderate,Bronze,3,6798.21
+Hospital psychiatric services,61-70,Moderate,Bronze,5,7089.39
+Hospital psychiatric services,61-70,Moderate,Silver,1,9947.37
+Hospital psychiatric services,61-70,Moderate,Silver,3,9653.16
+Hospital psychiatric services,61-70,Moderate,Silver,5,10188.34
+Hospital psychiatric services,61-70,Moderate,Gold,1,14397.49
+Hospital psychiatric services,61-70,Moderate,Gold,3,13957.44
+Hospital psychiatric services,61-70,Moderate,Gold,5,13484.81
+Hospital psychiatric services,61-70,Severe,Bronze,1,13536.42
+Hospital psychiatric services,61-70,Severe,Bronze,3,13977.45
+Hospital psychiatric services,61-70,Severe,Bronze,5,14576.09
+Hospital psychiatric services,61-70,Severe,Silver,1,17621.81
+Hospital psychiatric services,61-70,Severe,Silver,3,18376.01
+Hospital psychiatric services,61-70,Severe,Silver,5,19394.75
+Hospital psychiatric services,61-70,Severe,Gold,1,25117.59
+Hospital psychiatric services,61-70,Severe,Gold,3,26165.92
+Hospital psychiatric services,61-70,Severe,Gold,5,25279.91
+Hospital psychiatric services,71-80,Minor,Bronze,1,5357.58
+Hospital psychiatric services,71-80,Minor,Bronze,3,5196.87
+Hospital psychiatric services,71-80,Minor,Bronze,5,5145.29
+Hospital psychiatric services,71-80,Minor,Silver,1,7329.34
+Hospital psychiatric services,71-80,Minor,Silver,3,7112.27
+Hospital psychiatric services,71-80,Minor,Silver,5,7166.67
+Hospital psychiatric services,71-80,Minor,Gold,1,9815.97
+Hospital psychiatric services,71-80,Minor,Gold,3,9515.56
+Hospital psychiatric services,71-80,Minor,Gold,5,8777.04
+Hospital psychiatric services,71-80,Moderate,Bronze,1,9087.3
+Hospital psychiatric services,71-80,Moderate,Bronze,3,8855.1
+Hospital psychiatric services,71-80,Moderate,Bronze,5,9286.37
+Hospital psychiatric services,71-80,Moderate,Silver,1,12431.47
+Hospital psychiatric services,71-80,Moderate,Silver,3,12118.54
+Hospital psychiatric services,71-80,Moderate,Silver,5,12934.3
+Hospital psychiatric services,71-80,Moderate,Gold,1,17060.71
+Hospital psychiatric services,71-80,Moderate,Gold,3,16614.33
+Hospital psychiatric services,71-80,Moderate,Gold,5,16232.33
+Hospital psychiatric services,71-80,Severe,Bronze,1,17721.51
+Hospital psychiatric services,71-80,Severe,Bronze,3,18502.38
+Hospital psychiatric services,71-80,Severe,Bronze,5,19403.45
+Hospital psychiatric services,71-80,Severe,Silver,1,22234.76
+Hospital psychiatric services,71-80,Severe,Silver,3,23444.23
+Hospital psychiatric services,71-80,Severe,Silver,5,25022.32
+Hospital psychiatric services,71-80,Severe,Gold,1,30050.91
+Hospital psychiatric services,71-80,Severe,Gold,3,31653.28
+Hospital psychiatric services,71-80,Severe,Gold,5,30925.52
+Hospital psychiatric services,Above 80,Minor,Bronze,1,6062.61
+Hospital psychiatric services,Above 80,Minor,Bronze,3,5749.51
+Hospital psychiatric services,Above 80,Minor,Bronze,5,5639.13
+Hospital psychiatric services,Above 80,Minor,Silver,1,8423.12
+Hospital psychiatric services,Above 80,Minor,Silver,3,7991.24
+Hospital psychiatric services,Above 80,Minor,Silver,5,7976.95
+Hospital psychiatric services,Above 80,Minor,Gold,1,10987.35
+Hospital psychiatric services,Above 80,Minor,Gold,3,10413.4
+Hospital psychiatric services,Above 80,Minor,Gold,5,9515.24
+Hospital psychiatric services,Above 80,Moderate,Bronze,1,10283.05
+Hospital psychiatric services,Above 80,Moderate,Bronze,3,9796.68
+Hospital psychiatric services,Above 80,Moderate,Bronze,5,10177.59
+Hospital psychiatric services,Above 80,Moderate,Silver,1,14286.54
+Hospital psychiatric services,Above 80,Moderate,Silver,3,13616.13
+Hospital psychiatric services,Above 80,Moderate,Silver,5,14396.59
+Hospital psychiatric services,Above 80,Moderate,Gold,1,19096.54
+Hospital psychiatric services,Above 80,Moderate,Gold,3,18181.89
+Hospital psychiatric services,Above 80,Moderate,Gold,5,17597.5
+Hospital psychiatric services,Above 80,Severe,Bronze,1,19233.95
+Hospital psychiatric services,Above 80,Severe,Bronze,3,19633.32
+Hospital psychiatric services,Above 80,Severe,Bronze,5,20396.66
+Hospital psychiatric services,Above 80,Severe,Silver,1,24508.6
+Hospital psychiatric services,Above 80,Severe,Silver,3,25265.08
+Hospital psychiatric services,Above 80,Severe,Silver,5,26713.21
+Hospital psychiatric services,Above 80,Severe,Gold,1,34710.46
+Hospital psychiatric services,Above 80,Severe,Gold,3,35745.41
+Hospital psychiatric services,Above 80,Severe,Gold,5,34596.53
+Hospital room tariff,0-18,Minor,Bronze,1,295.16
+Hospital room tariff,0-18,Minor,Bronze,3,274.22
+Hospital room tariff,0-18,Minor,Bronze,5,261.88
+Hospital room tariff,0-18,Minor,Silver,1,430.07
+Hospital room tariff,0-18,Minor,Silver,3,399.74
+Hospital room tariff,0-18,Minor,Silver,5,386.4
+Hospital room tariff,0-18,Minor,Gold,1,543.62
+Hospital room tariff,0-18,Minor,Gold,3,504.79
+Hospital room tariff,0-18,Minor,Gold,5,482.72
+Hospital room tariff,0-18,Moderate,Bronze,1,445.03
+Hospital room tariff,0-18,Moderate,Bronze,3,418.32
+Hospital room tariff,0-18,Moderate,Bronze,5,435.22
+Hospital room tariff,0-18,Moderate,Silver,1,641.4
+Hospital room tariff,0-18,Moderate,Silver,3,603.16
+Hospital room tariff,0-18,Moderate,Silver,5,635.12
+Hospital room tariff,0-18,Moderate,Gold,1,834.79
+Hospital room tariff,0-18,Moderate,Gold,3,784.24
+Hospital room tariff,0-18,Moderate,Gold,5,816.93
+Hospital room tariff,0-18,Severe,Bronze,1,803.21
+Hospital room tariff,0-18,Severe,Bronze,3,766.29
+Hospital room tariff,0-18,Severe,Bronze,5,797.22
+Hospital room tariff,0-18,Severe,Silver,1,1073.87
+Hospital room tariff,0-18,Severe,Silver,3,1034.67
+Hospital room tariff,0-18,Severe,Silver,5,1089.46
+Hospital room tariff,0-18,Severe,Gold,1,1515.65
+Hospital room tariff,0-18,Severe,Gold,3,1458.85
+Hospital room tariff,0-18,Severe,Gold,5,1519.62
+Hospital room tariff,19-30,Minor,Bronze,1,371.29
+Hospital room tariff,19-30,Minor,Bronze,3,350.37
+Hospital room tariff,19-30,Minor,Bronze,5,334.62
+Hospital room tariff,19-30,Minor,Silver,1,517.48
+Hospital room tariff,19-30,Minor,Silver,3,488.53
+Hospital room tariff,19-30,Minor,Silver,5,472.24
+Hospital room tariff,19-30,Minor,Gold,1,668.98
+Hospital room tariff,19-30,Minor,Gold,3,630.93
+Hospital room tariff,19-30,Minor,Gold,5,603.36
+Hospital room tariff,19-30,Moderate,Bronze,1,553.8
+Hospital room tariff,19-30,Moderate,Bronze,3,528.73
+Hospital room tariff,19-30,Moderate,Bronze,5,550.09
+Hospital room tariff,19-30,Moderate,Silver,1,771.66
+Hospital room tariff,19-30,Moderate,Silver,3,737.03
+Hospital room tariff,19-30,Moderate,Silver,5,776.07
+Hospital room tariff,19-30,Moderate,Gold,1,1027.16
+Hospital room tariff,19-30,Moderate,Gold,3,980.08
+Hospital room tariff,19-30,Moderate,Gold,5,1020.92
+Hospital room tariff,19-30,Severe,Bronze,1,1127.32
+Hospital room tariff,19-30,Severe,Bronze,3,1089.1
+Hospital room tariff,19-30,Severe,Bronze,5,1133.05
+Hospital room tariff,19-30,Severe,Silver,1,1440.22
+Hospital room tariff,19-30,Severe,Silver,3,1405.19
+Hospital room tariff,19-30,Severe,Silver,5,1479.57
+Hospital room tariff,19-30,Severe,Gold,1,1892.17
+Hospital room tariff,19-30,Severe,Gold,3,1844.28
+Hospital room tariff,19-30,Severe,Gold,5,1921.09
+Hospital room tariff,31-40,Minor,Bronze,1,427.26
+Hospital room tariff,31-40,Minor,Bronze,3,402.42
+Hospital room tariff,31-40,Minor,Bronze,5,384.33
+Hospital room tariff,31-40,Minor,Silver,1,611.34
+Hospital room tariff,31-40,Minor,Silver,3,576.04
+Hospital room tariff,31-40,Minor,Silver,5,556.83
+Hospital room tariff,31-40,Minor,Gold,1,790.26
+Hospital room tariff,31-40,Minor,Gold,3,743.89
+Hospital room tariff,31-40,Minor,Gold,5,711.39
+Hospital room tariff,31-40,Moderate,Bronze,1,635.28
+Hospital room tariff,31-40,Moderate,Bronze,3,607.2
+Hospital room tariff,31-40,Moderate,Bronze,5,631.72
+Hospital room tariff,31-40,Moderate,Silver,1,908.77
+Hospital room tariff,31-40,Moderate,Silver,3,868.95
+Hospital room tariff,31-40,Moderate,Silver,5,914.97
+Hospital room tariff,31-40,Moderate,Gold,1,1209.61
+Hospital room tariff,31-40,Moderate,Gold,3,1155.45
+Hospital room tariff,31-40,Moderate,Gold,5,1203.58
+Hospital room tariff,31-40,Severe,Bronze,1,1198.23
+Hospital room tariff,31-40,Severe,Bronze,3,1160.57
+Hospital room tariff,31-40,Severe,Bronze,5,1207.4
+Hospital room tariff,31-40,Severe,Silver,1,1571.66
+Hospital room tariff,31-40,Severe,Silver,3,1537.35
+Hospital room tariff,31-40,Severe,Silver,5,1618.72
+Hospital room tariff,31-40,Severe,Gold,1,2064.82
+Hospital room tariff,31-40,Severe,Gold,3,2017.7
+Hospital room tariff,31-40,Severe,Gold,5,2101.73
+Hospital room tariff,41-50,Minor,Bronze,1,477.35
+Hospital room tariff,41-50,Minor,Bronze,3,459.32
+Hospital room tariff,41-50,Minor,Bronze,5,466.14
+Hospital room tariff,41-50,Minor,Silver,1,651.54
+Hospital room tariff,41-50,Minor,Silver,3,627.19
+Hospital room tariff,41-50,Minor,Silver,5,644.2
+Hospital room tariff,41-50,Minor,Gold,1,848.9
+Hospital room tariff,41-50,Minor,Gold,3,816.35
+Hospital room tariff,41-50,Minor,Gold,5,829.5
+Hospital room tariff,41-50,Moderate,Bronze,1,674.86
+Hospital room tariff,41-50,Moderate,Bronze,3,658.97
+Hospital room tariff,41-50,Moderate,Bronze,5,728.45
+Hospital room tariff,41-50,Moderate,Silver,1,920.97
+Hospital room tariff,41-50,Moderate,Silver,3,899.63
+Hospital room tariff,41-50,Moderate,Silver,5,1006.48
+Hospital room tariff,41-50,Moderate,Gold,1,1235.58
+Hospital room tariff,41-50,Moderate,Gold,3,1205.74
+Hospital room tariff,41-50,Moderate,Gold,5,1334.46
+Hospital room tariff,41-50,Severe,Bronze,1,1220.33
+Hospital room tariff,41-50,Severe,Bronze,3,1207.5
+Hospital room tariff,41-50,Severe,Bronze,5,1334.73
+Hospital room tariff,41-50,Severe,Silver,1,1527.07
+Hospital room tariff,41-50,Severe,Silver,3,1525.98
+Hospital room tariff,41-50,Severe,Silver,5,1707.14
+Hospital room tariff,41-50,Severe,Gold,1,2022.19
+Hospital room tariff,41-50,Severe,Gold,3,2018.68
+Hospital room tariff,41-50,Severe,Gold,5,2234.12
+Hospital room tariff,51-60,Minor,Bronze,1,528.33
+Hospital room tariff,51-60,Minor,Bronze,3,508.33
+Hospital room tariff,51-60,Minor,Bronze,5,501.03
+Hospital room tariff,51-60,Minor,Silver,1,772.66
+Hospital room tariff,51-60,Minor,Silver,3,743.72
+Hospital room tariff,51-60,Minor,Silver,5,741.93
+Hospital room tariff,51-60,Minor,Gold,1,1006.66
+Hospital room tariff,51-60,Minor,Gold,3,967.98
+Hospital room tariff,51-60,Minor,Gold,5,955.31
+Hospital room tariff,51-60,Moderate,Bronze,1,799.46
+Hospital room tariff,51-60,Moderate,Bronze,3,780.56
+Hospital room tariff,51-60,Moderate,Bronze,5,823.13
+Hospital room tariff,51-60,Moderate,Silver,1,1168.96
+Hospital room tariff,51-60,Moderate,Silver,3,1141.77
+Hospital room tariff,51-60,Moderate,Silver,5,1218.59
+Hospital room tariff,51-60,Moderate,Gold,1,1568.2
+Hospital room tariff,51-60,Moderate,Gold,3,1530.18
+Hospital room tariff,51-60,Moderate,Gold,5,1615.62
+Hospital room tariff,51-60,Severe,Bronze,1,1445.49
+Hospital room tariff,51-60,Severe,Bronze,3,1430.15
+Hospital room tariff,51-60,Severe,Bronze,5,1508.11
+Hospital room tariff,51-60,Severe,Silver,1,1938.08
+Hospital room tariff,51-60,Severe,Silver,3,1936.51
+Hospital room tariff,51-60,Severe,Silver,5,2066.76
+Hospital room tariff,51-60,Severe,Gold,1,2566.38
+Hospital room tariff,51-60,Severe,Gold,3,2561.69
+Hospital room tariff,51-60,Severe,Gold,5,2704.69
+Hospital room tariff,61-70,Minor,Bronze,1,657.77
+Hospital room tariff,61-70,Minor,Bronze,3,666.82
+Hospital room tariff,61-70,Minor,Bronze,5,663.61
+Hospital room tariff,61-70,Minor,Silver,1,939.59
+Hospital room tariff,61-70,Minor,Silver,3,952.89
+Hospital room tariff,61-70,Minor,Silver,5,959.78
+Hospital room tariff,61-70,Minor,Gold,1,1292.94
+Hospital room tariff,61-70,Minor,Gold,3,1309.9
+Hospital room tariff,61-70,Minor,Gold,5,1319.37
+Hospital room tariff,61-70,Moderate,Bronze,1,1045.88
+Hospital room tariff,61-70,Moderate,Bronze,3,1075.89
+Hospital room tariff,61-70,Moderate,Bronze,5,1145.51
+Hospital room tariff,61-70,Moderate,Silver,1,1493.73
+Hospital room tariff,61-70,Moderate,Silver,3,1537.18
+Hospital room tariff,61-70,Moderate,Silver,5,1656.43
+Hospital room tariff,61-70,Moderate,Gold,1,2127.13
+Hospital room tariff,61-70,Moderate,Gold,3,2186.77
+Hospital room tariff,61-70,Moderate,Gold,5,2356.38
+Hospital room tariff,61-70,Severe,Bronze,1,1799.91
+Hospital room tariff,61-70,Severe,Bronze,3,1970.96
+Hospital room tariff,61-70,Severe,Bronze,5,2098.45
+Hospital room tariff,61-70,Severe,Silver,1,2357.36
+Hospital room tariff,61-70,Severe,Silver,3,2606.91
+Hospital room tariff,61-70,Severe,Silver,5,2809.08
+Hospital room tariff,61-70,Severe,Gold,1,3313.61
+Hospital room tariff,61-70,Severe,Gold,3,3660.61
+Hospital room tariff,61-70,Severe,Gold,5,3944.47
+Hospital room tariff,71-80,Minor,Bronze,1,801.18
+Hospital room tariff,71-80,Minor,Bronze,3,824.15
+Hospital room tariff,71-80,Minor,Bronze,5,824.81
+Hospital room tariff,71-80,Minor,Silver,1,1102.89
+Hospital room tariff,71-80,Minor,Silver,3,1134.94
+Hospital room tariff,71-80,Minor,Silver,5,1156.02
+Hospital room tariff,71-80,Minor,Gold,1,1438.93
+Hospital room tariff,71-80,Minor,Gold,3,1479.22
+Hospital room tariff,71-80,Minor,Gold,5,1506.7
+Hospital room tariff,71-80,Moderate,Bronze,1,1268.96
+Hospital room tariff,71-80,Moderate,Bronze,3,1311.3
+Hospital room tariff,71-80,Moderate,Bronze,5,1404.0
+Hospital room tariff,71-80,Moderate,Silver,1,1746.6
+Hospital room tariff,71-80,Moderate,Silver,3,1805.57
+Hospital room tariff,71-80,Moderate,Silver,5,1967.52
+Hospital room tariff,71-80,Moderate,Gold,1,2358.28
+Hospital room tariff,71-80,Moderate,Gold,3,2435.4
+Hospital room tariff,71-80,Moderate,Gold,5,2653.81
+Hospital room tariff,71-80,Severe,Bronze,1,2204.75
+Hospital room tariff,71-80,Severe,Bronze,3,2441.11
+Hospital room tariff,71-80,Severe,Bronze,5,2613.63
+Hospital room tariff,71-80,Severe,Silver,1,2782.95
+Hospital room tariff,71-80,Severe,Silver,3,3111.77
+Hospital room tariff,71-80,Severe,Silver,5,3390.82
+Hospital room tariff,71-80,Severe,Gold,1,3709.08
+Hospital room tariff,71-80,Severe,Gold,3,4143.07
+Hospital room tariff,71-80,Severe,Gold,5,4514.57
+Hospital room tariff,Above 80,Minor,Bronze,1,960.89
+Hospital room tariff,Above 80,Minor,Bronze,3,966.35
+Hospital room tariff,Above 80,Minor,Bronze,5,939.78
+Hospital room tariff,Above 80,Minor,Silver,1,1343.3
+Hospital room tariff,Above 80,Minor,Silver,3,1351.46
+Hospital room tariff,Above 80,Minor,Silver,5,1337.65
+Hospital room tariff,Above 80,Minor,Gold,1,1706.92
+Hospital room tariff,Above 80,Minor,Gold,3,1715.53
+Hospital room tariff,Above 80,Minor,Gold,5,1698.0
+Hospital room tariff,Above 80,Moderate,Bronze,1,1521.79
+Hospital room tariff,Above 80,Moderate,Bronze,3,1537.45
+Hospital room tariff,Above 80,Moderate,Bronze,5,1599.6
+Hospital room tariff,Above 80,Moderate,Silver,1,2127.2
+Hospital room tariff,Above 80,Moderate,Silver,3,2149.92
+Hospital room tariff,Above 80,Moderate,Silver,5,2276.53
+Hospital room tariff,Above 80,Moderate,Gold,1,2797.36
+Hospital room tariff,Above 80,Moderate,Gold,3,2824.35
+Hospital room tariff,Above 80,Moderate,Gold,5,2990.67
+Hospital room tariff,Above 80,Severe,Bronze,1,2535.83
+Hospital room tariff,Above 80,Severe,Bronze,3,2745.0
+Hospital room tariff,Above 80,Severe,Bronze,5,2855.94
+Hospital room tariff,Above 80,Severe,Silver,1,3250.74
+Hospital room tariff,Above 80,Severe,Silver,3,3553.68
+Hospital room tariff,Above 80,Severe,Silver,5,3762.93
+Hospital room tariff,Above 80,Severe,Gold,1,4540.03
+Hospital room tariff,Above 80,Severe,Gold,3,4958.04
+Hospital room tariff,Above 80,Severe,Gold,5,5249.96
+ICU,0-18,Minor,Bronze,1,2581.28
+ICU,0-18,Minor,Bronze,3,2438.06
+ICU,0-18,Minor,Bronze,5,2278.28
+ICU,0-18,Minor,Silver,1,3664.13
+ICU,0-18,Minor,Silver,3,3462.2
+ICU,0-18,Minor,Silver,5,3255.5
+ICU,0-18,Minor,Gold,1,4500.84
+ICU,0-18,Minor,Gold,3,4303.85
+ICU,0-18,Minor,Gold,5,4003.59
+ICU,0-18,Moderate,Bronze,1,3636.59
+ICU,0-18,Moderate,Bronze,3,3687.87
+ICU,0-18,Moderate,Bronze,5,3716.38
+ICU,0-18,Moderate,Silver,1,5107.9
+ICU,0-18,Moderate,Silver,3,5181.93
+ICU,0-18,Moderate,Silver,5,5254.54
+ICU,0-18,Moderate,Gold,1,6461.09
+ICU,0-18,Moderate,Gold,3,6633.38
+ICU,0-18,Moderate,Gold,5,6654.31
+ICU,0-18,Severe,Bronze,1,5954.9
+ICU,0-18,Severe,Bronze,3,6283.78
+ICU,0-18,Severe,Bronze,5,6332.36
+ICU,0-18,Severe,Silver,1,7761.55
+ICU,0-18,Severe,Silver,3,8271.25
+ICU,0-18,Severe,Silver,5,8387.14
+ICU,0-18,Severe,Gold,1,8579.47
+ICU,0-18,Severe,Gold,3,9252.57
+ICU,0-18,Severe,Gold,5,9281.78
+ICU,19-30,Minor,Bronze,1,3269.82
+ICU,19-30,Minor,Bronze,3,3136.7
+ICU,19-30,Minor,Bronze,5,2931.15
+ICU,19-30,Minor,Silver,1,4440.95
+ICU,19-30,Minor,Silver,3,4261.83
+ICU,19-30,Minor,Silver,5,4007.4
+ICU,19-30,Minor,Gold,1,5579.27
+ICU,19-30,Minor,Gold,3,5418.5
+ICU,19-30,Minor,Gold,5,5040.49
+ICU,19-30,Moderate,Bronze,1,4558.25
+ICU,19-30,Moderate,Bronze,3,4694.79
+ICU,19-30,Moderate,Bronze,5,4731.09
+ICU,19-30,Moderate,Silver,1,6190.72
+ICU,19-30,Moderate,Silver,3,6378.63
+ICU,19-30,Moderate,Silver,5,6468.0
+ICU,19-30,Moderate,Gold,1,8009.1
+ICU,19-30,Moderate,Gold,3,8351.2
+ICU,19-30,Moderate,Gold,5,8377.56
+ICU,19-30,Severe,Bronze,1,8339.63
+ICU,19-30,Severe,Bronze,3,8911.3
+ICU,19-30,Severe,Bronze,5,8980.18
+ICU,19-30,Severe,Silver,1,10387.87
+ICU,19-30,Severe,Silver,3,11209.78
+ICU,19-30,Severe,Silver,5,11366.84
+ICU,19-30,Severe,Gold,1,10689.72
+ICU,19-30,Severe,Gold,3,11673.91
+ICU,19-30,Severe,Gold,5,11710.76
+ICU,31-40,Minor,Bronze,1,3845.55
+ICU,31-40,Minor,Bronze,3,3685.25
+ICU,31-40,Minor,Bronze,5,3488.91
+ICU,31-40,Minor,Silver,1,5222.82
+ICU,31-40,Minor,Silver,3,5007.08
+ICU,31-40,Minor,Silver,5,4769.88
+ICU,31-40,Minor,Gold,1,6561.52
+ICU,31-40,Minor,Gold,3,6365.96
+ICU,31-40,Minor,Gold,5,5999.49
+ICU,31-40,Moderate,Bronze,1,4871.28
+ICU,31-40,Moderate,Bronze,3,5027.29
+ICU,31-40,Moderate,Bronze,5,5132.57
+ICU,31-40,Moderate,Silver,1,6615.82
+ICU,31-40,Moderate,Silver,3,6830.36
+ICU,31-40,Moderate,Silver,5,7016.85
+ICU,31-40,Moderate,Gold,1,8559.05
+ICU,31-40,Moderate,Gold,3,8942.61
+ICU,31-40,Moderate,Gold,5,9088.42
+ICU,31-40,Severe,Bronze,1,9161.4
+ICU,31-40,Severe,Bronze,3,9823.34
+ICU,31-40,Severe,Bronze,5,10029.03
+ICU,31-40,Severe,Silver,1,11411.44
+ICU,31-40,Severe,Silver,3,12357.04
+ICU,31-40,Severe,Silver,5,12694.4
+ICU,31-40,Severe,Gold,1,11743.03
+ICU,31-40,Severe,Gold,3,12868.67
+ICU,31-40,Severe,Gold,5,13078.49
+ICU,41-50,Minor,Bronze,1,4061.54
+ICU,41-50,Minor,Bronze,3,3989.48
+ICU,41-50,Minor,Bronze,5,4012.84
+ICU,41-50,Minor,Silver,1,5500.72
+ICU,41-50,Minor,Silver,3,5405.23
+ICU,41-50,Minor,Silver,5,5470.77
+ICU,41-50,Minor,Gold,1,7227.63
+ICU,41-50,Minor,Gold,3,7187.38
+ICU,41-50,Minor,Gold,5,7196.65
+ICU,41-50,Moderate,Bronze,1,5291.53
+ICU,41-50,Moderate,Bronze,3,5597.42
+ICU,41-50,Moderate,Bronze,5,6071.53
+ICU,41-50,Moderate,Silver,1,7166.44
+ICU,41-50,Moderate,Silver,3,7583.64
+ICU,41-50,Moderate,Silver,5,8277.23
+ICU,41-50,Moderate,Gold,1,9696.65
+ICU,41-50,Moderate,Gold,3,10384.24
+ICU,41-50,Moderate,Gold,5,11212.6
+ICU,41-50,Severe,Bronze,1,10401.59
+ICU,41-50,Severe,Bronze,3,11431.71
+ICU,41-50,Severe,Bronze,5,12399.9
+ICU,41-50,Severe,Silver,1,12919.93
+ICU,41-50,Severe,Silver,3,14339.96
+ICU,41-50,Severe,Silver,5,15651.39
+ICU,41-50,Severe,Gold,1,13905.19
+ICU,41-50,Severe,Gold,3,15618.67
+ICU,41-50,Severe,Gold,5,16864.55
+ICU,51-60,Minor,Bronze,1,4673.83
+ICU,51-60,Minor,Bronze,3,4590.47
+ICU,51-60,Minor,Bronze,5,4484.78
+ICU,51-60,Minor,Silver,1,6604.05
+ICU,51-60,Minor,Silver,3,6488.79
+ICU,51-60,Minor,Silver,5,6378.92
+ICU,51-60,Minor,Gold,1,8820.0
+ICU,51-60,Minor,Gold,3,8770.05
+ICU,51-60,Minor,Gold,5,8529.27
+ICU,51-60,Moderate,Bronze,1,6527.19
+ICU,51-60,Moderate,Bronze,3,6903.84
+ICU,51-60,Moderate,Bronze,5,7144.32
+ICU,51-60,Moderate,Silver,1,9222.65
+ICU,51-60,Moderate,Silver,3,9758.61
+ICU,51-60,Moderate,Silver,5,10161.46
+ICU,51-60,Moderate,Gold,1,12683.97
+ICU,51-60,Moderate,Gold,3,13582.08
+ICU,51-60,Moderate,Gold,5,13991.36
+ICU,51-60,Severe,Bronze,1,13236.03
+ICU,51-60,Severe,Bronze,3,14545.45
+ICU,51-60,Severe,Bronze,5,15052.07
+ICU,51-60,Severe,Silver,1,17152.49
+ICU,51-60,Severe,Silver,3,19035.88
+ICU,51-60,Severe,Silver,5,19821.66
+ICU,51-60,Severe,Gold,1,18764.12
+ICU,51-60,Severe,Gold,3,21074.29
+ICU,51-60,Severe,Gold,5,21709.33
+ICU,61-70,Minor,Bronze,1,5083.81
+ICU,61-70,Minor,Bronze,3,5031.71
+ICU,61-70,Minor,Bronze,5,4963.32
+ICU,61-70,Minor,Silver,1,7175.49
+ICU,61-70,Minor,Silver,3,7104.72
+ICU,61-70,Minor,Silver,5,7051.85
+ICU,61-70,Minor,Gold,1,9850.96
+ICU,61-70,Minor,Gold,3,9870.83
+ICU,61-70,Minor,Gold,5,9797.39
+ICU,61-70,Moderate,Bronze,1,7055.85
+ICU,61-70,Moderate,Bronze,3,7520.65
+ICU,61-70,Moderate,Bronze,5,7857.74
+ICU,61-70,Moderate,Silver,1,9958.76
+ICU,61-70,Moderate,Silver,3,10618.88
+ICU,61-70,Moderate,Silver,5,11163.97
+ICU,61-70,Moderate,Gold,1,14149.81
+ICU,61-70,Moderate,Gold,3,15268.73
+ICU,61-70,Moderate,Gold,5,16052.49
+ICU,61-70,Severe,Bronze,1,13620.63
+ICU,61-70,Severe,Bronze,3,15844.88
+ICU,61-70,Severe,Bronze,5,16555.03
+ICU,61-70,Severe,Silver,1,17631.7
+ICU,61-70,Severe,Silver,3,20713.9
+ICU,61-70,Severe,Silver,5,21777.14
+ICU,61-70,Severe,Gold,1,19926.99
+ICU,61-70,Severe,Gold,3,23691.28
+ICU,61-70,Severe,Gold,5,24907.34
+ICU,71-80,Minor,Bronze,1,7268.76
+ICU,71-80,Minor,Bronze,3,7290.77
+ICU,71-80,Minor,Bronze,5,7232.18
+ICU,71-80,Minor,Silver,1,9887.84
+ICU,71-80,Minor,Silver,3,9921.63
+ICU,71-80,Minor,Silver,5,9958.6
+ICU,71-80,Minor,Gold,1,12871.3
+ICU,71-80,Minor,Gold,3,13070.23
+ICU,71-80,Minor,Gold,5,13118.94
+ICU,71-80,Moderate,Bronze,1,11163.58
+ICU,71-80,Moderate,Bronze,3,11937.91
+ICU,71-80,Moderate,Bronze,5,12543.2
+ICU,71-80,Moderate,Silver,1,15185.85
+ICU,71-80,Moderate,Silver,3,16245.46
+ICU,71-80,Moderate,Silver,5,17271.51
+ICU,71-80,Moderate,Gold,1,20458.75
+ICU,71-80,Moderate,Gold,3,22148.85
+ICU,71-80,Moderate,Gold,5,23547.72
+ICU,71-80,Severe,Bronze,1,18811.5
+ICU,71-80,Severe,Bronze,3,22098.91
+ICU,71-80,Severe,Bronze,5,23219.35
+ICU,71-80,Severe,Silver,1,23469.57
+ICU,71-80,Severe,Silver,3,27843.82
+ICU,71-80,Severe,Silver,5,29602.36
+ICU,71-80,Severe,Gold,1,25150.77
+ICU,71-80,Severe,Gold,3,30196.32
+ICU,71-80,Severe,Gold,5,32103.43
+ICU,Above 80,Minor,Bronze,1,9141.3
+ICU,Above 80,Minor,Bronze,3,8964.35
+ICU,Above 80,Minor,Bronze,5,8809.04
+ICU,Above 80,Minor,Silver,1,12628.88
+ICU,Above 80,Minor,Silver,3,12389.24
+ICU,Above 80,Minor,Silver,5,12318.95
+ICU,Above 80,Minor,Gold,1,16011.7
+ICU,Above 80,Minor,Gold,3,15896.33
+ICU,Above 80,Minor,Gold,5,15806.15
+ICU,Above 80,Moderate,Bronze,1,14039.34
+ICU,Above 80,Moderate,Bronze,3,14678.1
+ICU,Above 80,Moderate,Bronze,5,15277.88
+ICU,Above 80,Moderate,Silver,1,19395.41
+ICU,Above 80,Moderate,Silver,3,20285.72
+ICU,Above 80,Moderate,Silver,5,21364.96
+ICU,Above 80,Moderate,Gold,1,25450.24
+ICU,Above 80,Moderate,Gold,3,26937.81
+ICU,Above 80,Moderate,Gold,5,28370.94
+ICU,Above 80,Severe,Bronze,1,22690.63
+ICU,Above 80,Severe,Bronze,3,26061.07
+ICU,Above 80,Severe,Bronze,5,27125.96
+ICU,Above 80,Severe,Silver,1,28750.55
+ICU,Above 80,Severe,Silver,3,33347.88
+ICU,Above 80,Severe,Silver,5,35122.02
+ICU,Above 80,Severe,Gold,1,32285.64
+ICU,Above 80,Severe,Gold,3,37897.49
+ICU,Above 80,Severe,Gold,5,39913.68
+Microbiology,0-18,Minor,Bronze,1,15.9
+Microbiology,0-18,Minor,Bronze,3,15.24
+Microbiology,0-18,Minor,Bronze,5,13.26
+Microbiology,0-18,Minor,Silver,1,22.24
+Microbiology,0-18,Minor,Silver,3,21.51
+Microbiology,0-18,Minor,Silver,5,19.45
+Microbiology,0-18,Minor,Gold,1,31.39
+Microbiology,0-18,Minor,Gold,3,30.34
+Microbiology,0-18,Minor,Gold,5,27.16
+Microbiology,0-18,Moderate,Bronze,1,24.56
+Microbiology,0-18,Moderate,Bronze,3,23.84
+Microbiology,0-18,Moderate,Bronze,5,23.46
+Microbiology,0-18,Moderate,Silver,1,33.77
+Microbiology,0-18,Moderate,Silver,3,33.08
+Microbiology,0-18,Moderate,Silver,5,33.72
+Microbiology,0-18,Moderate,Gold,1,44.09
+Microbiology,0-18,Moderate,Gold,3,43.15
+Microbiology,0-18,Moderate,Gold,5,43.49
+Microbiology,0-18,Severe,Bronze,1,43.98
+Microbiology,0-18,Severe,Bronze,3,42.55
+Microbiology,0-18,Severe,Bronze,5,41.88
+Microbiology,0-18,Severe,Silver,1,56.52
+Microbiology,0-18,Severe,Silver,3,55.71
+Microbiology,0-18,Severe,Silver,5,56.77
+Microbiology,0-18,Severe,Gold,1,79.9
+Microbiology,0-18,Severe,Gold,3,78.67
+Microbiology,0-18,Severe,Gold,5,79.29
+Microbiology,19-30,Minor,Bronze,1,19.95
+Microbiology,19-30,Minor,Bronze,3,19.44
+Microbiology,19-30,Minor,Bronze,5,16.95
+Microbiology,19-30,Minor,Silver,1,26.56
+Microbiology,19-30,Minor,Silver,3,26.11
+Microbiology,19-30,Minor,Silver,5,23.63
+Microbiology,19-30,Minor,Gold,1,38.28
+Microbiology,19-30,Minor,Gold,3,37.61
+Microbiology,19-30,Minor,Gold,5,33.7
+Microbiology,19-30,Moderate,Bronze,1,30.35
+Microbiology,19-30,Moderate,Bronze,3,29.94
+Microbiology,19-30,Moderate,Bronze,5,29.47
+Microbiology,19-30,Moderate,Silver,1,40.24
+Microbiology,19-30,Moderate,Silver,3,40.05
+Microbiology,19-30,Moderate,Silver,5,40.82
+Microbiology,19-30,Moderate,Gold,1,53.7
+Microbiology,19-30,Moderate,Gold,3,53.39
+Microbiology,19-30,Moderate,Gold,5,53.81
+Microbiology,19-30,Severe,Bronze,1,60.35
+Microbiology,19-30,Severe,Bronze,3,59.15
+Microbiology,19-30,Severe,Bronze,5,58.23
+Microbiology,19-30,Severe,Silver,1,73.98
+Microbiology,19-30,Severe,Silver,3,73.85
+Microbiology,19-30,Severe,Silver,5,75.25
+Microbiology,19-30,Severe,Gold,1,97.17
+Microbiology,19-30,Severe,Gold,3,96.9
+Microbiology,19-30,Severe,Gold,5,97.66
+Microbiology,31-40,Minor,Bronze,1,23.08
+Microbiology,31-40,Minor,Bronze,3,22.44
+Microbiology,31-40,Minor,Bronze,5,19.58
+Microbiology,31-40,Minor,Silver,1,30.67
+Microbiology,31-40,Minor,Silver,3,30.1
+Microbiology,31-40,Minor,Silver,5,27.25
+Microbiology,31-40,Minor,Gold,1,44.14
+Microbiology,31-40,Minor,Gold,3,43.28
+Microbiology,31-40,Minor,Gold,5,38.79
+Microbiology,31-40,Moderate,Bronze,1,34.92
+Microbiology,31-40,Moderate,Bronze,3,34.49
+Microbiology,31-40,Moderate,Bronze,5,33.94
+Microbiology,31-40,Moderate,Silver,1,46.24
+Microbiology,31-40,Moderate,Silver,3,46.08
+Microbiology,31-40,Moderate,Silver,5,46.96
+Microbiology,31-40,Moderate,Gold,1,61.66
+Microbiology,31-40,Moderate,Gold,3,61.38
+Microbiology,31-40,Moderate,Gold,5,61.86
+Microbiology,31-40,Severe,Bronze,1,64.55
+Microbiology,31-40,Severe,Bronze,3,63.43
+Microbiology,31-40,Severe,Bronze,5,62.44
+Microbiology,31-40,Severe,Silver,1,79.11
+Microbiology,31-40,Severe,Silver,3,79.18
+Microbiology,31-40,Severe,Silver,5,80.68
+Microbiology,31-40,Severe,Gold,1,103.89
+Microbiology,31-40,Severe,Gold,3,103.87
+Microbiology,31-40,Severe,Gold,5,104.69
+Microbiology,41-50,Minor,Bronze,1,25.15
+Microbiology,41-50,Minor,Bronze,3,24.62
+Microbiology,41-50,Minor,Bronze,5,22.9
+Microbiology,41-50,Minor,Silver,1,32.83
+Microbiology,41-50,Minor,Silver,3,32.42
+Microbiology,41-50,Minor,Silver,5,31.25
+Microbiology,41-50,Minor,Gold,1,47.6
+Microbiology,41-50,Minor,Gold,3,46.97
+Microbiology,41-50,Minor,Gold,5,44.8
+Microbiology,41-50,Moderate,Bronze,1,36.11
+Microbiology,41-50,Moderate,Bronze,3,35.89
+Microbiology,41-50,Moderate,Bronze,5,37.59
+Microbiology,41-50,Moderate,Silver,1,46.99
+Microbiology,41-50,Moderate,Silver,3,47.11
+Microbiology,41-50,Moderate,Silver,5,51.07
+Microbiology,41-50,Moderate,Gold,1,63.16
+Microbiology,41-50,Moderate,Gold,3,63.25
+Microbiology,41-50,Moderate,Gold,5,67.8
+Microbiology,41-50,Severe,Bronze,1,65.06
+Microbiology,41-50,Severe,Bronze,3,64.33
+Microbiology,41-50,Severe,Bronze,5,67.35
+Microbiology,41-50,Severe,Silver,1,78.39
+Microbiology,41-50,Severe,Silver,3,78.94
+Microbiology,41-50,Severe,Silver,5,85.52
+Microbiology,41-50,Severe,Gold,1,103.77
+Microbiology,41-50,Severe,Gold,3,104.39
+Microbiology,41-50,Severe,Gold,5,111.84
+Microbiology,51-60,Minor,Bronze,1,28.67
+Microbiology,51-60,Minor,Bronze,3,27.68
+Microbiology,51-60,Minor,Bronze,5,24.98
+Microbiology,51-60,Minor,Silver,1,39.52
+Microbiology,51-60,Minor,Silver,3,38.49
+Microbiology,51-60,Minor,Silver,5,36.02
+Microbiology,51-60,Minor,Gold,1,57.22
+Microbiology,51-60,Minor,Gold,3,55.68
+Microbiology,51-60,Minor,Gold,5,51.56
+Microbiology,51-60,Moderate,Bronze,1,48.94
+Microbiology,51-60,Moderate,Bronze,3,47.97
+Microbiology,51-60,Moderate,Bronze,5,47.87
+Microbiology,51-60,Moderate,Silver,1,67.19
+Microbiology,51-60,Moderate,Silver,3,66.43
+Microbiology,51-60,Moderate,Silver,5,68.63
+Microbiology,51-60,Moderate,Gold,1,90.16
+Microbiology,51-60,Moderate,Gold,3,89.05
+Microbiology,51-60,Moderate,Gold,5,90.99
+Microbiology,51-60,Severe,Bronze,1,87.9
+Microbiology,51-60,Severe,Bronze,3,85.73
+Microbiology,51-60,Severe,Bronze,5,85.56
+Microbiology,51-60,Severe,Silver,1,111.8
+Microbiology,51-60,Severe,Silver,3,111.03
+Microbiology,51-60,Severe,Silver,5,114.69
+Microbiology,51-60,Severe,Gold,1,147.86
+Microbiology,51-60,Severe,Gold,3,146.7
+Microbiology,51-60,Severe,Gold,5,149.88
+Microbiology,61-70,Minor,Bronze,1,36.3
+Microbiology,61-70,Minor,Bronze,3,34.87
+Microbiology,61-70,Minor,Bronze,5,31.81
+Microbiology,61-70,Minor,Silver,1,49.88
+Microbiology,61-70,Minor,Silver,3,48.34
+Microbiology,61-70,Minor,Silver,5,45.7
+Microbiology,61-70,Minor,Gold,1,76.62
+Microbiology,61-70,Minor,Gold,3,74.2
+Microbiology,61-70,Minor,Gold,5,70.17
+Microbiology,61-70,Moderate,Bronze,1,59.72
+Microbiology,61-70,Moderate,Bronze,3,58.24
+Microbiology,61-70,Moderate,Bronze,5,58.7
+Microbiology,61-70,Moderate,Silver,1,81.82
+Microbiology,61-70,Moderate,Silver,3,80.5
+Microbiology,61-70,Moderate,Silver,5,83.97
+Microbiology,61-70,Moderate,Gold,1,117.16
+Microbiology,61-70,Moderate,Gold,3,115.16
+Microbiology,61-70,Moderate,Gold,5,120.1
+Microbiology,61-70,Severe,Bronze,1,101.9
+Microbiology,61-70,Severe,Bronze,3,103.93
+Microbiology,61-70,Severe,Bronze,5,104.74
+Microbiology,61-70,Severe,Silver,1,129.42
+Microbiology,61-70,Severe,Silver,3,134.4
+Microbiology,61-70,Severe,Silver,5,140.17
+Microbiology,61-70,Severe,Gold,1,182.69
+Microbiology,61-70,Severe,Gold,3,189.51
+Microbiology,61-70,Severe,Gold,5,197.62
+Microbiology,71-80,Minor,Bronze,1,46.59
+Microbiology,71-80,Minor,Bronze,3,45.44
+Microbiology,71-80,Minor,Bronze,5,41.72
+Microbiology,71-80,Minor,Silver,1,61.56
+Microbiology,71-80,Minor,Silver,3,60.56
+Microbiology,71-80,Minor,Silver,5,57.92
+Microbiology,71-80,Minor,Gold,1,93.82
+Microbiology,71-80,Minor,Gold,3,92.21
+Microbiology,71-80,Minor,Gold,5,88.21
+Microbiology,71-80,Moderate,Bronze,1,76.11
+Microbiology,71-80,Moderate,Bronze,3,74.58
+Microbiology,71-80,Moderate,Bronze,5,75.59
+Microbiology,71-80,Moderate,Silver,1,100.36
+Microbiology,71-80,Moderate,Silver,3,99.2
+Microbiology,71-80,Moderate,Silver,5,104.64
+Microbiology,71-80,Moderate,Gold,1,142.66
+Microbiology,71-80,Moderate,Gold,3,140.87
+Microbiology,71-80,Moderate,Gold,5,148.57
+Microbiology,71-80,Severe,Bronze,1,130.94
+Microbiology,71-80,Severe,Bronze,3,135.04
+Microbiology,71-80,Severe,Bronze,5,136.86
+Microbiology,71-80,Severe,Silver,1,160.17
+Microbiology,71-80,Severe,Silver,3,168.19
+Microbiology,71-80,Severe,Silver,5,177.38
+Microbiology,71-80,Severe,Gold,1,224.49
+Microbiology,71-80,Severe,Gold,3,235.47
+Microbiology,71-80,Severe,Gold,5,248.31
+Microbiology,Above 80,Minor,Bronze,1,56.03
+Microbiology,Above 80,Minor,Bronze,3,53.53
+Microbiology,Above 80,Minor,Bronze,5,48.82
+Microbiology,Above 80,Minor,Silver,1,73.97
+Microbiology,Above 80,Minor,Silver,3,71.3
+Microbiology,Above 80,Minor,Silver,5,67.72
+Microbiology,Above 80,Minor,Gold,1,112.03
+Microbiology,Above 80,Minor,Gold,3,107.9
+Microbiology,Above 80,Minor,Gold,5,102.51
+Microbiology,Above 80,Moderate,Bronze,1,92.33
+Microbiology,Above 80,Moderate,Bronze,3,88.65
+Microbiology,Above 80,Moderate,Bronze,5,89.23
+Microbiology,Above 80,Moderate,Silver,1,121.68
+Microbiology,Above 80,Moderate,Silver,3,117.86
+Microbiology,Above 80,Moderate,Silver,5,123.46
+Microbiology,Above 80,Moderate,Gold,1,171.99
+Microbiology,Above 80,Moderate,Gold,3,166.43
+Microbiology,Above 80,Moderate,Gold,5,174.31
+Microbiology,Above 80,Severe,Bronze,1,146.92
+Microbiology,Above 80,Severe,Bronze,3,148.48
+Microbiology,Above 80,Severe,Bronze,5,149.44
+Microbiology,Above 80,Severe,Silver,1,179.7
+Microbiology,Above 80,Severe,Silver,3,184.91
+Microbiology,Above 80,Severe,Silver,5,193.65
+Microbiology,Above 80,Severe,Gold,1,269.6
+Microbiology,Above 80,Severe,Gold,3,277.12
+Microbiology,Above 80,Severe,Gold,5,290.21
+Other Benefits,0-18,Minor,Bronze,1,46.0
+Other Benefits,0-18,Minor,Bronze,3,44.0
+Other Benefits,0-18,Minor,Bronze,5,40.5
+Other Benefits,0-18,Minor,Silver,1,61.35
+Other Benefits,0-18,Minor,Silver,3,58.72
+Other Benefits,0-18,Minor,Silver,5,54.74
+Other Benefits,0-18,Minor,Gold,1,75.24
+Other Benefits,0-18,Minor,Gold,3,72.61
+Other Benefits,0-18,Minor,Gold,5,66.98
+Other Benefits,0-18,Moderate,Bronze,1,72.58
+Other Benefits,0-18,Moderate,Bronze,3,70.27
+Other Benefits,0-18,Moderate,Bronze,5,69.89
+Other Benefits,0-18,Moderate,Silver,1,102.71
+Other Benefits,0-18,Moderate,Silver,3,99.49
+Other Benefits,0-18,Moderate,Silver,5,100.15
+Other Benefits,0-18,Moderate,Gold,1,129.59
+Other Benefits,0-18,Moderate,Gold,3,126.56
+Other Benefits,0-18,Moderate,Gold,5,126.03
+Other Benefits,0-18,Severe,Bronze,1,123.48
+Other Benefits,0-18,Severe,Bronze,3,121.36
+Other Benefits,0-18,Severe,Bronze,5,120.7
+Other Benefits,0-18,Severe,Silver,1,156.53
+Other Benefits,0-18,Severe,Silver,3,155.38
+Other Benefits,0-18,Severe,Silver,5,156.42
+Other Benefits,0-18,Severe,Gold,1,219.55
+Other Benefits,0-18,Severe,Gold,3,219.7
+Other Benefits,0-18,Severe,Gold,5,218.79
+Other Benefits,19-30,Minor,Bronze,1,52.85
+Other Benefits,19-30,Minor,Bronze,3,51.36
+Other Benefits,19-30,Minor,Bronze,5,47.3
+Other Benefits,19-30,Minor,Silver,1,72.87
+Other Benefits,19-30,Minor,Silver,3,70.86
+Other Benefits,19-30,Minor,Silver,5,66.08
+Other Benefits,19-30,Minor,Gold,1,91.39
+Other Benefits,19-30,Minor,Gold,3,89.6
+Other Benefits,19-30,Minor,Gold,5,82.66
+Other Benefits,19-30,Moderate,Bronze,1,82.43
+Other Benefits,19-30,Moderate,Bronze,3,81.07
+Other Benefits,19-30,Moderate,Bronze,5,80.63
+Other Benefits,19-30,Moderate,Silver,1,121.87
+Other Benefits,19-30,Moderate,Silver,3,119.92
+Other Benefits,19-30,Moderate,Silver,5,120.72
+Other Benefits,19-30,Moderate,Gold,1,157.26
+Other Benefits,19-30,Moderate,Gold,3,155.99
+Other Benefits,19-30,Moderate,Gold,5,155.34
+Other Benefits,19-30,Severe,Bronze,1,158.71
+Other Benefits,19-30,Severe,Bronze,3,157.98
+Other Benefits,19-30,Severe,Bronze,5,157.12
+Other Benefits,19-30,Severe,Silver,1,207.74
+Other Benefits,19-30,Severe,Silver,3,208.84
+Other Benefits,19-30,Severe,Silver,5,210.23
+Other Benefits,19-30,Severe,Gold,1,271.09
+Other Benefits,19-30,Severe,Gold,3,274.7
+Other Benefits,19-30,Severe,Gold,5,273.56
+Other Benefits,31-40,Minor,Bronze,1,60.0
+Other Benefits,31-40,Minor,Bronze,3,58.2
+Other Benefits,31-40,Minor,Bronze,5,53.61
+Other Benefits,31-40,Minor,Silver,1,82.68
+Other Benefits,31-40,Minor,Silver,3,80.25
+Other Benefits,31-40,Minor,Silver,5,74.84
+Other Benefits,31-40,Minor,Gold,1,103.66
+Other Benefits,31-40,Minor,Gold,3,101.43
+Other Benefits,31-40,Minor,Gold,5,93.59
+Other Benefits,31-40,Moderate,Bronze,1,93.23
+Other Benefits,31-40,Moderate,Bronze,3,91.8
+Other Benefits,31-40,Moderate,Bronze,5,91.3
+Other Benefits,31-40,Moderate,Silver,1,137.77
+Other Benefits,31-40,Moderate,Silver,3,135.72
+Other Benefits,31-40,Moderate,Silver,5,136.63
+Other Benefits,31-40,Moderate,Gold,1,177.74
+Other Benefits,31-40,Moderate,Gold,3,176.5
+Other Benefits,31-40,Moderate,Gold,5,175.77
+Other Benefits,31-40,Severe,Bronze,1,167.23
+Other Benefits,31-40,Severe,Bronze,3,166.89
+Other Benefits,31-40,Severe,Bronze,5,165.98
+Other Benefits,31-40,Severe,Silver,1,218.88
+Other Benefits,31-40,Severe,Silver,3,220.6
+Other Benefits,31-40,Severe,Silver,5,222.07
+Other Benefits,31-40,Severe,Gold,1,285.6
+Other Benefits,31-40,Severe,Gold,3,290.15
+Other Benefits,31-40,Severe,Gold,5,288.95
+Other Benefits,41-50,Minor,Bronze,1,65.27
+Other Benefits,41-50,Minor,Bronze,3,63.71
+Other Benefits,41-50,Minor,Bronze,5,62.41
+Other Benefits,41-50,Minor,Silver,1,88.39
+Other Benefits,41-50,Minor,Silver,3,86.32
+Other Benefits,41-50,Minor,Silver,5,85.6
+Other Benefits,41-50,Minor,Gold,1,111.69
+Other Benefits,41-50,Minor,Gold,3,109.96
+Other Benefits,41-50,Minor,Gold,5,107.86
+Other Benefits,41-50,Moderate,Bronze,1,96.34
+Other Benefits,41-50,Moderate,Bronze,3,95.45
+Other Benefits,41-50,Moderate,Bronze,5,100.92
+Other Benefits,41-50,Moderate,Silver,1,139.97
+Other Benefits,41-50,Moderate,Silver,3,138.73
+Other Benefits,41-50,Moderate,Silver,5,148.44
+Other Benefits,41-50,Moderate,Gold,1,182.01
+Other Benefits,41-50,Moderate,Gold,3,181.85
+Other Benefits,41-50,Moderate,Gold,5,192.46
+Other Benefits,41-50,Severe,Bronze,1,180.65
+Other Benefits,41-50,Severe,Bronze,3,181.38
+Other Benefits,41-50,Severe,Bronze,5,191.72
+Other Benefits,41-50,Severe,Silver,1,232.45
+Other Benefits,41-50,Severe,Silver,3,235.71
+Other Benefits,41-50,Severe,Silver,5,252.16
+Other Benefits,41-50,Severe,Gold,1,305.71
+Other Benefits,41-50,Severe,Gold,3,312.48
+Other Benefits,41-50,Severe,Gold,5,330.67
+Other Benefits,51-60,Minor,Bronze,1,81.09
+Other Benefits,51-60,Minor,Bronze,3,79.15
+Other Benefits,51-60,Minor,Bronze,5,75.28
+Other Benefits,51-60,Minor,Silver,1,124.37
+Other Benefits,51-60,Minor,Silver,3,121.45
+Other Benefits,51-60,Minor,Silver,5,116.95
+Other Benefits,51-60,Minor,Gold,1,157.04
+Other Benefits,51-60,Minor,Gold,3,154.6
+Other Benefits,51-60,Minor,Gold,5,147.28
+Other Benefits,51-60,Moderate,Bronze,1,119.29
+Other Benefits,51-60,Moderate,Bronze,3,118.17
+Other Benefits,51-60,Moderate,Bronze,5,119.14
+Other Benefits,51-60,Moderate,Silver,1,196.22
+Other Benefits,51-60,Moderate,Silver,3,194.46
+Other Benefits,51-60,Moderate,Silver,5,198.44
+Other Benefits,51-60,Moderate,Gold,1,255.03
+Other Benefits,51-60,Moderate,Gold,3,254.78
+Other Benefits,51-60,Moderate,Gold,5,257.19
+Other Benefits,51-60,Severe,Bronze,1,223.47
+Other Benefits,51-60,Severe,Bronze,3,224.35
+Other Benefits,51-60,Severe,Bronze,5,226.18
+Other Benefits,51-60,Severe,Silver,1,325.61
+Other Benefits,51-60,Severe,Silver,3,330.13
+Other Benefits,51-60,Severe,Silver,5,336.86
+Other Benefits,51-60,Severe,Gold,1,428.1
+Other Benefits,51-60,Severe,Gold,3,437.52
+Other Benefits,51-60,Severe,Gold,5,441.65
+Other Benefits,61-70,Minor,Bronze,1,97.01
+Other Benefits,61-70,Minor,Bronze,3,95.43
+Other Benefits,61-70,Minor,Bronze,5,91.66
+Other Benefits,61-70,Minor,Silver,1,145.86
+Other Benefits,61-70,Minor,Silver,3,143.55
+Other Benefits,61-70,Minor,Silver,5,139.59
+Other Benefits,61-70,Minor,Gold,1,203.14
+Other Benefits,61-70,Minor,Gold,3,201.53
+Other Benefits,61-70,Minor,Gold,5,195.98
+Other Benefits,61-70,Moderate,Bronze,1,141.72
+Other Benefits,61-70,Moderate,Bronze,3,141.49
+Other Benefits,61-70,Moderate,Bronze,5,144.03
+Other Benefits,61-70,Moderate,Silver,1,228.61
+Other Benefits,61-70,Moderate,Silver,3,228.32
+Other Benefits,61-70,Moderate,Silver,5,235.24
+Other Benefits,61-70,Moderate,Gold,1,329.32
+Other Benefits,61-70,Moderate,Gold,3,331.54
+Other Benefits,61-70,Moderate,Gold,5,341.58
+Other Benefits,61-70,Severe,Bronze,1,250.55
+Other Benefits,61-70,Severe,Bronze,3,266.33
+Other Benefits,61-70,Severe,Bronze,5,271.11
+Other Benefits,61-70,Severe,Silver,1,358.15
+Other Benefits,61-70,Severe,Silver,3,384.45
+Other Benefits,61-70,Severe,Silver,5,396.08
+Other Benefits,61-70,Severe,Gold,1,521.88
+Other Benefits,61-70,Severe,Gold,3,564.67
+Other Benefits,61-70,Severe,Gold,5,581.74
+Other Benefits,71-80,Minor,Bronze,1,122.26
+Other Benefits,71-80,Minor,Bronze,3,122.05
+Other Benefits,71-80,Minor,Bronze,5,119.6
+Other Benefits,71-80,Minor,Silver,1,177.02
+Other Benefits,71-80,Minor,Silver,3,176.79
+Other Benefits,71-80,Minor,Silver,5,176.34
+Other Benefits,71-80,Minor,Gold,1,232.41
+Other Benefits,71-80,Minor,Gold,3,233.97
+Other Benefits,71-80,Minor,Gold,5,233.38
+Other Benefits,71-80,Moderate,Bronze,1,163.53
+Other Benefits,71-80,Moderate,Bronze,3,164.01
+Other Benefits,71-80,Moderate,Bronze,5,170.3
+Other Benefits,71-80,Moderate,Silver,1,254.11
+Other Benefits,71-80,Moderate,Silver,3,254.95
+Other Benefits,71-80,Moderate,Silver,5,269.42
+Other Benefits,71-80,Moderate,Gold,1,345.18
+Other Benefits,71-80,Moderate,Gold,3,349.1
+Other Benefits,71-80,Moderate,Gold,5,368.89
+Other Benefits,71-80,Severe,Bronze,1,291.8
+Other Benefits,71-80,Severe,Bronze,3,313.62
+Other Benefits,71-80,Severe,Bronze,5,325.61
+Other Benefits,71-80,Severe,Silver,1,401.9
+Other Benefits,71-80,Severe,Silver,3,436.21
+Other Benefits,71-80,Severe,Silver,5,460.92
+Other Benefits,71-80,Severe,Gold,1,552.29
+Other Benefits,71-80,Severe,Gold,3,604.22
+Other Benefits,71-80,Severe,Gold,5,638.43
+Other Benefits,Above 80,Minor,Bronze,1,152.32
+Other Benefits,Above 80,Minor,Bronze,3,148.64
+Other Benefits,Above 80,Minor,Bronze,5,144.29
+Other Benefits,Above 80,Minor,Silver,1,223.88
+Other Benefits,Above 80,Minor,Silver,3,218.57
+Other Benefits,Above 80,Minor,Silver,5,215.97
+Other Benefits,Above 80,Minor,Gold,1,278.16
+Other Benefits,Above 80,Minor,Gold,3,273.76
+Other Benefits,Above 80,Minor,Gold,5,270.5
+Other Benefits,Above 80,Moderate,Bronze,1,203.65
+Other Benefits,Above 80,Moderate,Bronze,3,199.66
+Other Benefits,Above 80,Moderate,Bronze,5,205.36
+Other Benefits,Above 80,Moderate,Silver,1,321.26
+Other Benefits,Above 80,Moderate,Silver,3,315.11
+Other Benefits,Above 80,Moderate,Silver,5,329.85
+Other Benefits,Above 80,Moderate,Gold,1,413.04
+Other Benefits,Above 80,Moderate,Gold,3,408.38
+Other Benefits,Above 80,Moderate,Gold,5,427.47
+Other Benefits,Above 80,Severe,Bronze,1,348.31
+Other Benefits,Above 80,Severe,Bronze,3,365.97
+Other Benefits,Above 80,Severe,Bronze,5,376.39
+Other Benefits,Above 80,Severe,Silver,1,487.15
+Other Benefits,Above 80,Severe,Silver,3,516.91
+Other Benefits,Above 80,Severe,Silver,5,541.06
+Other Benefits,Above 80,Severe,Gold,1,681.87
+Other Benefits,Above 80,Severe,Gold,3,729.29
+Other Benefits,Above 80,Severe,Gold,5,763.35
+Palliative care,0-18,Minor,Bronze,1,1231.94
+Palliative care,0-18,Minor,Bronze,3,1230.55
+Palliative care,0-18,Minor,Bronze,5,1181.33
+Palliative care,0-18,Minor,Silver,1,2133.64
+Palliative care,0-18,Minor,Silver,3,2132.07
+Palliative care,0-18,Minor,Silver,5,2071.59
+Palliative care,0-18,Minor,Gold,1,3959.55
+Palliative care,0-18,Minor,Gold,3,3952.6
+Palliative care,0-18,Minor,Gold,5,3799.39
+Palliative care,0-18,Moderate,Bronze,1,1858.48
+Palliative care,0-18,Moderate,Bronze,3,1852.43
+Palliative care,0-18,Moderate,Bronze,5,1917.82
+Palliative care,0-18,Moderate,Silver,1,3184.69
+Palliative care,0-18,Moderate,Silver,3,3175.55
+Palliative care,0-18,Moderate,Silver,5,3327.38
+Palliative care,0-18,Moderate,Gold,1,6085.65
+Palliative care,0-18,Moderate,Gold,3,6062.02
+Palliative care,0-18,Moderate,Gold,5,6283.81
+Palliative care,0-18,Severe,Bronze,1,2960.27
+Palliative care,0-18,Severe,Bronze,3,2994.5
+Palliative care,0-18,Severe,Bronze,5,3068.95
+Palliative care,0-18,Severe,Silver,1,4706.96
+Palliative care,0-18,Severe,Silver,3,4808.51
+Palliative care,0-18,Severe,Silver,5,4987.64
+Palliative care,0-18,Severe,Gold,1,8654.14
+Palliative care,0-18,Severe,Gold,3,8831.84
+Palliative care,0-18,Severe,Gold,5,9062.75
+Palliative care,19-30,Minor,Bronze,1,1547.48
+Palliative care,19-30,Minor,Bronze,3,1569.91
+Palliative care,19-30,Minor,Bronze,5,1507.14
+Palliative care,19-30,Minor,Silver,1,2564.2
+Palliative care,19-30,Minor,Silver,3,2602.38
+Palliative care,19-30,Minor,Silver,5,2528.56
+Palliative care,19-30,Minor,Gold,1,4866.8
+Palliative care,19-30,Minor,Gold,3,4934.21
+Palliative care,19-30,Minor,Gold,5,4742.95
+Palliative care,19-30,Moderate,Bronze,1,2309.91
+Palliative care,19-30,Moderate,Bronze,3,2338.4
+Palliative care,19-30,Moderate,Bronze,5,2420.93
+Palliative care,19-30,Moderate,Silver,1,3827.24
+Palliative care,19-30,Moderate,Silver,3,3875.93
+Palliative care,19-30,Moderate,Silver,5,4061.24
+Palliative care,19-30,Moderate,Gold,1,7479.92
+Palliative care,19-30,Moderate,Gold,3,7567.36
+Palliative care,19-30,Moderate,Gold,5,7844.22
+Palliative care,19-30,Severe,Bronze,1,4153.69
+Palliative care,19-30,Severe,Bronze,3,4254.77
+Palliative care,19-30,Severe,Bronze,5,4360.53
+Palliative care,19-30,Severe,Silver,1,6311.57
+Palliative care,19-30,Severe,Silver,3,6529.14
+Palliative care,19-30,Severe,Silver,5,6772.35
+Palliative care,19-30,Severe,Gold,1,10802.87
+Palliative care,19-30,Severe,Gold,3,11163.87
+Palliative care,19-30,Severe,Gold,5,11455.74
+Palliative care,31-40,Minor,Bronze,1,1677.04
+Palliative care,31-40,Minor,Bronze,3,1698.07
+Palliative care,31-40,Minor,Bronze,5,1630.17
+Palliative care,31-40,Minor,Silver,1,2778.83
+Palliative care,31-40,Minor,Silver,3,2814.76
+Palliative care,31-40,Minor,Silver,5,2734.92
+Palliative care,31-40,Minor,Gold,1,5274.08
+Palliative care,31-40,Minor,Gold,3,5336.82
+Palliative care,31-40,Minor,Gold,5,5129.96
+Palliative care,31-40,Moderate,Bronze,1,2495.69
+Palliative care,31-40,Moderate,Bronze,3,2529.24
+Palliative care,31-40,Moderate,Bronze,5,2618.5
+Palliative care,31-40,Moderate,Silver,1,4135.0
+Palliative care,31-40,Moderate,Silver,3,4192.21
+Palliative care,31-40,Moderate,Silver,5,4392.63
+Palliative care,31-40,Moderate,Gold,1,8081.33
+Palliative care,31-40,Moderate,Gold,3,8184.78
+Palliative care,31-40,Moderate,Gold,5,8484.22
+Palliative care,31-40,Severe,Bronze,1,4185.41
+Palliative care,31-40,Severe,Bronze,3,4298.21
+Palliative care,31-40,Severe,Bronze,5,4405.05
+Palliative care,31-40,Severe,Silver,1,6359.76
+Palliative care,31-40,Severe,Silver,3,6595.79
+Palliative care,31-40,Severe,Silver,5,6841.48
+Palliative care,31-40,Severe,Gold,1,10885.35
+Palliative care,31-40,Severe,Gold,3,11277.82
+Palliative care,31-40,Severe,Gold,5,11572.67
+Palliative care,41-50,Minor,Bronze,1,1972.06
+Palliative care,41-50,Minor,Bronze,3,2008.93
+Palliative care,41-50,Minor,Bronze,5,2017.8
+Palliative care,41-50,Minor,Silver,1,3212.99
+Palliative care,41-50,Minor,Silver,3,3274.32
+Palliative care,41-50,Minor,Silver,5,3328.56
+Palliative care,41-50,Minor,Gold,1,6146.37
+Palliative care,41-50,Minor,Gold,3,6257.31
+Palliative care,41-50,Minor,Gold,5,6292.85
+Palliative care,41-50,Moderate,Bronze,1,2595.83
+Palliative care,41-50,Moderate,Bronze,3,2646.72
+Palliative care,41-50,Moderate,Bronze,5,2866.84
+Palliative care,41-50,Moderate,Silver,1,4229.07
+Palliative care,41-50,Moderate,Silver,3,4313.65
+Palliative care,41-50,Moderate,Silver,5,4728.85
+Palliative care,41-50,Moderate,Gold,1,8330.76
+Palliative care,41-50,Moderate,Gold,3,8488.71
+Palliative care,41-50,Moderate,Gold,5,9206.06
+Palliative care,41-50,Severe,Bronze,1,4550.14
+Palliative care,41-50,Severe,Bronze,3,4701.18
+Palliative care,41-50,Severe,Bronze,5,5040.8
+Palliative care,41-50,Severe,Silver,1,6798.49
+Palliative care,41-50,Severe,Silver,3,7093.67
+Palliative care,41-50,Severe,Silver,5,7698.07
+Palliative care,41-50,Severe,Gold,1,11728.61
+Palliative care,41-50,Severe,Gold,3,12225.36
+Palliative care,41-50,Severe,Gold,5,13124.92
+Palliative care,51-60,Minor,Bronze,1,2596.17
+Palliative care,51-60,Minor,Bronze,3,2677.45
+Palliative care,51-60,Minor,Bronze,5,2612.06
+Palliative care,51-60,Minor,Silver,1,4465.45
+Palliative care,51-60,Minor,Silver,3,4607.02
+Palliative care,51-60,Minor,Silver,5,4548.87
+Palliative care,51-60,Minor,Gold,1,8541.93
+Palliative care,51-60,Minor,Gold,3,8803.75
+Palliative care,51-60,Minor,Gold,5,8599.58
+Palliative care,51-60,Moderate,Bronze,1,3470.3
+Palliative care,51-60,Moderate,Bronze,3,3582.14
+Palliative care,51-60,Moderate,Bronze,5,3701.63
+Palliative care,51-60,Moderate,Silver,1,5968.72
+Palliative care,51-60,Moderate,Silver,3,6163.45
+Palliative care,51-60,Moderate,Silver,5,6446.04
+Palliative care,51-60,Moderate,Gold,1,11757.27
+Palliative care,51-60,Moderate,Gold,3,12128.46
+Palliative care,51-60,Moderate,Gold,5,12548.72
+Palliative care,51-60,Severe,Bronze,1,6082.72
+Palliative care,51-60,Severe,Bronze,3,6362.43
+Palliative care,51-60,Severe,Bronze,5,6508.4
+Palliative care,51-60,Severe,Silver,1,9594.84
+Palliative care,51-60,Severe,Silver,3,10135.34
+Palliative care,51-60,Severe,Silver,5,10493.25
+Palliative care,51-60,Severe,Gold,1,16552.51
+Palliative care,51-60,Severe,Gold,3,17467.12
+Palliative care,51-60,Severe,Gold,5,17890.32
+Palliative care,61-70,Minor,Bronze,1,3022.27
+Palliative care,61-70,Minor,Bronze,3,3326.29
+Palliative care,61-70,Minor,Bronze,5,3210.3
+Palliative care,61-70,Minor,Silver,1,5192.57
+Palliative care,61-70,Minor,Silver,3,5717.05
+Palliative care,61-70,Minor,Silver,5,5584.46
+Palliative care,61-70,Minor,Gold,1,10201.6
+Palliative care,61-70,Minor,Gold,3,11220.5
+Palliative care,61-70,Minor,Gold,5,10960.29
+Palliative care,61-70,Moderate,Bronze,1,3737.65
+Palliative care,61-70,Moderate,Bronze,3,4117.29
+Palliative care,61-70,Moderate,Bronze,5,4209.07
+Palliative care,61-70,Moderate,Silver,1,6421.5
+Palliative care,61-70,Moderate,Silver,3,7076.41
+Palliative care,61-70,Moderate,Silver,5,7321.62
+Palliative care,61-70,Moderate,Gold,1,13056.83
+Palliative care,61-70,Moderate,Gold,3,14373.71
+Palliative care,61-70,Moderate,Gold,5,14871.76
+Palliative care,61-70,Severe,Bronze,1,6236.53
+Palliative care,61-70,Severe,Bronze,3,7312.81
+Palliative care,61-70,Severe,Bronze,5,7400.51
+Palliative care,61-70,Severe,Silver,1,9826.73
+Palliative care,61-70,Severe,Silver,3,11636.54
+Palliative care,61-70,Severe,Silver,5,11918.49
+Palliative care,61-70,Severe,Gold,1,17499.0
+Palliative care,61-70,Severe,Gold,3,20700.59
+Palliative care,61-70,Severe,Gold,5,21202.14
+Palliative care,71-80,Minor,Bronze,1,3724.68
+Palliative care,71-80,Minor,Bronze,3,4159.55
+Palliative care,71-80,Minor,Bronze,5,4037.12
+Palliative care,71-80,Minor,Silver,1,5552.16
+Palliative care,71-80,Minor,Silver,3,6202.74
+Palliative care,71-80,Minor,Silver,5,6127.07
+Palliative care,71-80,Minor,Gold,1,10342.93
+Palliative care,71-80,Minor,Gold,3,11543.01
+Palliative care,71-80,Minor,Gold,5,11402.19
+Palliative care,71-80,Moderate,Bronze,1,4588.83
+Palliative care,71-80,Moderate,Bronze,3,5077.84
+Palliative care,71-80,Moderate,Bronze,5,5220.26
+Palliative care,71-80,Moderate,Silver,1,6840.18
+Palliative care,71-80,Moderate,Silver,3,7572.0
+Palliative care,71-80,Moderate,Silver,5,7922.53
+Palliative care,71-80,Moderate,Gold,1,13187.59
+Palliative care,71-80,Moderate,Gold,3,14583.55
+Palliative care,71-80,Moderate,Gold,5,15258.63
+Palliative care,71-80,Severe,Bronze,1,7730.53
+Palliative care,71-80,Severe,Bronze,3,9165.41
+Palliative care,71-80,Severe,Bronze,5,9327.55
+Palliative care,71-80,Severe,Silver,1,10568.45
+Palliative care,71-80,Severe,Silver,3,12654.02
+Palliative care,71-80,Severe,Silver,5,13106.44
+Palliative care,71-80,Severe,Gold,1,17844.84
+Palliative care,71-80,Severe,Gold,3,21344.46
+Palliative care,71-80,Severe,Gold,5,22107.56
+Palliative care,Above 80,Minor,Bronze,1,4478.04
+Palliative care,Above 80,Minor,Bronze,3,4921.07
+Palliative care,Above 80,Minor,Bronze,5,4731.5
+Palliative care,Above 80,Minor,Silver,1,6779.14
+Palliative care,Above 80,Minor,Silver,3,7452.66
+Palliative care,Above 80,Minor,Silver,5,7292.79
+Palliative care,Above 80,Minor,Gold,1,12299.94
+Palliative care,Above 80,Minor,Gold,3,13508.12
+Palliative care,Above 80,Minor,Gold,5,13218.37
+Palliative care,Above 80,Moderate,Bronze,1,5516.92
+Palliative care,Above 80,Moderate,Bronze,3,6007.44
+Palliative care,Above 80,Moderate,Bronze,5,6118.08
+Palliative care,Above 80,Moderate,Silver,1,8351.74
+Palliative care,Above 80,Moderate,Silver,3,9097.79
+Palliative care,Above 80,Moderate,Silver,5,9429.8
+Palliative care,Above 80,Moderate,Gold,1,15682.79
+Palliative care,Above 80,Moderate,Gold,3,17066.24
+Palliative care,Above 80,Moderate,Gold,5,17689.02
+Palliative care,Above 80,Severe,Bronze,1,8914.15
+Palliative care,Above 80,Severe,Bronze,3,10400.13
+Palliative care,Above 80,Severe,Bronze,5,10484.99
+Palliative care,Above 80,Severe,Silver,1,12376.53
+Palliative care,Above 80,Severe,Silver,3,14582.52
+Palliative care,Above 80,Severe,Silver,5,14962.44
+Palliative care,Above 80,Severe,Gold,1,21898.57
+Palliative care,Above 80,Severe,Gold,3,25775.37
+Palliative care,Above 80,Severe,Gold,5,26446.87
+Physiotherapy,0-18,Minor,Bronze,1,21.81
+Physiotherapy,0-18,Minor,Bronze,3,20.46
+Physiotherapy,0-18,Minor,Bronze,5,19.38
+Physiotherapy,0-18,Minor,Silver,1,31.35
+Physiotherapy,0-18,Minor,Silver,3,28.74
+Physiotherapy,0-18,Minor,Silver,5,27.6
+Physiotherapy,0-18,Minor,Gold,1,40.13
+Physiotherapy,0-18,Minor,Gold,3,37.08
+Physiotherapy,0-18,Minor,Gold,5,35.22
+Physiotherapy,0-18,Moderate,Bronze,1,33.78
+Physiotherapy,0-18,Moderate,Bronze,3,32.1
+Physiotherapy,0-18,Moderate,Bronze,5,32.9
+Physiotherapy,0-18,Moderate,Silver,1,47.81
+Physiotherapy,0-18,Moderate,Silver,3,44.4
+Physiotherapy,0-18,Moderate,Silver,5,46.07
+Physiotherapy,0-18,Moderate,Gold,1,62.9
+Physiotherapy,0-18,Moderate,Gold,3,58.85
+Physiotherapy,0-18,Moderate,Gold,5,60.39
+Physiotherapy,0-18,Severe,Bronze,1,67.16
+Physiotherapy,0-18,Severe,Bronze,3,64.4
+Physiotherapy,0-18,Severe,Bronze,5,66.0
+Physiotherapy,0-18,Severe,Silver,1,87.77
+Physiotherapy,0-18,Severe,Silver,3,83.04
+Physiotherapy,0-18,Severe,Silver,5,86.13
+Physiotherapy,0-18,Severe,Gold,1,133.04
+Physiotherapy,0-18,Severe,Gold,3,126.8
+Physiotherapy,0-18,Severe,Gold,5,130.09
+Physiotherapy,19-30,Minor,Bronze,1,31.66
+Physiotherapy,19-30,Minor,Bronze,3,30.2
+Physiotherapy,19-30,Minor,Bronze,5,28.63
+Physiotherapy,19-30,Minor,Silver,1,43.32
+Physiotherapy,19-30,Minor,Silver,3,40.38
+Physiotherapy,19-30,Minor,Silver,5,38.78
+Physiotherapy,19-30,Minor,Gold,1,56.62
+Physiotherapy,19-30,Minor,Gold,3,53.18
+Physiotherapy,19-30,Minor,Gold,5,50.53
+Physiotherapy,19-30,Moderate,Bronze,1,48.27
+Physiotherapy,19-30,Moderate,Bronze,3,46.61
+Physiotherapy,19-30,Moderate,Bronze,5,47.78
+Physiotherapy,19-30,Moderate,Silver,1,65.86
+Physiotherapy,19-30,Moderate,Silver,3,62.15
+Physiotherapy,19-30,Moderate,Silver,5,64.48
+Physiotherapy,19-30,Moderate,Gold,1,88.52
+Physiotherapy,19-30,Moderate,Gold,3,84.16
+Physiotherapy,19-30,Moderate,Gold,5,86.34
+Physiotherapy,19-30,Severe,Bronze,1,94.58
+Physiotherapy,19-30,Severe,Bronze,3,91.87
+Physiotherapy,19-30,Severe,Bronze,5,94.13
+Physiotherapy,19-30,Severe,Silver,1,117.96
+Physiotherapy,19-30,Severe,Silver,3,113.05
+Physiotherapy,19-30,Severe,Silver,5,117.24
+Physiotherapy,19-30,Severe,Gold,1,166.22
+Physiotherapy,19-30,Severe,Gold,3,160.46
+Physiotherapy,19-30,Severe,Gold,5,164.6
+Physiotherapy,31-40,Minor,Bronze,1,34.24
+Physiotherapy,31-40,Minor,Bronze,3,33.58
+Physiotherapy,31-40,Minor,Bronze,5,32.56
+Physiotherapy,31-40,Minor,Silver,1,46.82
+Physiotherapy,31-40,Minor,Silver,3,44.87
+Physiotherapy,31-40,Minor,Silver,5,44.05
+Physiotherapy,31-40,Minor,Gold,1,61.17
+Physiotherapy,31-40,Minor,Gold,3,59.06
+Physiotherapy,31-40,Minor,Gold,5,57.36
+Physiotherapy,31-40,Moderate,Bronze,1,52.01
+Physiotherapy,31-40,Moderate,Bronze,3,51.78
+Physiotherapy,31-40,Moderate,Bronze,5,54.24
+Physiotherapy,31-40,Moderate,Silver,1,70.93
+Physiotherapy,31-40,Moderate,Silver,3,69.0
+Physiotherapy,31-40,Moderate,Silver,5,73.15
+Physiotherapy,31-40,Moderate,Gold,1,95.3
+Physiotherapy,31-40,Moderate,Gold,3,93.39
+Physiotherapy,31-40,Moderate,Gold,5,97.91
+Physiotherapy,31-40,Severe,Bronze,1,94.9
+Physiotherapy,31-40,Severe,Bronze,3,95.14
+Physiotherapy,31-40,Severe,Bronze,5,99.62
+Physiotherapy,31-40,Severe,Silver,1,118.36
+Physiotherapy,31-40,Severe,Silver,3,117.07
+Physiotherapy,31-40,Severe,Silver,5,124.06
+Physiotherapy,31-40,Severe,Gold,1,166.78
+Physiotherapy,31-40,Severe,Gold,3,166.16
+Physiotherapy,31-40,Severe,Gold,5,174.16
+Physiotherapy,41-50,Minor,Bronze,1,39.01
+Physiotherapy,41-50,Minor,Bronze,3,38.5
+Physiotherapy,41-50,Minor,Bronze,5,39.73
+Physiotherapy,41-50,Minor,Silver,1,50.08
+Physiotherapy,41-50,Minor,Silver,3,48.29
+Physiotherapy,41-50,Minor,Silver,5,50.44
+Physiotherapy,41-50,Minor,Gold,1,65.94
+Physiotherapy,41-50,Minor,Gold,3,64.05
+Physiotherapy,41-50,Minor,Gold,5,66.16
+Physiotherapy,41-50,Moderate,Bronze,1,56.23
+Physiotherapy,41-50,Moderate,Bronze,3,56.33
+Physiotherapy,41-50,Moderate,Bronze,5,62.75
+Physiotherapy,41-50,Moderate,Silver,1,72.07
+Physiotherapy,41-50,Moderate,Silver,3,70.54
+Physiotherapy,41-50,Moderate,Silver,5,79.51
+Physiotherapy,41-50,Moderate,Gold,1,97.6
+Physiotherapy,41-50,Moderate,Gold,3,96.24
+Physiotherapy,41-50,Moderate,Gold,5,107.25
+Physiotherapy,41-50,Severe,Bronze,1,107.22
+Physiotherapy,41-50,Severe,Bronze,3,108.15
+Physiotherapy,41-50,Severe,Bronze,5,120.37
+Physiotherapy,41-50,Severe,Silver,1,125.72
+Physiotherapy,41-50,Severe,Silver,3,125.12
+Physiotherapy,41-50,Severe,Silver,5,140.94
+Physiotherapy,41-50,Severe,Gold,1,178.55
+Physiotherapy,41-50,Severe,Gold,3,178.98
+Physiotherapy,41-50,Severe,Gold,5,199.37
+Physiotherapy,51-60,Minor,Bronze,1,42.45
+Physiotherapy,51-60,Minor,Bronze,3,42.66
+Physiotherapy,51-60,Minor,Bronze,5,42.73
+Physiotherapy,51-60,Minor,Silver,1,61.87
+Physiotherapy,51-60,Minor,Silver,3,60.76
+Physiotherapy,51-60,Minor,Silver,5,61.6
+Physiotherapy,51-60,Minor,Gold,1,81.39
+Physiotherapy,51-60,Minor,Gold,3,80.51
+Physiotherapy,51-60,Minor,Gold,5,80.73
+Physiotherapy,51-60,Moderate,Bronze,1,66.54
+Physiotherapy,51-60,Moderate,Bronze,3,67.87
+Physiotherapy,51-60,Moderate,Bronze,5,72.06
+Physiotherapy,51-60,Moderate,Silver,1,96.72
+Physiotherapy,51-60,Moderate,Silver,3,96.41
+Physiotherapy,51-60,Moderate,Silver,5,103.58
+Physiotherapy,51-60,Moderate,Gold,1,130.88
+Physiotherapy,51-60,Moderate,Gold,3,131.39
+Physiotherapy,51-60,Moderate,Gold,5,139.61
+Physiotherapy,51-60,Severe,Bronze,1,126.71
+Physiotherapy,51-60,Severe,Bronze,3,130.13
+Physiotherapy,51-60,Severe,Bronze,5,138.1
+Physiotherapy,51-60,Severe,Silver,1,168.49
+Physiotherapy,51-60,Severe,Silver,3,170.72
+Physiotherapy,51-60,Severe,Silver,5,183.36
+Physiotherapy,51-60,Severe,Gold,1,239.15
+Physiotherapy,51-60,Severe,Gold,3,244.04
+Physiotherapy,51-60,Severe,Gold,5,259.26
+Physiotherapy,61-70,Minor,Bronze,1,51.48
+Physiotherapy,61-70,Minor,Bronze,3,52.5
+Physiotherapy,61-70,Minor,Bronze,5,53.1
+Physiotherapy,61-70,Minor,Silver,1,74.85
+Physiotherapy,61-70,Minor,Silver,3,74.59
+Physiotherapy,61-70,Minor,Silver,5,76.36
+Physiotherapy,61-70,Minor,Gold,1,98.38
+Physiotherapy,61-70,Minor,Gold,3,98.74
+Physiotherapy,61-70,Minor,Gold,5,101.07
+Physiotherapy,61-70,Moderate,Bronze,1,80.06
+Physiotherapy,61-70,Moderate,Bronze,3,82.87
+Physiotherapy,61-70,Moderate,Bronze,5,88.82
+Physiotherapy,61-70,Moderate,Silver,1,116.17
+Physiotherapy,61-70,Moderate,Silver,3,117.49
+Physiotherapy,61-70,Moderate,Silver,5,127.44
+Physiotherapy,61-70,Moderate,Gold,1,157.88
+Physiotherapy,61-70,Moderate,Gold,3,160.81
+Physiotherapy,61-70,Moderate,Gold,5,174.4
+Physiotherapy,61-70,Severe,Bronze,1,146.17
+Physiotherapy,61-70,Severe,Bronze,3,160.04
+Physiotherapy,61-70,Severe,Bronze,5,171.48
+Physiotherapy,61-70,Severe,Silver,1,194.1
+Physiotherapy,61-70,Severe,Silver,3,209.66
+Physiotherapy,61-70,Severe,Silver,5,227.35
+Physiotherapy,61-70,Severe,Gold,1,276.77
+Physiotherapy,61-70,Severe,Gold,3,301.05
+Physiotherapy,61-70,Severe,Gold,5,326.42
+Physiotherapy,71-80,Minor,Bronze,1,62.09
+Physiotherapy,71-80,Minor,Bronze,3,64.27
+Physiotherapy,71-80,Minor,Bronze,5,65.37
+Physiotherapy,71-80,Minor,Silver,1,90.33
+Physiotherapy,71-80,Minor,Silver,3,91.36
+Physiotherapy,71-80,Minor,Silver,5,94.58
+Physiotherapy,71-80,Minor,Gold,1,112.47
+Physiotherapy,71-80,Minor,Gold,3,114.56
+Physiotherapy,71-80,Minor,Gold,5,118.59
+Physiotherapy,71-80,Moderate,Bronze,1,91.41
+Physiotherapy,71-80,Moderate,Bronze,3,95.04
+Physiotherapy,71-80,Moderate,Bronze,5,102.44
+Physiotherapy,71-80,Moderate,Silver,1,132.79
+Physiotherapy,71-80,Moderate,Silver,3,134.9
+Physiotherapy,71-80,Moderate,Silver,5,147.98
+Physiotherapy,71-80,Moderate,Gold,1,171.02
+Physiotherapy,71-80,Moderate,Gold,3,174.98
+Physiotherapy,71-80,Moderate,Gold,5,191.91
+Physiotherapy,71-80,Severe,Bronze,1,158.85
+Physiotherapy,71-80,Severe,Bronze,3,175.86
+Physiotherapy,71-80,Severe,Bronze,5,189.49
+Physiotherapy,71-80,Severe,Silver,1,211.24
+Physiotherapy,71-80,Severe,Silver,3,230.71
+Physiotherapy,71-80,Severe,Silver,5,253.0
+Physiotherapy,71-80,Severe,Gold,1,285.52
+Physiotherapy,71-80,Severe,Gold,3,314.03
+Physiotherapy,71-80,Severe,Gold,5,344.34
+Physiotherapy,Above 80,Minor,Bronze,1,82.71
+Physiotherapy,Above 80,Minor,Bronze,3,83.66
+Physiotherapy,Above 80,Minor,Bronze,5,84.29
+Physiotherapy,Above 80,Minor,Silver,1,122.07
+Physiotherapy,Above 80,Minor,Silver,3,120.67
+Physiotherapy,Above 80,Minor,Silver,5,123.74
+Physiotherapy,Above 80,Minor,Gold,1,147.92
+Physiotherapy,Above 80,Minor,Gold,3,147.28
+Physiotherapy,Above 80,Minor,Gold,5,151.02
+Physiotherapy,Above 80,Moderate,Bronze,1,121.61
+Physiotherapy,Above 80,Moderate,Bronze,3,123.58
+Physiotherapy,Above 80,Moderate,Bronze,5,131.93
+Physiotherapy,Above 80,Moderate,Silver,1,179.28
+Physiotherapy,Above 80,Moderate,Silver,3,178.04
+Physiotherapy,Above 80,Moderate,Silver,5,193.43
+Physiotherapy,Above 80,Moderate,Gold,1,224.76
+Physiotherapy,Above 80,Moderate,Gold,3,224.81
+Physiotherapy,Above 80,Moderate,Gold,5,244.22
+Physiotherapy,Above 80,Severe,Bronze,1,198.22
+Physiotherapy,Above 80,Severe,Bronze,3,214.5
+Physiotherapy,Above 80,Severe,Bronze,5,228.93
+Physiotherapy,Above 80,Severe,Silver,1,267.64
+Physiotherapy,Above 80,Severe,Silver,3,285.74
+Physiotherapy,Above 80,Severe,Silver,5,310.38
+Physiotherapy,Above 80,Severe,Gold,1,379.03
+Physiotherapy,Above 80,Severe,Gold,3,407.52
+Physiotherapy,Above 80,Severe,Gold,5,442.62
+Rehabilitation,0-18,Minor,Bronze,1,922.48
+Rehabilitation,0-18,Minor,Bronze,3,965.86
+Rehabilitation,0-18,Minor,Bronze,5,902.52
+Rehabilitation,0-18,Minor,Silver,1,1320.02
+Rehabilitation,0-18,Minor,Silver,3,1382.61
+Rehabilitation,0-18,Minor,Silver,5,1307.61
+Rehabilitation,0-18,Minor,Gold,1,1646.81
+Rehabilitation,0-18,Minor,Gold,3,1673.23
+Rehabilitation,0-18,Minor,Gold,5,1560.24
+Rehabilitation,0-18,Moderate,Bronze,1,1394.24
+Rehabilitation,0-18,Moderate,Bronze,3,1462.47
+Rehabilitation,0-18,Moderate,Bronze,5,1473.78
+Rehabilitation,0-18,Moderate,Silver,1,1973.96
+Rehabilitation,0-18,Moderate,Silver,3,2071.34
+Rehabilitation,0-18,Moderate,Silver,5,2112.62
+Rehabilitation,0-18,Moderate,Gold,1,2535.89
+Rehabilitation,0-18,Moderate,Gold,3,2581.3
+Rehabilitation,0-18,Moderate,Gold,5,2595.76
+Rehabilitation,0-18,Severe,Bronze,1,2406.59
+Rehabilitation,0-18,Severe,Bronze,3,2566.88
+Rehabilitation,0-18,Severe,Bronze,5,2586.74
+Rehabilitation,0-18,Severe,Silver,1,3161.54
+Rehabilitation,0-18,Severe,Silver,3,3405.48
+Rehabilitation,0-18,Severe,Silver,5,3473.32
+Rehabilitation,0-18,Severe,Gold,1,4404.68
+Rehabilitation,0-18,Severe,Gold,3,4602.47
+Rehabilitation,0-18,Severe,Gold,5,4628.24
+Rehabilitation,19-30,Minor,Bronze,1,1289.07
+Rehabilitation,19-30,Minor,Bronze,3,1395.58
+Rehabilitation,19-30,Minor,Bronze,5,1304.09
+Rehabilitation,19-30,Minor,Silver,1,1764.75
+Rehabilitation,19-30,Minor,Silver,3,1911.27
+Rehabilitation,19-30,Minor,Silver,5,1807.61
+Rehabilitation,19-30,Minor,Gold,1,2251.72
+Rehabilitation,19-30,Minor,Gold,3,2365.63
+Rehabilitation,19-30,Minor,Gold,5,2205.92
+Rehabilitation,19-30,Moderate,Bronze,1,1927.69
+Rehabilitation,19-30,Moderate,Bronze,3,2090.77
+Rehabilitation,19-30,Moderate,Bronze,5,2106.94
+Rehabilitation,19-30,Moderate,Silver,1,2638.84
+Rehabilitation,19-30,Moderate,Silver,3,2863.15
+Rehabilitation,19-30,Moderate,Silver,5,2920.2
+Rehabilitation,19-30,Moderate,Gold,1,3467.17
+Rehabilitation,19-30,Moderate,Gold,3,3649.25
+Rehabilitation,19-30,Moderate,Gold,5,3669.68
+Rehabilitation,19-30,Severe,Bronze,1,3752.87
+Rehabilitation,19-30,Severe,Bronze,3,4126.62
+Rehabilitation,19-30,Severe,Bronze,5,4158.53
+Rehabilitation,19-30,Severe,Silver,1,4711.43
+Rehabilitation,19-30,Severe,Silver,3,5231.9
+Rehabilitation,19-30,Severe,Silver,5,5336.12
+Rehabilitation,19-30,Severe,Gold,1,6110.59
+Rehabilitation,19-30,Severe,Gold,3,6582.47
+Rehabilitation,19-30,Severe,Gold,5,6619.32
+Rehabilitation,31-40,Minor,Bronze,1,1400.33
+Rehabilitation,31-40,Minor,Bronze,3,1491.95
+Rehabilitation,31-40,Minor,Bronze,5,1394.15
+Rehabilitation,31-40,Minor,Silver,1,1917.02
+Rehabilitation,31-40,Minor,Silver,3,2043.23
+Rehabilitation,31-40,Minor,Silver,5,1932.41
+Rehabilitation,31-40,Minor,Gold,1,2445.99
+Rehabilitation,31-40,Minor,Gold,3,2528.95
+Rehabilitation,31-40,Minor,Gold,5,2358.21
+Rehabilitation,31-40,Moderate,Bronze,1,2087.69
+Rehabilitation,31-40,Moderate,Bronze,3,2235.11
+Rehabilitation,31-40,Moderate,Bronze,5,2252.4
+Rehabilitation,31-40,Moderate,Silver,1,2857.83
+Rehabilitation,31-40,Moderate,Silver,3,3060.8
+Rehabilitation,31-40,Moderate,Silver,5,3121.78
+Rehabilitation,31-40,Moderate,Gold,1,3754.88
+Rehabilitation,31-40,Moderate,Gold,3,3901.14
+Rehabilitation,31-40,Moderate,Gold,5,3922.98
+Rehabilitation,31-40,Severe,Bronze,1,3928.67
+Rehabilitation,31-40,Severe,Bronze,3,4270.46
+Rehabilitation,31-40,Severe,Bronze,5,4303.49
+Rehabilitation,31-40,Severe,Silver,1,4932.12
+Rehabilitation,31-40,Severe,Silver,3,5414.26
+Rehabilitation,31-40,Severe,Silver,5,5522.11
+Rehabilitation,31-40,Severe,Gold,1,6396.8
+Rehabilitation,31-40,Severe,Gold,3,6811.89
+Rehabilitation,31-40,Severe,Gold,5,6850.03
+Rehabilitation,41-50,Minor,Bronze,1,1455.11
+Rehabilitation,41-50,Minor,Bronze,3,1581.06
+Rehabilitation,41-50,Minor,Bronze,5,1575.19
+Rehabilitation,41-50,Minor,Silver,1,1958.73
+Rehabilitation,41-50,Minor,Silver,3,2129.08
+Rehabilitation,41-50,Minor,Silver,5,2146.83
+Rehabilitation,41-50,Minor,Gold,1,2519.04
+Rehabilitation,41-50,Minor,Gold,3,2656.12
+Rehabilitation,41-50,Minor,Gold,5,2640.65
+Rehabilitation,41-50,Moderate,Bronze,1,2062.94
+Rehabilitation,41-50,Moderate,Bronze,3,2252.41
+Rehabilitation,41-50,Moderate,Bronze,5,2420.0
+Rehabilitation,41-50,Moderate,Silver,1,2776.79
+Rehabilitation,41-50,Moderate,Silver,3,3032.98
+Rehabilitation,41-50,Moderate,Silver,5,3298.03
+Rehabilitation,41-50,Moderate,Gold,1,3677.38
+Rehabilitation,41-50,Moderate,Gold,3,3896.38
+Rehabilitation,41-50,Moderate,Gold,5,4177.36
+Rehabilitation,41-50,Severe,Bronze,1,4057.63
+Rehabilitation,41-50,Severe,Bronze,3,4498.08
+Rehabilitation,41-50,Severe,Bronze,5,4832.68
+Rehabilitation,41-50,Severe,Silver,1,5008.95
+Rehabilitation,41-50,Severe,Silver,3,5607.61
+Rehabilitation,41-50,Severe,Silver,5,6097.59
+Rehabilitation,41-50,Severe,Gold,1,6548.02
+Rehabilitation,41-50,Severe,Gold,3,7111.16
+Rehabilitation,41-50,Severe,Gold,5,7623.91
+Rehabilitation,51-60,Minor,Bronze,1,1688.43
+Rehabilitation,51-60,Minor,Bronze,3,1866.99
+Rehabilitation,51-60,Minor,Bronze,5,1808.79
+Rehabilitation,51-60,Minor,Silver,1,2399.49
+Rehabilitation,51-60,Minor,Silver,3,2654.24
+Rehabilitation,51-60,Minor,Silver,5,2602.62
+Rehabilitation,51-60,Minor,Gold,1,3085.83
+Rehabilitation,51-60,Minor,Gold,3,3311.22
+Rehabilitation,51-60,Minor,Gold,5,3201.23
+Rehabilitation,51-60,Moderate,Bronze,1,2562.01
+Rehabilitation,51-60,Moderate,Bronze,3,2846.73
+Rehabilitation,51-60,Moderate,Bronze,5,2921.36
+Rehabilitation,51-60,Moderate,Silver,1,3640.76
+Rehabilitation,51-60,Moderate,Silver,3,4046.88
+Rehabilitation,51-60,Moderate,Silver,5,4203.19
+Rehabilitation,51-60,Moderate,Gold,1,4821.45
+Rehabilitation,51-60,Moderate,Gold,3,5198.82
+Rehabilitation,51-60,Moderate,Gold,5,5323.78
+Rehabilitation,51-60,Severe,Bronze,1,5212.3
+Rehabilitation,51-60,Severe,Bronze,3,5880.14
+Rehabilitation,51-60,Severe,Bronze,5,6034.26
+Rehabilitation,51-60,Severe,Silver,1,6792.98
+Rehabilitation,51-60,Severe,Silver,3,7739.15
+Rehabilitation,51-60,Severe,Silver,5,8038.04
+Rehabilitation,51-60,Severe,Gold,1,8880.1
+Rehabilitation,51-60,Severe,Gold,3,9814.12
+Rehabilitation,51-60,Severe,Gold,5,10050.0
+Rehabilitation,61-70,Minor,Bronze,1,2050.48
+Rehabilitation,61-70,Minor,Bronze,3,2223.13
+Rehabilitation,61-70,Minor,Bronze,5,2174.63
+Rehabilitation,61-70,Minor,Silver,1,2910.76
+Rehabilitation,61-70,Minor,Silver,3,3157.03
+Rehabilitation,61-70,Minor,Silver,5,3125.52
+Rehabilitation,61-70,Minor,Gold,1,3847.89
+Rehabilitation,61-70,Minor,Gold,3,4048.49
+Rehabilitation,61-70,Minor,Gold,5,3994.57
+Rehabilitation,61-70,Moderate,Bronze,1,3436.51
+Rehabilitation,61-70,Moderate,Bronze,3,3743.98
+Rehabilitation,61-70,Moderate,Bronze,5,3879.22
+Rehabilitation,61-70,Moderate,Silver,1,4878.0
+Rehabilitation,61-70,Moderate,Silver,3,5316.48
+Rehabilitation,61-70,Moderate,Silver,5,5575.12
+Rehabilitation,61-70,Moderate,Gold,1,6673.73
+Rehabilitation,61-70,Moderate,Gold,3,7055.87
+Rehabilitation,61-70,Moderate,Gold,5,7374.16
+Rehabilitation,61-70,Severe,Bronze,1,5754.59
+Rehabilitation,61-70,Severe,Bronze,3,6686.7
+Rehabilitation,61-70,Severe,Bronze,5,6928.19
+Rehabilitation,61-70,Severe,Silver,1,7491.54
+Rehabilitation,61-70,Severe,Silver,3,8791.1
+Rehabilitation,61-70,Severe,Silver,5,9218.74
+Rehabilitation,61-70,Severe,Gold,1,10117.54
+Rehabilitation,61-70,Severe,Gold,3,11517.2
+Rehabilitation,61-70,Severe,Gold,5,12036.7
+Rehabilitation,71-80,Minor,Bronze,1,2572.84
+Rehabilitation,71-80,Minor,Bronze,3,2830.42
+Rehabilitation,71-80,Minor,Bronze,5,2911.85
+Rehabilitation,71-80,Minor,Silver,1,3519.92
+Rehabilitation,71-80,Minor,Silver,3,3873.79
+Rehabilitation,71-80,Minor,Silver,5,4055.97
+Rehabilitation,71-80,Minor,Gold,1,4412.03
+Rehabilitation,71-80,Minor,Gold,3,4710.22
+Rehabilitation,71-80,Minor,Gold,5,4915.08
+Rehabilitation,71-80,Moderate,Bronze,1,4355.03
+Rehabilitation,71-80,Moderate,Bronze,3,4766.2
+Rehabilitation,71-80,Moderate,Bronze,5,5193.67
+Rehabilitation,71-80,Moderate,Silver,1,5957.9
+Rehabilitation,71-80,Moderate,Silver,3,6522.9
+Rehabilitation,71-80,Moderate,Silver,5,7234.05
+Rehabilitation,71-80,Moderate,Gold,1,7728.82
+Rehabilitation,71-80,Moderate,Gold,3,8208.44
+Rehabilitation,71-80,Moderate,Gold,5,9072.64
+Rehabilitation,71-80,Severe,Bronze,1,7362.92
+Rehabilitation,71-80,Severe,Bronze,3,8650.64
+Rehabilitation,71-80,Severe,Bronze,5,9426.42
+Rehabilitation,71-80,Severe,Silver,1,9238.23
+Rehabilitation,71-80,Severe,Silver,3,10961.31
+Rehabilitation,71-80,Severe,Silver,5,12156.28
+Rehabilitation,71-80,Severe,Gold,1,11830.08
+Rehabilitation,71-80,Severe,Gold,3,13616.39
+Rehabilitation,71-80,Severe,Gold,5,15049.87
+Rehabilitation,Above 80,Minor,Bronze,1,2898.97
+Rehabilitation,Above 80,Minor,Bronze,3,3040.79
+Rehabilitation,Above 80,Minor,Bronze,5,3167.24
+Rehabilitation,Above 80,Minor,Silver,1,4027.91
+Rehabilitation,Above 80,Minor,Silver,3,4226.57
+Rehabilitation,Above 80,Minor,Silver,5,4480.47
+Rehabilitation,Above 80,Minor,Gold,1,4917.39
+Rehabilitation,Above 80,Minor,Gold,3,5005.46
+Rehabilitation,Above 80,Minor,Gold,5,5288.23
+Rehabilitation,Above 80,Moderate,Bronze,1,4907.0
+Rehabilitation,Above 80,Moderate,Bronze,3,5120.39
+Rehabilitation,Above 80,Moderate,Bronze,5,5649.12
+Rehabilitation,Above 80,Moderate,Silver,1,6817.64
+Rehabilitation,Above 80,Moderate,Silver,3,7116.87
+Rehabilitation,Above 80,Moderate,Silver,5,7991.09
+Rehabilitation,Above 80,Moderate,Gold,1,8614.01
+Rehabilitation,Above 80,Moderate,Gold,3,8722.91
+Rehabilitation,Above 80,Moderate,Gold,5,9761.35
+Rehabilitation,Above 80,Severe,Bronze,1,7835.52
+Rehabilitation,Above 80,Severe,Bronze,3,8777.57
+Rehabilitation,Above 80,Severe,Bronze,5,9683.87
+Rehabilitation,Above 80,Severe,Silver,1,9984.47
+Rehabilitation,Above 80,Severe,Silver,3,11295.54
+Rehabilitation,Above 80,Severe,Silver,5,12682.99
+Rehabilitation,Above 80,Severe,Gold,1,13398.05
+Rehabilitation,Above 80,Severe,Gold,3,14703.64
+Rehabilitation,Above 80,Severe,Gold,5,16453.99
+Sacral colpopexy,0-18,Minor,Bronze,1,1428.83
+Sacral colpopexy,0-18,Minor,Bronze,3,1378.26
+Sacral colpopexy,0-18,Minor,Bronze,5,1241.96
+Sacral colpopexy,0-18,Minor,Silver,1,1948.38
+Sacral colpopexy,0-18,Minor,Silver,3,1882.98
+Sacral colpopexy,0-18,Minor,Silver,5,1717.33
+Sacral colpopexy,0-18,Minor,Gold,1,2670.68
+Sacral colpopexy,0-18,Minor,Gold,3,2578.43
+Sacral colpopexy,0-18,Minor,Gold,5,2310.74
+Sacral colpopexy,0-18,Moderate,Bronze,1,2477.49
+Sacral colpopexy,0-18,Moderate,Bronze,3,2417.7
+Sacral colpopexy,0-18,Moderate,Bronze,5,2349.5
+Sacral colpopexy,0-18,Moderate,Silver,1,3588.88
+Sacral colpopexy,0-18,Moderate,Silver,3,3508.9
+Sacral colpopexy,0-18,Moderate,Silver,5,3451.18
+Sacral colpopexy,0-18,Moderate,Gold,1,5001.18
+Sacral colpopexy,0-18,Moderate,Gold,3,4884.76
+Sacral colpopexy,0-18,Moderate,Gold,5,4720.9
+Sacral colpopexy,0-18,Severe,Bronze,1,3252.65
+Sacral colpopexy,0-18,Severe,Bronze,3,3277.59
+Sacral colpopexy,0-18,Severe,Bronze,5,3185.15
+Sacral colpopexy,0-18,Severe,Silver,1,4989.77
+Sacral colpopexy,0-18,Severe,Silver,3,5085.41
+Sacral colpopexy,0-18,Severe,Silver,5,5001.76
+Sacral colpopexy,0-18,Severe,Gold,1,7341.84
+Sacral colpopexy,0-18,Severe,Gold,3,7474.94
+Sacral colpopexy,0-18,Severe,Gold,5,7224.21
+Sacral colpopexy,19-30,Minor,Bronze,1,1615.03
+Sacral colpopexy,19-30,Minor,Bronze,3,1582.24
+Sacral colpopexy,19-30,Minor,Bronze,5,1425.78
+Sacral colpopexy,19-30,Minor,Silver,1,1992.79
+Sacral colpopexy,19-30,Minor,Silver,3,1956.03
+Sacral colpopexy,19-30,Minor,Silver,5,1783.95
+Sacral colpopexy,19-30,Minor,Gold,1,2793.79
+Sacral colpopexy,19-30,Minor,Gold,3,2739.46
+Sacral colpopexy,19-30,Minor,Gold,5,2455.07
+Sacral colpopexy,19-30,Moderate,Bronze,1,2770.91
+Sacral colpopexy,19-30,Moderate,Bronze,3,2746.33
+Sacral colpopexy,19-30,Moderate,Bronze,5,2668.86
+Sacral colpopexy,19-30,Moderate,Silver,1,3670.67
+Sacral colpopexy,19-30,Moderate,Silver,3,3644.98
+Sacral colpopexy,19-30,Moderate,Silver,5,3585.02
+Sacral colpopexy,19-30,Moderate,Gold,1,5231.67
+Sacral colpopexy,19-30,Moderate,Gold,3,5189.77
+Sacral colpopexy,19-30,Moderate,Gold,5,5015.69
+Sacral colpopexy,19-30,Severe,Bronze,1,4251.06
+Sacral colpopexy,19-30,Severe,Bronze,3,4337.74
+Sacral colpopexy,19-30,Severe,Bronze,5,4215.4
+Sacral colpopexy,19-30,Severe,Silver,1,5894.16
+Sacral colpopexy,19-30,Severe,Silver,3,6082.98
+Sacral colpopexy,19-30,Severe,Silver,5,5982.92
+Sacral colpopexy,19-30,Severe,Gold,1,8073.65
+Sacral colpopexy,19-30,Severe,Gold,3,8323.8
+Sacral colpopexy,19-30,Severe,Gold,5,8044.61
+Sacral colpopexy,31-40,Minor,Bronze,1,2052.64
+Sacral colpopexy,31-40,Minor,Bronze,3,2007.09
+Sacral colpopexy,31-40,Minor,Bronze,5,1808.64
+Sacral colpopexy,31-40,Minor,Silver,1,2532.69
+Sacral colpopexy,31-40,Minor,Silver,3,2481.18
+Sacral colpopexy,31-40,Minor,Silver,5,2262.93
+Sacral colpopexy,31-40,Minor,Gold,1,3550.59
+Sacral colpopexy,31-40,Minor,Gold,3,3474.84
+Sacral colpopexy,31-40,Minor,Gold,5,3114.13
+Sacral colpopexy,31-40,Moderate,Bronze,1,3154.67
+Sacral colpopexy,31-40,Moderate,Bronze,3,3130.12
+Sacral colpopexy,31-40,Moderate,Bronze,5,3041.83
+Sacral colpopexy,31-40,Moderate,Silver,1,4179.0
+Sacral colpopexy,31-40,Moderate,Silver,3,4154.31
+Sacral colpopexy,31-40,Moderate,Silver,5,4085.98
+Sacral colpopexy,31-40,Moderate,Gold,1,5956.11
+Sacral colpopexy,31-40,Moderate,Gold,3,5914.91
+Sacral colpopexy,31-40,Moderate,Gold,5,5716.5
+Sacral colpopexy,31-40,Severe,Bronze,1,4513.74
+Sacral colpopexy,31-40,Severe,Bronze,3,4617.54
+Sacral colpopexy,31-40,Severe,Bronze,5,4487.31
+Sacral colpopexy,31-40,Severe,Silver,1,6258.36
+Sacral colpopexy,31-40,Severe,Silver,3,6475.33
+Sacral colpopexy,31-40,Severe,Silver,5,6368.82
+Sacral colpopexy,31-40,Severe,Gold,1,8572.49
+Sacral colpopexy,31-40,Severe,Gold,3,8860.66
+Sacral colpopexy,31-40,Severe,Gold,5,8563.46
+Sacral colpopexy,41-50,Minor,Bronze,1,2781.4
+Sacral colpopexy,41-50,Minor,Bronze,3,2736.24
+Sacral colpopexy,41-50,Minor,Bronze,5,2619.76
+Sacral colpopexy,41-50,Minor,Silver,1,3374.51
+Sacral colpopexy,41-50,Minor,Silver,3,3325.98
+Sacral colpopexy,41-50,Minor,Silver,5,3222.93
+Sacral colpopexy,41-50,Minor,Gold,1,4828.45
+Sacral colpopexy,41-50,Minor,Gold,3,4754.18
+Sacral colpopexy,41-50,Minor,Gold,5,4526.81
+Sacral colpopexy,41-50,Moderate,Bronze,1,3558.86
+Sacral colpopexy,41-50,Moderate,Bronze,3,3552.64
+Sacral colpopexy,41-50,Moderate,Bronze,5,3668.08
+Sacral colpopexy,41-50,Moderate,Silver,1,4635.66
+Sacral colpopexy,41-50,Moderate,Silver,3,4636.31
+Sacral colpopexy,41-50,Moderate,Silver,5,4844.85
+Sacral colpopexy,41-50,Moderate,Gold,1,6743.58
+Sacral colpopexy,41-50,Moderate,Gold,3,6737.65
+Sacral colpopexy,41-50,Moderate,Gold,5,6918.32
+Sacral colpopexy,41-50,Severe,Bronze,1,6350.72
+Sacral colpopexy,41-50,Severe,Bronze,3,6536.26
+Sacral colpopexy,41-50,Severe,Bronze,5,6748.62
+Sacral colpopexy,41-50,Severe,Silver,1,8658.18
+Sacral colpopexy,41-50,Severe,Silver,3,9012.82
+Sacral colpopexy,41-50,Severe,Silver,5,9418.16
+Sacral colpopexy,41-50,Severe,Gold,1,12104.83
+Sacral colpopexy,41-50,Severe,Gold,3,12587.79
+Sacral colpopexy,41-50,Severe,Gold,5,12925.31
+Sacral colpopexy,51-60,Minor,Bronze,1,3008.13
+Sacral colpopexy,51-60,Minor,Bronze,3,2959.0
+Sacral colpopexy,51-60,Minor,Bronze,5,2755.41
+Sacral colpopexy,51-60,Minor,Silver,1,3853.04
+Sacral colpopexy,51-60,Minor,Silver,3,3797.28
+Sacral colpopexy,51-60,Minor,Silver,5,3578.8
+Sacral colpopexy,51-60,Minor,Gold,1,5376.42
+Sacral colpopexy,51-60,Minor,Gold,3,5293.21
+Sacral colpopexy,51-60,Minor,Gold,5,4901.99
+Sacral colpopexy,51-60,Moderate,Bronze,1,4119.6
+Sacral colpopexy,51-60,Moderate,Bronze,3,4112.01
+Sacral colpopexy,51-60,Moderate,Bronze,5,4055.9
+Sacral colpopexy,51-60,Moderate,Silver,1,5665.18
+Sacral colpopexy,51-60,Moderate,Silver,3,5665.43
+Sacral colpopexy,51-60,Moderate,Silver,5,5655.7
+Sacral colpopexy,51-60,Moderate,Gold,1,8036.81
+Sacral colpopexy,51-60,Moderate,Gold,3,8028.98
+Sacral colpopexy,51-60,Moderate,Gold,5,7875.9
+Sacral colpopexy,51-60,Severe,Bronze,1,7351.23
+Sacral colpopexy,51-60,Severe,Bronze,3,7565.27
+Sacral colpopexy,51-60,Severe,Bronze,5,7462.05
+Sacral colpopexy,51-60,Severe,Silver,1,10580.85
+Sacral colpopexy,51-60,Severe,Silver,3,11013.18
+Sacral colpopexy,51-60,Severe,Silver,5,10994.27
+Sacral colpopexy,51-60,Severe,Gold,1,14426.05
+Sacral colpopexy,51-60,Severe,Gold,3,15000.19
+Sacral colpopexy,51-60,Severe,Gold,5,14714.21
+Sacral colpopexy,61-70,Minor,Bronze,1,3872.87
+Sacral colpopexy,61-70,Minor,Bronze,3,3839.06
+Sacral colpopexy,61-70,Minor,Bronze,5,3684.97
+Sacral colpopexy,61-70,Minor,Silver,1,4955.2
+Sacral colpopexy,61-70,Minor,Silver,3,4921.21
+Sacral colpopexy,61-70,Minor,Silver,5,4780.83
+Sacral colpopexy,61-70,Minor,Gold,1,6913.2
+Sacral colpopexy,61-70,Minor,Gold,3,6858.8
+Sacral colpopexy,61-70,Minor,Gold,5,6618.21
+Sacral colpopexy,61-70,Moderate,Bronze,1,5270.98
+Sacral colpopexy,61-70,Moderate,Bronze,3,5301.92
+Sacral colpopexy,61-70,Moderate,Bronze,5,5390.51
+Sacral colpopexy,61-70,Moderate,Silver,1,7240.55
+Sacral colpopexy,61-70,Moderate,Silver,3,7296.8
+Sacral colpopexy,61-70,Moderate,Silver,5,7508.44
+Sacral colpopexy,61-70,Moderate,Gold,1,10321.7
+Sacral colpopexy,61-70,Moderate,Gold,3,10391.3
+Sacral colpopexy,61-70,Moderate,Gold,5,10620.54
+Sacral colpopexy,61-70,Severe,Bronze,1,8953.75
+Sacral colpopexy,61-70,Severe,Bronze,3,9754.22
+Sacral colpopexy,61-70,Severe,Bronze,5,9917.2
+Sacral colpopexy,61-70,Severe,Silver,1,12873.29
+Sacral colpopexy,61-70,Severe,Silver,3,14184.18
+Sacral colpopexy,61-70,Severe,Silver,5,14595.55
+Sacral colpopexy,61-70,Severe,Gold,1,17637.17
+Sacral colpopexy,61-70,Severe,Gold,3,19413.34
+Sacral colpopexy,61-70,Severe,Gold,5,19841.61
+Sacral colpopexy,71-80,Minor,Bronze,1,4654.44
+Sacral colpopexy,71-80,Minor,Bronze,3,4681.57
+Sacral colpopexy,71-80,Minor,Bronze,5,4474.65
+Sacral colpopexy,71-80,Minor,Silver,1,6152.87
+Sacral colpopexy,71-80,Minor,Silver,3,6200.42
+Sacral colpopexy,71-80,Minor,Silver,5,6031.59
+Sacral colpopexy,71-80,Minor,Gold,1,7878.08
+Sacral colpopexy,71-80,Minor,Gold,3,7930.88
+Sacral colpopexy,71-80,Minor,Gold,5,7662.88
+Sacral colpopexy,71-80,Moderate,Bronze,1,6398.62
+Sacral colpopexy,71-80,Moderate,Bronze,3,6465.38
+Sacral colpopexy,71-80,Moderate,Bronze,5,6545.58
+Sacral colpopexy,71-80,Moderate,Silver,1,9081.32
+Sacral colpopexy,71-80,Moderate,Silver,3,9193.4
+Sacral colpopexy,71-80,Moderate,Silver,5,9472.64
+Sacral colpopexy,71-80,Moderate,Gold,1,11881.06
+Sacral colpopexy,71-80,Moderate,Gold,3,12015.46
+Sacral colpopexy,71-80,Moderate,Gold,5,12296.88
+Sacral colpopexy,71-80,Severe,Bronze,1,10974.01
+Sacral colpopexy,71-80,Severe,Bronze,3,12088.03
+Sacral colpopexy,71-80,Severe,Bronze,5,12237.97
+Sacral colpopexy,71-80,Severe,Silver,1,16301.71
+Sacral colpopexy,71-80,Severe,Silver,3,18161.43
+Sacral colpopexy,71-80,Severe,Silver,5,18713.04
+Sacral colpopexy,71-80,Severe,Gold,1,20497.57
+Sacral colpopexy,71-80,Severe,Gold,3,22812.69
+Sacral colpopexy,71-80,Severe,Gold,5,23346.99
+Sacral colpopexy,Above 80,Minor,Bronze,1,6136.59
+Sacral colpopexy,Above 80,Minor,Bronze,3,5834.11
+Sacral colpopexy,Above 80,Minor,Bronze,5,5524.04
+Sacral colpopexy,Above 80,Minor,Silver,1,8238.56
+Sacral colpopexy,Above 80,Minor,Silver,3,7847.29
+Sacral colpopexy,Above 80,Minor,Silver,5,7562.12
+Sacral colpopexy,Above 80,Minor,Gold,1,10274.1
+Sacral colpopexy,Above 80,Minor,Gold,3,9776.2
+Sacral colpopexy,Above 80,Minor,Gold,5,9357.39
+Sacral colpopexy,Above 80,Moderate,Bronze,1,8436.06
+Sacral colpopexy,Above 80,Moderate,Bronze,3,8056.98
+Sacral colpopexy,Above 80,Moderate,Bronze,5,8080.53
+Sacral colpopexy,Above 80,Moderate,Silver,1,12159.52
+Sacral colpopexy,Above 80,Moderate,Silver,3,11635.09
+Sacral colpopexy,Above 80,Moderate,Silver,5,11876.21
+Sacral colpopexy,Above 80,Moderate,Gold,1,15494.38
+Sacral colpopexy,Above 80,Moderate,Gold,3,14811.03
+Sacral colpopexy,Above 80,Moderate,Gold,5,15015.99
+Sacral colpopexy,Above 80,Severe,Bronze,1,13224.01
+Sacral colpopexy,Above 80,Severe,Bronze,3,13768.26
+Sacral colpopexy,Above 80,Severe,Bronze,5,13808.51
+Sacral colpopexy,Above 80,Severe,Silver,1,19950.22
+Sacral colpopexy,Above 80,Severe,Silver,3,21008.3
+Sacral colpopexy,Above 80,Severe,Silver,5,21443.66
+Sacral colpopexy,Above 80,Severe,Gold,1,26286.53
+Sacral colpopexy,Above 80,Severe,Gold,3,27652.47
+Sacral colpopexy,Above 80,Severe,Gold,5,28035.11
+Surgical fee,0-18,Minor,Bronze,1,1267.96
+Surgical fee,0-18,Minor,Bronze,3,1240.87
+Surgical fee,0-18,Minor,Bronze,5,1197.32
+Surgical fee,0-18,Minor,Silver,1,1685.63
+Surgical fee,0-18,Minor,Silver,3,1650.27
+Surgical fee,0-18,Minor,Silver,5,1566.2
+Surgical fee,0-18,Minor,Gold,1,2408.5
+Surgical fee,0-18,Minor,Gold,3,2251.59
+Surgical fee,0-18,Minor,Gold,5,2092.66
+Surgical fee,0-18,Moderate,Bronze,1,1870.18
+Surgical fee,0-18,Moderate,Bronze,3,1851.58
+Surgical fee,0-18,Moderate,Bronze,5,1911.12
+Surgical fee,0-18,Moderate,Silver,1,2330.46
+Surgical fee,0-18,Moderate,Silver,3,2308.18
+Surgical fee,0-18,Moderate,Silver,5,2343.26
+Surgical fee,0-18,Moderate,Gold,1,3636.55
+Surgical fee,0-18,Moderate,Gold,3,3439.3
+Surgical fee,0-18,Moderate,Gold,5,3419.28
+Surgical fee,0-18,Severe,Bronze,1,3304.29
+Surgical fee,0-18,Severe,Bronze,3,3063.23
+Surgical fee,0-18,Severe,Bronze,5,3161.71
+Surgical fee,0-18,Severe,Silver,1,3827.3
+Surgical fee,0-18,Severe,Silver,3,3583.21
+Surgical fee,0-18,Severe,Silver,5,3637.66
+Surgical fee,0-18,Severe,Gold,1,6007.64
+Surgical fee,0-18,Severe,Gold,3,5370.82
+Surgical fee,0-18,Severe,Gold,5,5339.56
+Surgical fee,19-30,Minor,Bronze,1,1571.4
+Surgical fee,19-30,Minor,Bronze,3,1561.89
+Surgical fee,19-30,Minor,Bronze,5,1507.08
+Surgical fee,19-30,Minor,Silver,1,2027.63
+Surgical fee,19-30,Minor,Silver,3,2016.14
+Surgical fee,19-30,Minor,Silver,5,1913.45
+Surgical fee,19-30,Minor,Gold,1,2963.09
+Surgical fee,19-30,Minor,Gold,3,2813.37
+Surgical fee,19-30,Minor,Gold,5,2614.81
+Surgical fee,19-30,Moderate,Bronze,1,2293.34
+Surgical fee,19-30,Moderate,Bronze,3,2306.04
+Surgical fee,19-30,Moderate,Bronze,5,2380.19
+Surgical fee,19-30,Moderate,Silver,1,2803.21
+Surgical fee,19-30,Moderate,Silver,3,2819.83
+Surgical fee,19-30,Moderate,Silver,5,2862.68
+Surgical fee,19-30,Moderate,Gold,1,4473.79
+Surgical fee,19-30,Moderate,Gold,3,4297.3
+Surgical fee,19-30,Moderate,Gold,5,4272.29
+Surgical fee,19-30,Severe,Bronze,1,4570.25
+Surgical fee,19-30,Severe,Bronze,3,4290.35
+Surgical fee,19-30,Severe,Bronze,5,4428.27
+Surgical fee,19-30,Severe,Silver,1,5132.09
+Surgical fee,19-30,Severe,Silver,3,4865.48
+Surgical fee,19-30,Severe,Silver,5,4939.4
+Surgical fee,19-30,Severe,Gold,1,7499.34
+Surgical fee,19-30,Severe,Gold,3,6789.07
+Surgical fee,19-30,Severe,Gold,5,6749.56
+Surgical fee,31-40,Minor,Bronze,1,1805.84
+Surgical fee,31-40,Minor,Bronze,3,1791.44
+Surgical fee,31-40,Minor,Bronze,5,1728.59
+Surgical fee,31-40,Minor,Silver,1,2330.09
+Surgical fee,31-40,Minor,Silver,3,2312.41
+Surgical fee,31-40,Minor,Silver,5,2194.64
+Surgical fee,31-40,Minor,Gold,1,3405.01
+Surgical fee,31-40,Minor,Gold,3,3226.74
+Surgical fee,31-40,Minor,Gold,5,2999.01
+Surgical fee,31-40,Moderate,Bronze,1,2627.44
+Surgical fee,31-40,Moderate,Bronze,3,2644.9
+Surgical fee,31-40,Moderate,Bronze,5,2729.93
+Surgical fee,31-40,Moderate,Silver,1,3211.56
+Surgical fee,31-40,Moderate,Silver,3,3234.15
+Surgical fee,31-40,Moderate,Silver,5,3283.29
+Surgical fee,31-40,Moderate,Gold,1,5125.4
+Surgical fee,31-40,Moderate,Gold,3,4928.62
+Surgical fee,31-40,Moderate,Gold,5,4899.93
+Surgical fee,31-40,Severe,Bronze,1,4883.24
+Surgical fee,31-40,Severe,Bronze,3,4595.88
+Surgical fee,31-40,Severe,Bronze,5,4743.62
+Surgical fee,31-40,Severe,Silver,1,5483.55
+Surgical fee,31-40,Severe,Silver,3,5211.95
+Surgical fee,31-40,Severe,Silver,5,5291.14
+Surgical fee,31-40,Severe,Gold,1,8012.88
+Surgical fee,31-40,Severe,Gold,3,7272.49
+Surgical fee,31-40,Severe,Gold,5,7230.17
+Surgical fee,41-50,Minor,Bronze,1,1875.39
+Surgical fee,41-50,Minor,Bronze,3,1871.76
+Surgical fee,41-50,Minor,Bronze,5,1950.9
+Surgical fee,41-50,Minor,Silver,1,2443.25
+Surgical fee,41-50,Minor,Silver,3,2439.47
+Surgical fee,41-50,Minor,Silver,5,2500.83
+Surgical fee,41-50,Minor,Gold,1,3557.02
+Surgical fee,41-50,Minor,Gold,3,3391.29
+Surgical fee,41-50,Minor,Gold,5,3404.61
+Surgical fee,41-50,Moderate,Bronze,1,2594.8
+Surgical fee,41-50,Moderate,Bronze,3,2627.93
+Surgical fee,41-50,Moderate,Bronze,5,2929.86
+Surgical fee,41-50,Moderate,Silver,1,3202.37
+Surgical fee,41-50,Moderate,Silver,3,3244.52
+Surgical fee,41-50,Moderate,Silver,5,3557.84
+Surgical fee,41-50,Moderate,Gold,1,5091.65
+Surgical fee,41-50,Moderate,Gold,3,4925.94
+Surgical fee,41-50,Moderate,Gold,5,5289.79
+Surgical fee,41-50,Severe,Bronze,1,5040.63
+Surgical fee,41-50,Severe,Bronze,3,4772.86
+Surgical fee,41-50,Severe,Bronze,5,5321.13
+Surgical fee,41-50,Severe,Silver,1,5715.08
+Surgical fee,41-50,Severe,Silver,3,5465.05
+Surgical fee,41-50,Severe,Silver,5,5992.75
+Surgical fee,41-50,Severe,Gold,1,8319.98
+Surgical fee,41-50,Severe,Gold,3,7597.14
+Surgical fee,41-50,Severe,Gold,5,8158.26
+Surgical fee,51-60,Minor,Bronze,1,1967.92
+Surgical fee,51-60,Minor,Bronze,3,1963.92
+Surgical fee,51-60,Minor,Bronze,5,2017.51
+Surgical fee,51-60,Minor,Silver,1,2828.34
+Surgical fee,51-60,Minor,Silver,3,2823.69
+Surgical fee,51-60,Minor,Silver,5,2853.08
+Surgical fee,51-60,Minor,Gold,1,4117.57
+Surgical fee,51-60,Minor,Gold,3,3925.36
+Surgical fee,51-60,Minor,Gold,5,3884.11
+Surgical fee,51-60,Moderate,Bronze,1,3440.61
+Surgical fee,51-60,Moderate,Bronze,3,3484.2
+Surgical fee,51-60,Moderate,Bronze,5,3760.55
+Surgical fee,51-60,Moderate,Silver,1,4684.23
+Surgical fee,51-60,Moderate,Silver,3,4745.42
+Surgical fee,51-60,Moderate,Silver,5,5037.65
+Surgical fee,51-60,Moderate,Gold,1,7447.48
+Surgical fee,51-60,Moderate,Gold,3,7204.42
+Surgical fee,51-60,Moderate,Gold,5,7489.75
+Surgical fee,51-60,Severe,Bronze,1,6683.38
+Surgical fee,51-60,Severe,Bronze,3,6327.76
+Surgical fee,51-60,Severe,Bronze,5,6829.58
+Surgical fee,51-60,Severe,Silver,1,8359.3
+Surgical fee,51-60,Severe,Silver,3,7992.85
+Surgical fee,51-60,Severe,Silver,5,8485.02
+Surgical fee,51-60,Severe,Gold,1,12169.21
+Surgical fee,51-60,Severe,Gold,3,11110.93
+Surgical fee,51-60,Severe,Gold,5,11550.96
+Surgical fee,61-70,Minor,Bronze,1,2419.87
+Surgical fee,61-70,Minor,Bronze,3,2528.97
+Surgical fee,61-70,Minor,Bronze,5,2623.05
+Surgical fee,61-70,Minor,Silver,1,3474.01
+Surgical fee,61-70,Minor,Silver,3,3632.02
+Surgical fee,61-70,Minor,Silver,5,3705.25
+Surgical fee,61-70,Minor,Gold,1,5097.51
+Surgical fee,61-70,Minor,Gold,3,5088.94
+Surgical fee,61-70,Minor,Gold,5,5139.1
+Surgical fee,61-70,Moderate,Bronze,1,4204.47
+Surgical fee,61-70,Moderate,Bronze,3,4458.71
+Surgical fee,61-70,Moderate,Bronze,5,4858.79
+Surgical fee,61-70,Moderate,Silver,1,5717.89
+Surgical fee,61-70,Moderate,Silver,3,6065.98
+Surgical fee,61-70,Moderate,Silver,5,6501.68
+Surgical fee,61-70,Moderate,Gold,1,9208.81
+Surgical fee,61-70,Moderate,Gold,3,9328.73
+Surgical fee,61-70,Moderate,Gold,5,9897.76
+Surgical fee,61-70,Severe,Bronze,1,7774.61
+Surgical fee,61-70,Severe,Bronze,3,8097.37
+Surgical fee,61-70,Severe,Bronze,5,8823.87
+Surgical fee,61-70,Severe,Silver,1,9713.55
+Surgical fee,61-70,Severe,Silver,3,10216.93
+Surgical fee,61-70,Severe,Silver,5,10950.73
+Surgical fee,61-70,Severe,Gold,1,14324.24
+Surgical fee,61-70,Severe,Gold,3,14386.97
+Surgical fee,61-70,Severe,Gold,5,15264.49
+Surgical fee,71-80,Minor,Bronze,1,2981.08
+Surgical fee,71-80,Minor,Bronze,3,3161.24
+Surgical fee,71-80,Minor,Bronze,5,3297.31
+Surgical fee,71-80,Minor,Silver,1,4124.65
+Surgical fee,71-80,Minor,Silver,3,4375.59
+Surgical fee,71-80,Minor,Silver,5,4514.03
+Surgical fee,71-80,Minor,Gold,1,5738.57
+Surgical fee,71-80,Minor,Gold,3,5813.07
+Surgical fee,71-80,Minor,Gold,5,5936.41
+Surgical fee,71-80,Moderate,Bronze,1,5159.79
+Surgical fee,71-80,Moderate,Bronze,3,5496.62
+Surgical fee,71-80,Moderate,Bronze,5,6023.54
+Surgical fee,71-80,Moderate,Silver,1,6762.95
+Surgical fee,71-80,Moderate,Silver,3,7207.22
+Surgical fee,71-80,Moderate,Silver,5,7811.79
+Surgical fee,71-80,Moderate,Gold,1,10327.56
+Surgical fee,71-80,Moderate,Gold,3,10509.53
+Surgical fee,71-80,Moderate,Gold,5,11276.03
+Surgical fee,71-80,Severe,Bronze,1,9633.01
+Surgical fee,71-80,Severe,Bronze,3,10144.5
+Surgical fee,71-80,Severe,Bronze,5,11116.89
+Surgical fee,71-80,Severe,Silver,1,11599.67
+Surgical fee,71-80,Severe,Silver,3,12336.47
+Surgical fee,71-80,Severe,Silver,5,13371.25
+Surgical fee,71-80,Severe,Gold,1,16219.43
+Surgical fee,71-80,Severe,Gold,3,16471.63
+Surgical fee,71-80,Severe,Gold,5,17672.92
+Surgical fee,Above 80,Minor,Bronze,1,3549.6
+Surgical fee,Above 80,Minor,Bronze,3,3680.09
+Surgical fee,Above 80,Minor,Bronze,5,3802.53
+Surgical fee,Above 80,Minor,Silver,1,4987.76
+Surgical fee,Above 80,Minor,Silver,3,5173.11
+Surgical fee,Above 80,Minor,Silver,5,5286.8
+Surgical fee,Above 80,Minor,Gold,1,6758.82
+Surgical fee,Above 80,Minor,Gold,3,6693.76
+Surgical fee,Above 80,Minor,Gold,5,6771.77
+Surgical fee,Above 80,Moderate,Bronze,1,6143.67
+Surgical fee,Above 80,Moderate,Bronze,3,6398.65
+Surgical fee,Above 80,Moderate,Bronze,5,6946.35
+Surgical fee,Above 80,Moderate,Silver,1,8178.02
+Surgical fee,Above 80,Moderate,Silver,3,8520.74
+Surgical fee,Above 80,Moderate,Silver,5,9148.99
+Surgical fee,Above 80,Moderate,Gold,1,12163.53
+Surgical fee,Above 80,Moderate,Gold,3,12101.62
+Surgical fee,Above 80,Moderate,Gold,5,12862.63
+Surgical fee,Above 80,Severe,Bronze,1,11001.05
+Surgical fee,Above 80,Severe,Bronze,3,11326.63
+Surgical fee,Above 80,Severe,Bronze,5,12296.08
+Surgical fee,Above 80,Severe,Silver,1,13453.51
+Surgical fee,Above 80,Severe,Silver,3,13988.76
+Surgical fee,Above 80,Severe,Silver,5,15020.13
+Surgical fee,Above 80,Severe,Gold,1,19712.51
+Surgical fee,Above 80,Severe,Gold,3,19572.28
+Surgical fee,Above 80,Severe,Gold,5,20803.04
+Ultrasound,0-18,Minor,Bronze,1,29.55
+Ultrasound,0-18,Minor,Bronze,3,26.95
+Ultrasound,0-18,Minor,Bronze,5,25.23
+Ultrasound,0-18,Minor,Silver,1,45.57
+Ultrasound,0-18,Minor,Silver,3,42.15
+Ultrasound,0-18,Minor,Silver,5,40.56
+Ultrasound,0-18,Minor,Gold,1,58.03
+Ultrasound,0-18,Minor,Gold,3,53.64
+Ultrasound,0-18,Minor,Gold,5,51.64
+Ultrasound,0-18,Moderate,Bronze,1,43.96
+Ultrasound,0-18,Moderate,Bronze,3,41.0
+Ultrasound,0-18,Moderate,Bronze,5,42.54
+Ultrasound,0-18,Moderate,Silver,1,66.19
+Ultrasound,0-18,Moderate,Silver,3,62.55
+Ultrasound,0-18,Moderate,Silver,5,66.63
+Ultrasound,0-18,Moderate,Gold,1,85.53
+Ultrasound,0-18,Moderate,Gold,3,80.76
+Ultrasound,0-18,Moderate,Gold,5,86.03
+Ultrasound,0-18,Severe,Bronze,1,78.73
+Ultrasound,0-18,Severe,Bronze,3,74.58
+Ultrasound,0-18,Severe,Bronze,5,77.36
+Ultrasound,0-18,Severe,Silver,1,109.56
+Ultrasound,0-18,Severe,Silver,3,106.14
+Ultrasound,0-18,Severe,Silver,5,113.03
+Ultrasound,0-18,Severe,Gold,1,153.42
+Ultrasound,0-18,Severe,Gold,3,148.49
+Ultrasound,0-18,Severe,Gold,5,158.12
+Ultrasound,19-30,Minor,Bronze,1,35.73
+Ultrasound,19-30,Minor,Bronze,3,33.13
+Ultrasound,19-30,Minor,Bronze,5,31.45
+Ultrasound,19-30,Minor,Silver,1,52.57
+Ultrasound,19-30,Minor,Silver,3,49.42
+Ultrasound,19-30,Minor,Silver,5,48.2
+Ultrasound,19-30,Minor,Gold,1,68.46
+Ultrasound,19-30,Minor,Gold,3,64.3
+Ultrasound,19-30,Minor,Gold,5,62.74
+Ultrasound,19-30,Moderate,Bronze,1,52.3
+Ultrasound,19-30,Moderate,Bronze,3,49.56
+Ultrasound,19-30,Moderate,Bronze,5,52.11
+Ultrasound,19-30,Moderate,Silver,1,76.01
+Ultrasound,19-30,Moderate,Silver,3,72.98
+Ultrasound,19-30,Moderate,Silver,5,78.77
+Ultrasound,19-30,Moderate,Gold,1,100.44
+Ultrasound,19-30,Moderate,Gold,3,96.35
+Ultrasound,19-30,Moderate,Gold,5,103.98
+Ultrasound,19-30,Severe,Bronze,1,105.6
+Ultrasound,19-30,Severe,Bronze,3,101.33
+Ultrasound,19-30,Severe,Bronze,5,106.49
+Ultrasound,19-30,Severe,Silver,1,140.28
+Ultrasound,19-30,Severe,Silver,3,137.63
+Ultrasound,19-30,Severe,Silver,5,148.48
+Ultrasound,19-30,Severe,Gold,1,182.7
+Ultrasound,19-30,Severe,Gold,3,179.07
+Ultrasound,19-30,Severe,Gold,5,193.19
+Ultrasound,31-40,Minor,Bronze,1,47.07
+Ultrasound,31-40,Minor,Bronze,3,42.91
+Ultrasound,31-40,Minor,Bronze,5,40.74
+Ultrasound,31-40,Minor,Silver,1,65.36
+Ultrasound,31-40,Minor,Silver,3,60.39
+Ultrasound,31-40,Minor,Silver,5,58.91
+Ultrasound,31-40,Minor,Gold,1,85.05
+Ultrasound,31-40,Minor,Gold,3,78.52
+Ultrasound,31-40,Minor,Gold,5,76.61
+Ultrasound,31-40,Moderate,Bronze,1,68.92
+Ultrasound,31-40,Moderate,Bronze,3,64.41
+Ultrasound,31-40,Moderate,Bronze,5,67.7
+Ultrasound,31-40,Moderate,Silver,1,94.64
+Ultrasound,31-40,Moderate,Silver,3,89.58
+Ultrasound,31-40,Moderate,Silver,5,96.67
+Ultrasound,31-40,Moderate,Gold,1,124.97
+Ultrasound,31-40,Moderate,Gold,3,118.2
+Ultrasound,31-40,Moderate,Gold,5,127.54
+Ultrasound,31-40,Severe,Bronze,1,129.23
+Ultrasound,31-40,Severe,Bronze,3,122.44
+Ultrasound,31-40,Severe,Bronze,5,128.66
+Ultrasound,31-40,Severe,Silver,1,162.37
+Ultrasound,31-40,Severe,Silver,3,157.29
+Ultrasound,31-40,Severe,Silver,5,169.68
+Ultrasound,31-40,Severe,Gold,1,211.42
+Ultrasound,31-40,Severe,Gold,3,204.61
+Ultrasound,31-40,Severe,Gold,5,220.73
+Ultrasound,41-50,Minor,Bronze,1,51.22
+Ultrasound,41-50,Minor,Bronze,3,46.99
+Ultrasound,41-50,Minor,Bronze,5,47.47
+Ultrasound,41-50,Minor,Silver,1,69.89
+Ultrasound,41-50,Minor,Silver,3,64.98
+Ultrasound,41-50,Minor,Silver,5,67.41
+Ultrasound,41-50,Minor,Gold,1,91.65
+Ultrasound,41-50,Minor,Gold,3,85.14
+Ultrasound,41-50,Minor,Gold,5,88.32
+Ultrasound,41-50,Moderate,Bronze,1,71.24
+Ultrasound,41-50,Moderate,Bronze,3,66.98
+Ultrasound,41-50,Moderate,Bronze,5,74.87
+Ultrasound,41-50,Moderate,Silver,1,96.15
+Ultrasound,41-50,Moderate,Silver,3,91.58
+Ultrasound,41-50,Moderate,Silver,5,105.06
+Ultrasound,41-50,Moderate,Gold,1,127.98
+Ultrasound,41-50,Moderate,Gold,3,121.79
+Ultrasound,41-50,Moderate,Gold,5,139.68
+Ultrasound,41-50,Severe,Bronze,1,139.62
+Ultrasound,41-50,Severe,Bronze,3,133.1
+Ultrasound,41-50,Severe,Bronze,5,148.65
+Ultrasound,41-50,Severe,Silver,1,172.45
+Ultrasound,41-50,Severe,Silver,3,168.08
+Ultrasound,41-50,Severe,Silver,5,192.71
+Ultrasound,41-50,Severe,Gold,1,226.33
+Ultrasound,41-50,Severe,Gold,3,220.38
+Ultrasound,41-50,Severe,Gold,5,252.64
+Ultrasound,51-60,Minor,Bronze,1,56.12
+Ultrasound,51-60,Minor,Bronze,3,51.49
+Ultrasound,51-60,Minor,Bronze,5,50.54
+Ultrasound,51-60,Minor,Silver,1,80.87
+Ultrasound,51-60,Minor,Silver,3,75.18
+Ultrasound,51-60,Minor,Silver,5,75.79
+Ultrasound,51-60,Minor,Gold,1,105.99
+Ultrasound,51-60,Minor,Gold,3,98.46
+Ultrasound,51-60,Minor,Gold,5,99.26
+Ultrasound,51-60,Moderate,Bronze,1,83.57
+Ultrasound,51-60,Moderate,Bronze,3,78.58
+Ultrasound,51-60,Moderate,Bronze,5,83.8
+Ultrasound,51-60,Moderate,Silver,1,119.08
+Ultrasound,51-60,Moderate,Silver,3,113.42
+Ultrasound,51-60,Moderate,Silver,5,124.16
+Ultrasound,51-60,Moderate,Gold,1,158.43
+Ultrasound,51-60,Moderate,Gold,3,150.75
+Ultrasound,51-60,Moderate,Gold,5,165.02
+Ultrasound,51-60,Severe,Bronze,1,163.64
+Ultrasound,51-60,Severe,Bronze,3,155.98
+Ultrasound,51-60,Severe,Bronze,5,166.28
+Ultrasound,51-60,Severe,Silver,1,213.39
+Ultrasound,51-60,Severe,Silver,3,207.97
+Ultrasound,51-60,Severe,Silver,5,227.59
+Ultrasound,51-60,Severe,Gold,1,279.99
+Ultrasound,51-60,Severe,Gold,3,272.6
+Ultrasound,51-60,Severe,Gold,5,298.32
+Ultrasound,61-70,Minor,Bronze,1,70.67
+Ultrasound,61-70,Minor,Bronze,3,65.37
+Ultrasound,61-70,Minor,Bronze,5,64.8
+Ultrasound,61-70,Minor,Silver,1,101.61
+Ultrasound,61-70,Minor,Silver,3,95.23
+Ultrasound,61-70,Minor,Silver,5,96.92
+Ultrasound,61-70,Minor,Gold,1,136.85
+Ultrasound,61-70,Minor,Gold,3,128.14
+Ultrasound,61-70,Minor,Gold,5,131.86
+Ultrasound,61-70,Moderate,Bronze,1,105.42
+Ultrasound,61-70,Moderate,Bronze,3,99.91
+Ultrasound,61-70,Moderate,Bronze,5,107.57
+Ultrasound,61-70,Moderate,Silver,1,149.93
+Ultrasound,61-70,Moderate,Silver,3,143.93
+Ultrasound,61-70,Moderate,Silver,5,159.06
+Ultrasound,61-70,Moderate,Gold,1,206.02
+Ultrasound,61-70,Moderate,Gold,3,197.58
+Ultrasound,61-70,Moderate,Gold,5,220.72
+Ultrasound,61-70,Severe,Bronze,1,196.21
+Ultrasound,61-70,Severe,Bronze,3,198.06
+Ultrasound,61-70,Severe,Bronze,5,213.17
+Ultrasound,61-70,Severe,Silver,1,255.54
+Ultrasound,61-70,Severe,Silver,3,263.7
+Ultrasound,61-70,Severe,Silver,5,291.34
+Ultrasound,61-70,Severe,Gold,1,346.35
+Ultrasound,61-70,Severe,Gold,3,357.04
+Ultrasound,61-70,Severe,Gold,5,398.75
+Ultrasound,71-80,Minor,Bronze,1,85.66
+Ultrasound,71-80,Minor,Bronze,3,80.43
+Ultrasound,71-80,Minor,Bronze,5,82.1
+Ultrasound,71-80,Minor,Silver,1,114.6
+Ultrasound,71-80,Minor,Silver,3,109.0
+Ultrasound,71-80,Minor,Silver,5,114.88
+Ultrasound,71-80,Minor,Gold,1,146.26
+Ultrasound,71-80,Minor,Gold,3,138.98
+Ultrasound,71-80,Minor,Gold,5,148.07
+Ultrasound,71-80,Moderate,Bronze,1,139.95
+Ultrasound,71-80,Moderate,Bronze,3,133.27
+Ultrasound,71-80,Moderate,Bronze,5,147.7
+Ultrasound,71-80,Moderate,Silver,1,185.27
+Ultrasound,71-80,Moderate,Silver,3,178.67
+Ultrasound,71-80,Moderate,Silver,5,204.41
+Ultrasound,71-80,Moderate,Gold,1,241.26
+Ultrasound,71-80,Moderate,Gold,3,232.43
+Ultrasound,71-80,Moderate,Gold,5,268.79
+Ultrasound,71-80,Severe,Bronze,1,262.73
+Ultrasound,71-80,Severe,Bronze,3,268.16
+Ultrasound,71-80,Severe,Bronze,5,297.1
+Ultrasound,71-80,Severe,Silver,1,318.65
+Ultrasound,71-80,Severe,Silver,3,332.49
+Ultrasound,71-80,Severe,Silver,5,380.26
+Ultrasound,71-80,Severe,Gold,1,409.39
+Ultrasound,71-80,Severe,Gold,3,426.72
+Ultrasound,71-80,Severe,Gold,5,493.34
+Ultrasound,Above 80,Minor,Bronze,1,120.0
+Ultrasound,Above 80,Minor,Bronze,3,110.17
+Ultrasound,Above 80,Minor,Bronze,5,111.61
+Ultrasound,Above 80,Minor,Silver,1,162.93
+Ultrasound,Above 80,Minor,Silver,3,151.51
+Ultrasound,Above 80,Minor,Silver,5,158.48
+Ultrasound,Above 80,Minor,Gold,1,200.01
+Ultrasound,Above 80,Minor,Gold,3,185.82
+Ultrasound,Above 80,Minor,Gold,5,196.49
+Ultrasound,Above 80,Moderate,Bronze,1,195.81
+Ultrasound,Above 80,Moderate,Bronze,3,182.29
+Ultrasound,Above 80,Moderate,Bronze,5,200.51
+Ultrasound,Above 80,Moderate,Silver,1,263.14
+Ultrasound,Above 80,Moderate,Silver,3,248.09
+Ultrasound,Above 80,Moderate,Silver,5,281.7
+Ultrasound,Above 80,Moderate,Gold,1,329.69
+Ultrasound,Above 80,Moderate,Gold,3,310.53
+Ultrasound,Above 80,Moderate,Gold,5,356.42
+Ultrasound,Above 80,Severe,Bronze,1,352.2
+Ultrasound,Above 80,Severe,Bronze,3,351.43
+Ultrasound,Above 80,Severe,Bronze,5,386.47
+Ultrasound,Above 80,Severe,Silver,1,433.77
+Ultrasound,Above 80,Severe,Silver,3,442.46
+Ultrasound,Above 80,Severe,Silver,5,502.29
+Ultrasound,Above 80,Severe,Gold,1,577.08
+Ultrasound,Above 80,Severe,Gold,3,588.04
+Ultrasound,Above 80,Severe,Gold,5,674.8
